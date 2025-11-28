@@ -1,0 +1,4952 @@
+[
+  {
+    "id": 30002,
+    "title": {
+      "romaji": "Berserk",
+      "english": "Berserk"
+    },
+    "averageScore": 93,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Psychological"
+    ],
+    "startDate": {
+      "year": 1989
+    }
+  },
+  {
+    "id": 31706,
+    "title": {
+      "romaji": "JoJo no Kimyou na Bouken: Steel Ball Run",
+      "english": "JoJo's Bizarre Adventure: Part 7\u2013Steel Ball Run"
+    },
+    "averageScore": 92,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Mystery",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2004
+    }
+  },
+  {
+    "id": 30656,
+    "title": {
+      "romaji": "Vagabond",
+      "english": "Vagabond"
+    },
+    "averageScore": 92,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "startDate": {
+      "year": 1998
+    }
+  },
+  {
+    "id": 30013,
+    "title": {
+      "romaji": "ONE PIECE",
+      "english": "One Piece"
+    },
+    "averageScore": 91,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "startDate": {
+      "year": 1997
+    }
+  },
+  {
+    "id": 64053,
+    "title": {
+      "romaji": "Umineko no Naku Koro ni Chiru Episode 8: Twilight of the Golden Witch",
+      "english": "Umineko When They Cry Episode 8: Twilight of the Golden Witch"
+    },
+    "averageScore": 91,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2012
+    }
+  },
+  {
+    "id": 30001,
+    "title": {
+      "romaji": "MONSTER",
+      "english": "Monster"
+    },
+    "averageScore": 91,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Thriller"
+    ],
+    "startDate": {
+      "year": 1994
+    }
+  },
+  {
+    "id": 30642,
+    "title": {
+      "romaji": "Vinland Saga",
+      "english": "Vinland Saga"
+    },
+    "averageScore": 90,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "startDate": {
+      "year": 2005
+    }
+  },
+  {
+    "id": 30051,
+    "title": {
+      "romaji": "SLAM DUNK",
+      "english": "Slam Dunk"
+    },
+    "averageScore": 90,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sports"
+    ],
+    "startDate": {
+      "year": 1990
+    }
+  },
+  {
+    "id": 74489,
+    "title": {
+      "romaji": "Houseki no Kuni",
+      "english": "Land of the Lustrous"
+    },
+    "averageScore": 89,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "startDate": {
+      "year": 2012
+    }
+  },
+  {
+    "id": 30025,
+    "title": {
+      "romaji": "Hagane no Renkinjutsushi",
+      "english": "Fullmetal Alchemist"
+    },
+    "averageScore": 89,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "startDate": {
+      "year": 2001
+    }
+  },
+  {
+    "id": 110992,
+    "title": {
+      "romaji": "Fata Morgana no Yakata: Anata no Genten ni Itaru Monogatari",
+      "english": null
+    },
+    "averageScore": 89,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2014
+    }
+  },
+  {
+    "id": 30657,
+    "title": {
+      "romaji": "Real",
+      "english": "Real"
+    },
+    "averageScore": 89,
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Sports"
+    ],
+    "startDate": {
+      "year": 1999
+    }
+  },
+  {
+    "id": 140407,
+    "title": {
+      "romaji": "Yeokdaegeum Yeongji Seolgyesa",
+      "english": "The Greatest Estate Developer"
+    },
+    "averageScore": 89,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "startDate": {
+      "year": 2021
+    }
+  },
+  {
+    "id": 46765,
+    "title": {
+      "romaji": "Kingdom",
+      "english": "Kingdom"
+    },
+    "averageScore": 89,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "startDate": {
+      "year": 2006
+    }
+  },
+  {
+    "id": 113869,
+    "title": {
+      "romaji": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen Dai 5-bu - Megami no Keshin",
+      "english": "Ascendance of a Bookworm: Part 5"
+    },
+    "averageScore": 89,
+    "genres": [
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2020
+    }
+  },
+  {
+    "id": 87395,
+    "title": {
+      "romaji": "Grand Blue",
+      "english": "Grand Blue Dreaming"
+    },
+    "averageScore": 89,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life",
+      "Sports"
+    ],
+    "startDate": {
+      "year": 2014
+    }
+  },
+  {
+    "id": 65243,
+    "title": {
+      "romaji": "Haikyuu!!",
+      "english": "Haikyu!!"
+    },
+    "averageScore": 89,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sports"
+    ],
+    "startDate": {
+      "year": 2012
+    }
+  },
+  {
+    "id": 31303,
+    "title": {
+      "romaji": "Ashita no Joe",
+      "english": "Ashita no Joe: Fighting for Tomorrow"
+    },
+    "averageScore": 88,
+    "genres": [
+      "Drama",
+      "Slice of Life",
+      "Sports"
+    ],
+    "startDate": {
+      "year": 1968
+    }
+  },
+  {
+    "id": 135129,
+    "title": {
+      "romaji": "Vagabond: Saigo no Manga-ten",
+      "english": null
+    },
+    "averageScore": 88,
+    "genres": [
+      "Action",
+      "Drama",
+      "Psychological"
+    ],
+    "startDate": {
+      "year": 2008
+    }
+  },
+  {
+    "id": 30104,
+    "title": {
+      "romaji": "Yotsuba to!",
+      "english": "Yotsuba&!"
+    },
+    "averageScore": 88,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2003
+    }
+  },
+  {
+    "id": 98361,
+    "title": {
+      "romaji": "Mikkakan no Koufuku",
+      "english": "Three Days of Happiness"
+    },
+    "averageScore": 88,
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Romance",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2013
+    }
+  },
+  {
+    "id": 143701,
+    "title": {
+      "romaji": "Kizumonogatari",
+      "english": "Kizumonogatari: Wound Tale"
+    },
+    "averageScore": 88,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Romance",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2008
+    }
+  },
+  {
+    "id": 143726,
+    "title": {
+      "romaji": "Koimonogatari",
+      "english": "Koimonogatari: Love Tale"
+    },
+    "averageScore": 88,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Psychological",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2011
+    }
+  },
+  {
+    "id": 53751,
+    "title": {
+      "romaji": "Nekomonogatari: Shiro",
+      "english": "Nekomonogatari: Cat Tale (White)"
+    },
+    "averageScore": 88,
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Psychological",
+      "Romance",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2010
+    }
+  },
+  {
+    "id": 34632,
+    "title": {
+      "romaji": "Oyasumi Punpun",
+      "english": "Goodnight Punpun"
+    },
+    "averageScore": 88,
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2007
+    }
+  },
+  {
+    "id": 30028,
+    "title": {
+      "romaji": "NANA",
+      "english": "Nana"
+    },
+    "averageScore": 88,
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2000
+    }
+  },
+  {
+    "id": 98610,
+    "title": {
+      "romaji": "86: Eighty Six",
+      "english": "86\u2015EIGHTY-SIX"
+    },
+    "averageScore": 88,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "startDate": {
+      "year": 2017
+    }
+  },
+  {
+    "id": 30003,
+    "title": {
+      "romaji": "20 Seiki Shounen",
+      "english": "20th Century Boys"
+    },
+    "averageScore": 88,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "startDate": {
+      "year": 1999
+    }
+  },
+  {
+    "id": 140475,
+    "title": {
+      "romaji": "Kaoru Hana wa Rin to Saku",
+      "english": "The Fragrant Flower Blooms With Dignity"
+    },
+    "averageScore": 88,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "startDate": {
+      "year": 2021
+    }
+  },
+  {
+    "id": 30026,
+    "title": {
+      "romaji": "HUNTER\u00d7HUNTER",
+      "english": "Hunter x Hunter"
+    },
+    "averageScore": 88,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "startDate": {
+      "year": 1998
+    }
+  },
+  {
+    "id": 86635,
+    "title": {
+      "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+      "english": "Kaguya-sama: Love is War"
+    },
+    "averageScore": 88,
+    "genres": [
+      "Comedy",
+      "Psychological",
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2015
+    }
+  },
+  {
+    "id": 86082,
+    "title": {
+      "romaji": "Dungeon Meshi",
+      "english": "Delicious in Dungeon"
+    },
+    "averageScore": 88,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "startDate": {
+      "year": 2014
+    }
+  },
+  {
+    "id": 85470,
+    "title": {
+      "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+      "english": "Mushoku Tensei: Jobless Reincarnation"
+    },
+    "averageScore": 88,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Ecchi",
+      "Fantasy"
+    ],
+    "startDate": {
+      "year": 2014
+    }
+  },
+  {
+    "id": 31224,
+    "title": {
+      "romaji": "3-gatsu no Lion",
+      "english": "March Comes in Like a Lion"
+    },
+    "averageScore": 88,
+    "genres": [
+      "Drama",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2007
+    }
+  },
+  {
+    "id": 75143,
+    "title": {
+      "romaji": "Kono Oto Tomare!",
+      "english": null
+    },
+    "averageScore": 87,
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "startDate": {
+      "year": 2012
+    }
+  },
+  {
+    "id": 85737,
+    "title": {
+      "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+      "english": "Re:ZERO -Starting Life in Another World-"
+    },
+    "averageScore": 87,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Psychological",
+      "Romance",
+      "Thriller"
+    ],
+    "startDate": {
+      "year": 2014
+    }
+  },
+  {
+    "id": 53900,
+    "title": {
+      "romaji": "Umineko no Naku Koro ni Chiru Episode 7: Requiem of the Golden Witch",
+      "english": "Umineko When They Cry Episode 7: Requiem of the Golden Witch"
+    },
+    "averageScore": 87,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Supernatural",
+      "Thriller"
+    ],
+    "startDate": {
+      "year": 2011
+    }
+  },
+  {
+    "id": 44893,
+    "title": {
+      "romaji": "Bakemonogatari",
+      "english": "Bakemonogatari: Monster Tale"
+    },
+    "averageScore": 87,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Romance",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2006
+    }
+  },
+  {
+    "id": 143838,
+    "title": {
+      "romaji": "Kubishime Romanticist: Ningen Shikkaku - Zerozaki Hitoshiki",
+      "english": "Strangulation: Kubishime Romanticist"
+    },
+    "averageScore": 87,
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Psychological"
+    ],
+    "startDate": {
+      "year": 2002
+    }
+  },
+  {
+    "id": 37375,
+    "title": {
+      "romaji": "Kokou no Hito",
+      "english": "The Climber"
+    },
+    "averageScore": 87,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Psychological",
+      "Sports"
+    ],
+    "startDate": {
+      "year": 2007
+    }
+  },
+  {
+    "id": 85135,
+    "title": {
+      "romaji": "Koe no Katachi",
+      "english": "A Silent Voice"
+    },
+    "averageScore": 87,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2013
+    }
+  },
+  {
+    "id": 30007,
+    "title": {
+      "romaji": "Hajime no Ippo",
+      "english": "Hajime no Ippo: Fighting Spirit!"
+    },
+    "averageScore": 87,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Sports"
+    ],
+    "startDate": {
+      "year": 1989
+    }
+  },
+  {
+    "id": 118586,
+    "title": {
+      "romaji": "Sousou no Frieren",
+      "english": "Frieren: Beyond Journey\u2019s End"
+    },
+    "averageScore": 87,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "startDate": {
+      "year": 2020
+    }
+  },
+  {
+    "id": 116170,
+    "title": {
+      "romaji": "Veil",
+      "english": "Veil"
+    },
+    "averageScore": 87,
+    "genres": [
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2018
+    }
+  },
+  {
+    "id": 110802,
+    "title": {
+      "romaji": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen Dai 4-bu - Kizoku-in no Jishou Tosho Iin",
+      "english": "Ascendance of a Bookworm: Part 4"
+    },
+    "averageScore": 87,
+    "genres": [
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2017
+    }
+  },
+  {
+    "id": 51525,
+    "title": {
+      "romaji": "Akatsuki no Yona",
+      "english": "Yona of the Dawn"
+    },
+    "averageScore": 87,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "startDate": {
+      "year": 2009
+    }
+  },
+  {
+    "id": 112275,
+    "title": {
+      "romaji": "Tian Guan Ci Fu",
+      "english": "Heaven Official's Blessing"
+    },
+    "averageScore": 87,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "startDate": {
+      "year": 2019
+    }
+  },
+  {
+    "id": 118371,
+    "title": {
+      "romaji": "Medalist",
+      "english": "Medalist"
+    },
+    "averageScore": 87,
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Sports"
+    ],
+    "startDate": {
+      "year": 2020
+    }
+  },
+  {
+    "id": 39115,
+    "title": {
+      "romaji": "Ookami to Koushinryou",
+      "english": "Spice & Wolf"
+    },
+    "averageScore": 87,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Romance",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2006
+    }
+  },
+  {
+    "id": 143747,
+    "title": {
+      "romaji": "Owarimonogatari",
+      "english": "Owarimonogatari: End Tale"
+    },
+    "averageScore": 86,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Romance",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2013
+    }
+  },
+  {
+    "id": 99026,
+    "title": {
+      "romaji": "Kusuriya no Hitorigoto",
+      "english": "The Apothecary Diaries"
+    },
+    "averageScore": 86,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "startDate": {
+      "year": 2014
+    }
+  },
+  {
+    "id": 30336,
+    "title": {
+      "romaji": "GTO",
+      "english": "GTO: Great Teacher Onizuka"
+    },
+    "averageScore": 86,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Ecchi"
+    ],
+    "startDate": {
+      "year": 1997
+    }
+  },
+  {
+    "id": 30081,
+    "title": {
+      "romaji": "ARIA",
+      "english": "Aria"
+    },
+    "averageScore": 86,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Sci-Fi",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2002
+    }
+  },
+  {
+    "id": 143841,
+    "title": {
+      "romaji": "Hitokui Magical: Satsuriku Kijutsu no Niounomiya Kyoudai",
+      "english": null
+    },
+    "averageScore": 86,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Thriller"
+    ],
+    "startDate": {
+      "year": 2003
+    }
+  },
+  {
+    "id": 89278,
+    "title": {
+      "romaji": "Tobaku Datenroku Kaiji: One Poker-hen",
+      "english": null
+    },
+    "averageScore": 86,
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Thriller"
+    ],
+    "startDate": {
+      "year": 2013
+    }
+  },
+  {
+    "id": 43245,
+    "title": {
+      "romaji": "Chihayafuru",
+      "english": "Chihayafuru"
+    },
+    "averageScore": 86,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sports"
+    ],
+    "startDate": {
+      "year": 2007
+    }
+  },
+  {
+    "id": 30044,
+    "title": {
+      "romaji": "Gintama",
+      "english": "Gin Tama"
+    },
+    "averageScore": 86,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "startDate": {
+      "year": 2003
+    }
+  },
+  {
+    "id": 117620,
+    "title": {
+      "romaji": "Kimi to Tsuzuru Utakata",
+      "english": "The Summer You Were There"
+    },
+    "averageScore": 86,
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Romance"
+    ],
+    "startDate": {
+      "year": 2020
+    }
+  },
+  {
+    "id": 98263,
+    "title": {
+      "romaji": "Tongari Boushi no Atelier",
+      "english": "Witch Hat Atelier"
+    },
+    "averageScore": 86,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "startDate": {
+      "year": 2016
+    }
+  },
+  {
+    "id": 86559,
+    "title": {
+      "romaji": "Golden Kamuy",
+      "english": "Golden Kamuy"
+    },
+    "averageScore": 86,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "startDate": {
+      "year": 2014
+    }
+  },
+  {
+    "id": 187189,
+    "title": {
+      "romaji": "Eommareul Mannareo Ganeun Gil",
+      "english": "On the Way to Meet Mom"
+    },
+    "averageScore": 86,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2024
+    }
+  },
+  {
+    "id": 107279,
+    "title": {
+      "romaji": "Aoashi",
+      "english": "Aoashi"
+    },
+    "averageScore": 86,
+    "genres": [
+      "Sports"
+    ],
+    "startDate": {
+      "year": 2015
+    }
+  },
+  {
+    "id": 85412,
+    "title": {
+      "romaji": "Shoujo Shuumatsu Ryokou",
+      "english": "Girls' Last Tour"
+    },
+    "averageScore": 86,
+    "genres": [
+      "Adventure",
+      "Sci-Fi",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2014
+    }
+  },
+  {
+    "id": 119247,
+    "title": {
+      "romaji": "Uma Musume: Cinderella Gray",
+      "english": null
+    },
+    "averageScore": 86,
+    "genres": [
+      "Drama",
+      "Sports"
+    ],
+    "startDate": {
+      "year": 2020
+    }
+  },
+  {
+    "id": 94970,
+    "title": {
+      "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+      "english": "Classroom of the Elite"
+    },
+    "averageScore": 86,
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Slice of Life",
+      "Thriller"
+    ],
+    "startDate": {
+      "year": 2015
+    }
+  },
+  {
+    "id": 31133,
+    "title": {
+      "romaji": "Dorohedoro",
+      "english": "Dorohedoro"
+    },
+    "averageScore": 86,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Horror",
+      "Mystery"
+    ],
+    "startDate": {
+      "year": 2000
+    }
+  },
+  {
+    "id": 130080,
+    "title": {
+      "romaji": "Bungou Stray Dogs: STORM BRINGER",
+      "english": "Bungo Stray Dogs: Storm Bringer"
+    },
+    "averageScore": 86,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2021
+    }
+  },
+  {
+    "id": 39982,
+    "title": {
+      "romaji": "Usogui",
+      "english": null
+    },
+    "averageScore": 86,
+    "genres": [
+      "Action",
+      "Psychological",
+      "Thriller"
+    ],
+    "startDate": {
+      "year": 2006
+    }
+  },
+  {
+    "id": 30145,
+    "title": {
+      "romaji": "BECK",
+      "english": "BECK"
+    },
+    "averageScore": 86,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music",
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2000
+    }
+  },
+  {
+    "id": 115166,
+    "title": {
+      "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e: 2-nensei-hen",
+      "english": "Classroom of the Elite: Year 2"
+    },
+    "averageScore": 86,
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Thriller"
+    ],
+    "startDate": {
+      "year": 2020
+    }
+  },
+  {
+    "id": 109285,
+    "title": {
+      "romaji": "Skip to Loafer",
+      "english": "Skip and Loafer"
+    },
+    "averageScore": 86,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2018
+    }
+  },
+  {
+    "id": 54875,
+    "title": {
+      "romaji": "Shinyaku Toaru Majutsu no Index",
+      "english": "A Certain Magical Index NT"
+    },
+    "averageScore": 86,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "startDate": {
+      "year": 2011
+    }
+  },
+  {
+    "id": 44483,
+    "title": {
+      "romaji": "Uchuu Kyoudai",
+      "english": "Space Brothers"
+    },
+    "averageScore": 86,
+    "genres": [
+      "Sci-Fi",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2007
+    }
+  },
+  {
+    "id": 119257,
+    "title": {
+      "romaji": "Jeonjijeok Dokja Sijeom",
+      "english": "Omniscient Reader"
+    },
+    "averageScore": 86,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "startDate": {
+      "year": 2020
+    }
+  },
+  {
+    "id": 107237,
+    "title": {
+      "romaji": "Blue Period",
+      "english": "Blue Period"
+    },
+    "averageScore": 86,
+    "genres": [
+      "Drama",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2017
+    }
+  },
+  {
+    "id": 97553,
+    "title": {
+      "romaji": "Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.",
+      "english": null
+    },
+    "averageScore": 86,
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Romance",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2016
+    }
+  },
+  {
+    "id": 110801,
+    "title": {
+      "romaji": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen Dai 3-bu - Ryoushu no Youjo",
+      "english": "Ascendance of a Bookworm: Part 3"
+    },
+    "averageScore": 86,
+    "genres": [
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2016
+    }
+  },
+  {
+    "id": 106331,
+    "title": {
+      "romaji": "Ikoku Nikki",
+      "english": null
+    },
+    "averageScore": 86,
+    "genres": [
+      "Drama",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2017
+    }
+  },
+  {
+    "id": 86218,
+    "title": {
+      "romaji": "Yagate Kimi ni Naru",
+      "english": "Bloom Into You"
+    },
+    "averageScore": 86,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2015
+    }
+  },
+  {
+    "id": 30004,
+    "title": {
+      "romaji": "Yokohama Kaidashi Kikou",
+      "english": "Yokohama Kaidashi Kikou"
+    },
+    "averageScore": 86,
+    "genres": [
+      "Sci-Fi",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 1994
+    }
+  },
+  {
+    "id": 174875,
+    "title": {
+      "romaji": "Kimi ni Okuru Eien",
+      "english": null
+    },
+    "averageScore": 85,
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Romance"
+    ],
+    "startDate": {
+      "year": 2024
+    }
+  },
+  {
+    "id": 110800,
+    "title": {
+      "romaji": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen Dai 2-bu - Shinden no Miko Minarai",
+      "english": "Ascendance of a Bookworm: Part 2"
+    },
+    "averageScore": 85,
+    "genres": [
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2015
+    }
+  },
+  {
+    "id": 92936,
+    "title": {
+      "romaji": "Umineko no Naku Koro ni Chiru Episode 5: End of the Golden Witch",
+      "english": null
+    },
+    "averageScore": 85,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Mystery"
+    ],
+    "startDate": {
+      "year": 2012
+    }
+  },
+  {
+    "id": 86569,
+    "title": {
+      "romaji": "Diamond no Ace Act II",
+      "english": "Ace of the Diamond Act II"
+    },
+    "averageScore": 85,
+    "genres": [
+      "Slice of Life",
+      "Sports"
+    ],
+    "startDate": {
+      "year": 2015
+    }
+  },
+  {
+    "id": 114998,
+    "title": {
+      "romaji": "Bungou Stray Dogs BEAST",
+      "english": "Bungo Stray Dogs Beast"
+    },
+    "averageScore": 85,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2019
+    }
+  },
+  {
+    "id": 105778,
+    "title": {
+      "romaji": "Chainsaw Man",
+      "english": "Chainsaw Man"
+    },
+    "averageScore": 85,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Horror",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2018
+    }
+  },
+  {
+    "id": 99022,
+    "title": {
+      "romaji": "Kusuriya no Hitorigoto",
+      "english": "The Apothecary Diaries"
+    },
+    "averageScore": 85,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "startDate": {
+      "year": 2017
+    }
+  },
+  {
+    "id": 187944,
+    "title": {
+      "romaji": "Nae Choeaeneun Makchareul Tanda",
+      "english": "My Bias Gets on the Last Train"
+    },
+    "averageScore": 85,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "startDate": {
+      "year": 2024
+    }
+  },
+  {
+    "id": 119521,
+    "title": {
+      "romaji": "Bukgeom Jeongi",
+      "english": "The Legend of the Northern Blade"
+    },
+    "averageScore": 85,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "startDate": {
+      "year": 2019
+    }
+  },
+  {
+    "id": 106929,
+    "title": {
+      "romaji": "Eleceed",
+      "english": "Eleceed"
+    },
+    "averageScore": 85,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2018
+    }
+  },
+  {
+    "id": 30418,
+    "title": {
+      "romaji": "Mushishi",
+      "english": "Mushishi"
+    },
+    "averageScore": 85,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 1999
+    }
+  },
+  {
+    "id": 100568,
+    "title": {
+      "romaji": "Supyeongseon",
+      "english": "The Horizon"
+    },
+    "averageScore": 85,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Psychological"
+    ],
+    "startDate": {
+      "year": 2016
+    }
+  },
+  {
+    "id": 41054,
+    "title": {
+      "romaji": "Billy Bat",
+      "english": "Billy Bat"
+    },
+    "averageScore": 85,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Supernatural",
+      "Thriller"
+    ],
+    "startDate": {
+      "year": 2008
+    }
+  },
+  {
+    "id": 30651,
+    "title": {
+      "romaji": "Kaze no Tani no Nausica\u00e4",
+      "english": "Nausica\u00e4 of the Valley of the Wind"
+    },
+    "averageScore": 85,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "startDate": {
+      "year": 1982
+    }
+  },
+  {
+    "id": 85189,
+    "title": {
+      "romaji": "Mob Psycho 100",
+      "english": "Mob Psycho 100"
+    },
+    "averageScore": 85,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Psychological",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2012
+    }
+  },
+  {
+    "id": 74347,
+    "title": {
+      "romaji": "One Punch-Man",
+      "english": "One-Punch Man"
+    },
+    "averageScore": 85,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2012
+    }
+  },
+  {
+    "id": 70171,
+    "title": {
+      "romaji": "Yahari Ore no Seishun Love Come wa Machigatteiru.",
+      "english": "My Youth Romantic Comedy Is Wrong, As I Expected"
+    },
+    "averageScore": 85,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2011
+    }
+  },
+  {
+    "id": 31859,
+    "title": {
+      "romaji": "Natsume Yuujinchou",
+      "english": "Natsume's Book of Friends"
+    },
+    "averageScore": 85,
+    "genres": [
+      "Drama",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2003
+    }
+  },
+  {
+    "id": 30745,
+    "title": {
+      "romaji": "PLUTO",
+      "english": "Pluto"
+    },
+    "averageScore": 85,
+    "genres": [
+      "Drama",
+      "Mecha",
+      "Mystery",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "startDate": {
+      "year": 2003
+    }
+  },
+  {
+    "id": 146983,
+    "title": {
+      "romaji": "Sayonara Eri",
+      "english": "Goodbye, Eri"
+    },
+    "averageScore": 85,
+    "genres": [
+      "Drama",
+      "Psychological"
+    ],
+    "startDate": {
+      "year": 2022
+    }
+  },
+  {
+    "id": 100805,
+    "title": {
+      "romaji": "Here U Are",
+      "english": "Here U Are"
+    },
+    "averageScore": 85,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2017
+    }
+  },
+  {
+    "id": 86551,
+    "title": {
+      "romaji": "Made in Abyss",
+      "english": "Made in Abyss"
+    },
+    "averageScore": 85,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "startDate": {
+      "year": 2012
+    }
+  },
+  {
+    "id": 85849,
+    "title": {
+      "romaji": "ReLife",
+      "english": "ReLIFE"
+    },
+    "averageScore": 85,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Psychological",
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2013
+    }
+  },
+  {
+    "id": 126986,
+    "title": {
+      "romaji": "Jibi Eopseo",
+      "english": null
+    },
+    "averageScore": 85,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2018
+    }
+  },
+  {
+    "id": 123125,
+    "title": {
+      "romaji": "Bungou Stray Dogs BEAST",
+      "english": "Bungo Stray Dogs: BEAST"
+    },
+    "averageScore": 85,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2019
+    }
+  },
+  {
+    "id": 105388,
+    "title": {
+      "romaji": "Yagate Kimi ni Naru Saeki Sayaka ni Tsuite",
+      "english": "Bloom Into You: Regarding Saeki Sayaka"
+    },
+    "averageScore": 85,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "startDate": {
+      "year": 2018
+    }
+  },
+  {
+    "id": 86099,
+    "title": {
+      "romaji": "Wind Breaker",
+      "english": "Wind Breaker"
+    },
+    "averageScore": 85,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Sports"
+    ],
+    "startDate": {
+      "year": 2013
+    }
+  },
+  {
+    "id": 41514,
+    "title": {
+      "romaji": "Otoyomegatari",
+      "english": "A Bride's Story"
+    },
+    "averageScore": 85,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2008
+    }
+  },
+  {
+    "id": 30904,
+    "title": {
+      "romaji": "Kozure Ookami",
+      "english": "Lone Wolf and Cub"
+    },
+    "averageScore": 85,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "startDate": {
+      "year": 1970
+    }
+  },
+  {
+    "id": 121565,
+    "title": {
+      "romaji": "Cheongchun Blossom",
+      "english": "Seasons of Blossom"
+    },
+    "averageScore": 85,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "startDate": {
+      "year": 2020
+    }
+  },
+  {
+    "id": 87383,
+    "title": {
+      "romaji": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen Dai 1-bu - Heishi no Musume",
+      "english": "Ascendance of a Bookworm: Part 1"
+    },
+    "averageScore": 85,
+    "genres": [
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2015
+    }
+  },
+  {
+    "id": 132288,
+    "title": {
+      "romaji": "Hirayasumi",
+      "english": "Hirayasumi"
+    },
+    "averageScore": 85,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2021
+    }
+  },
+  {
+    "id": 91170,
+    "title": {
+      "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+      "english": "Rascal Does Not Dream of Bunny Girl Senpai"
+    },
+    "averageScore": 85,
+    "genres": [
+      "Comedy",
+      "Psychological",
+      "Romance",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2014
+    }
+  },
+  {
+    "id": 105398,
+    "title": {
+      "romaji": "Na Honjaman Level Up",
+      "english": "Solo Leveling"
+    },
+    "averageScore": 84,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "startDate": {
+      "year": 2018
+    }
+  },
+  {
+    "id": 51498,
+    "title": {
+      "romaji": "Umineko no Naku Koro ni Chiru Episode 5: End of the Golden Witch",
+      "english": "Umineko When They Cry Episode 5: End of the Golden Witch"
+    },
+    "averageScore": 84,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Mystery"
+    ],
+    "startDate": {
+      "year": 2010
+    }
+  },
+  {
+    "id": 30756,
+    "title": {
+      "romaji": "BANANA FISH",
+      "english": "Banana Fish"
+    },
+    "averageScore": 84,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Psychological",
+      "Thriller"
+    ],
+    "startDate": {
+      "year": 1985
+    }
+  },
+  {
+    "id": 143722,
+    "title": {
+      "romaji": "Otorimonogatari",
+      "english": "Otorimonogatari: Decoy Tale"
+    },
+    "averageScore": 84,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2011
+    }
+  },
+  {
+    "id": 85134,
+    "title": {
+      "romaji": "Utsuro no Hako to Zero no Maria",
+      "english": "The Empty Box and Zeroth Maria"
+    },
+    "averageScore": 84,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Psychological",
+      "Romance",
+      "Supernatural",
+      "Thriller"
+    ],
+    "startDate": {
+      "year": 2009
+    }
+  },
+  {
+    "id": 33031,
+    "title": {
+      "romaji": "Pandora Hearts",
+      "english": "Pandora Hearts"
+    },
+    "averageScore": 84,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2006
+    }
+  },
+  {
+    "id": 30102,
+    "title": {
+      "romaji": "Fruits Basket",
+      "english": "Fruits Basket"
+    },
+    "averageScore": 84,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Psychological",
+      "Romance",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 1998
+    }
+  },
+  {
+    "id": 132144,
+    "title": {
+      "romaji": "Hwasangwihwan",
+      "english": "Return of the Blossoming Blade"
+    },
+    "averageScore": 84,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "startDate": {
+      "year": 2021
+    }
+  },
+  {
+    "id": 110683,
+    "title": {
+      "romaji": "Shokei Shoujo no Virgin Road: Soshite, Kanojo wa Yomigaeru",
+      "english": "The Executioner and Her Way of Life"
+    },
+    "averageScore": 84,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "startDate": {
+      "year": 2019
+    }
+  },
+  {
+    "id": 99559,
+    "title": {
+      "romaji": "Nogi Wakaba wa Yuusha de Aru",
+      "english": null
+    },
+    "averageScore": 84,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Mahou Shoujo",
+      "Psychological"
+    ],
+    "startDate": {
+      "year": 2015
+    }
+  },
+  {
+    "id": 85976,
+    "title": {
+      "romaji": "Overlord",
+      "english": "Overlord"
+    },
+    "averageScore": 84,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Horror",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2012
+    }
+  },
+  {
+    "id": 85850,
+    "title": {
+      "romaji": "19 Tian",
+      "english": null
+    },
+    "averageScore": 84,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2014
+    }
+  },
+  {
+    "id": 55515,
+    "title": {
+      "romaji": "JoJo no Kimyou na Bouken: JoJolion",
+      "english": null
+    },
+    "averageScore": 84,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Mystery",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2011
+    }
+  },
+  {
+    "id": 94490,
+    "title": {
+      "romaji": "The Fable",
+      "english": "The Fable"
+    },
+    "averageScore": 84,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "startDate": {
+      "year": 2014
+    }
+  },
+  {
+    "id": 35744,
+    "title": {
+      "romaji": "Ping Pong",
+      "english": "Ping Pong"
+    },
+    "averageScore": 84,
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Sports"
+    ],
+    "startDate": {
+      "year": 1996
+    }
+  },
+  {
+    "id": 30698,
+    "title": {
+      "romaji": "Shin Seiki Evangelion",
+      "english": "Neon Genesis Evangelion"
+    },
+    "averageScore": 84,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mecha",
+      "Mystery",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "startDate": {
+      "year": 1994
+    }
+  },
+  {
+    "id": 101563,
+    "title": {
+      "romaji": "Modao Zushi",
+      "english": "Grandmaster of Demonic Cultivation: Mo Dao Zu Shi"
+    },
+    "averageScore": 84,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Mystery",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2017
+    }
+  },
+  {
+    "id": 98842,
+    "title": {
+      "romaji": "Jibaku Shounen Hanako-kun",
+      "english": "Toilet-Bound Hanako-kun"
+    },
+    "averageScore": 84,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Mystery",
+      "Romance",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2014
+    }
+  },
+  {
+    "id": 86890,
+    "title": {
+      "romaji": "BLUE GIANT",
+      "english": "Blue Giant"
+    },
+    "averageScore": 84,
+    "genres": [
+      "Drama",
+      "Music",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2013
+    }
+  },
+  {
+    "id": 33006,
+    "title": {
+      "romaji": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai",
+      "english": "JoJo's Bizarre Adventure Part 4: Diamond is Unbreakable"
+    },
+    "averageScore": 84,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 1992
+    }
+  },
+  {
+    "id": 30664,
+    "title": {
+      "romaji": "AKIRA",
+      "english": "Akira"
+    },
+    "averageScore": 84,
+    "genres": [
+      "Action",
+      "Horror",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "startDate": {
+      "year": 1982
+    }
+  },
+  {
+    "id": 143842,
+    "title": {
+      "romaji": "Nekosogi Radical",
+      "english": null
+    },
+    "averageScore": 84,
+    "genres": [
+      "Action",
+      "Drama",
+      "Psychological",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2005
+    }
+  },
+  {
+    "id": 136109,
+    "title": {
+      "romaji": "Amayo no Tsuki",
+      "english": "The Moon on a Rainy Night"
+    },
+    "averageScore": 84,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2021
+    }
+  },
+  {
+    "id": 86238,
+    "title": {
+      "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
+      "english": "Konosuba: God's Blessing on This Wonderful World!"
+    },
+    "averageScore": 84,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Ecchi",
+      "Fantasy",
+      "Romance"
+    ],
+    "startDate": {
+      "year": 2013
+    }
+  },
+  {
+    "id": 63327,
+    "title": {
+      "romaji": "Tokyo Ghoul",
+      "english": "Tokyo Ghoul"
+    },
+    "averageScore": 84,
+    "genres": [
+      "Action",
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2011
+    }
+  },
+  {
+    "id": 45547,
+    "title": {
+      "romaji": "Kiichi VS",
+      "english": "Kiichi VS"
+    },
+    "averageScore": 84,
+    "genres": [
+      "Drama",
+      "Psychological"
+    ],
+    "startDate": {
+      "year": 2007
+    }
+  },
+  {
+    "id": 106726,
+    "title": {
+      "romaji": "Shimeji Simulation",
+      "english": null
+    },
+    "averageScore": 84,
+    "genres": [
+      "Comedy",
+      "Psychological",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2019
+    }
+  },
+  {
+    "id": 74227,
+    "title": {
+      "romaji": "Tsukimonogatari",
+      "english": "Tsukimonogatari: Possession Tale"
+    },
+    "averageScore": 84,
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2012
+    }
+  },
+  {
+    "id": 51499,
+    "title": {
+      "romaji": "Umineko no Naku Koro ni Chiru Episode 6: Dawn of the Golden Witch",
+      "english": "Umineko When They Cry Episode 6: Dawn of the Golden Witch"
+    },
+    "averageScore": 84,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2010
+    }
+  },
+  {
+    "id": 108251,
+    "title": {
+      "romaji": "Umarekawattemo Mata, Watashi to Kekkon Shitekuremasu ka",
+      "english": null
+    },
+    "averageScore": 84,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "startDate": {
+      "year": 2017
+    }
+  },
+  {
+    "id": 53390,
+    "title": {
+      "romaji": "Shingeki no Kyojin",
+      "english": "Attack on Titan"
+    },
+    "averageScore": 84,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "startDate": {
+      "year": 2009
+    }
+  },
+  {
+    "id": 39726,
+    "title": {
+      "romaji": "Kubikiri Cycle: Aoiro Savant to Zaregotozukai",
+      "english": "Decapitation: Kubikiri Cycle"
+    },
+    "averageScore": 84,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Mystery",
+      "Psychological"
+    ],
+    "startDate": {
+      "year": 2002
+    }
+  },
+  {
+    "id": 38157,
+    "title": {
+      "romaji": "Kamisama Hajimemashita",
+      "english": "Kamisama Kiss"
+    },
+    "averageScore": 84,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2008
+    }
+  },
+  {
+    "id": 30021,
+    "title": {
+      "romaji": "DEATH NOTE",
+      "english": "Death Note"
+    },
+    "averageScore": 84,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Supernatural",
+      "Thriller"
+    ],
+    "startDate": {
+      "year": 2003
+    }
+  },
+  {
+    "id": 103192,
+    "title": {
+      "romaji": "blanc",
+      "english": "blanc"
+    },
+    "averageScore": 84,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2018
+    }
+  },
+  {
+    "id": 87208,
+    "title": {
+      "romaji": "Shimanami Tasogare",
+      "english": "Our Dreams at Dusk: Shimanami Tasogare"
+    },
+    "averageScore": 84,
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2015
+    }
+  },
+  {
+    "id": 86355,
+    "title": {
+      "romaji": "Tensei Shitara Slime Datta Ken",
+      "english": "That Time I Got Reincarnated as a Slime"
+    },
+    "averageScore": 84,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "startDate": {
+      "year": 2014
+    }
+  },
+  {
+    "id": 118408,
+    "title": {
+      "romaji": "Agyeogui Ending Jugeumppun",
+      "english": "Villains Are Destined to Die"
+    },
+    "averageScore": 84,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Psychological",
+      "Romance"
+    ],
+    "startDate": {
+      "year": 2020
+    }
+  },
+  {
+    "id": 98370,
+    "title": {
+      "romaji": "Sasaki to Miyano",
+      "english": "Sasaki and Miyano"
+    },
+    "averageScore": 84,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2016
+    }
+  },
+  {
+    "id": 66413,
+    "title": {
+      "romaji": "Hinamatsuri",
+      "english": "Hinamatsuri"
+    },
+    "averageScore": 84,
+    "genres": [
+      "Comedy",
+      "Sci-Fi",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2010
+    }
+  },
+  {
+    "id": 37482,
+    "title": {
+      "romaji": "RAINBOW: Nisha Rokubou no Shichinin",
+      "english": null
+    },
+    "averageScore": 84,
+    "genres": [
+      "Drama",
+      "Psychological"
+    ],
+    "startDate": {
+      "year": 2002
+    }
+  },
+  {
+    "id": 31342,
+    "title": {
+      "romaji": "Baccano!",
+      "english": "Baccano!"
+    },
+    "averageScore": 84,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2003
+    }
+  },
+  {
+    "id": 165131,
+    "title": {
+      "romaji": "Mushoku Tensei: Dasoku-hen",
+      "english": "Mushoku Tensei: Redundant Reincarnation"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Action",
+      "Drama",
+      "Ecchi",
+      "Fantasy"
+    ],
+    "startDate": {
+      "year": 2023
+    }
+  },
+  {
+    "id": 145163,
+    "title": {
+      "romaji": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+      "english": "Rascal Does Not Dream of a Dreaming Girl"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Comedy",
+      "Psychological",
+      "Romance",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2016
+    }
+  },
+  {
+    "id": 126399,
+    "title": {
+      "romaji": "Haruka Tooki Ie",
+      "english": "A Home Far Away"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "startDate": {
+      "year": 2020
+    }
+  },
+  {
+    "id": 117324,
+    "title": {
+      "romaji": "Nan Hao Shang Feng",
+      "english": null
+    },
+    "averageScore": 83,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2019
+    }
+  },
+  {
+    "id": 113533,
+    "title": {
+      "romaji": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
+      "english": "The Angel Next Door Spoils Me Rotten"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2019
+    }
+  },
+  {
+    "id": 111189,
+    "title": {
+      "romaji": "Yubisaki to Renren",
+      "english": "A Sign of Affection"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2019
+    }
+  },
+  {
+    "id": 92550,
+    "title": {
+      "romaji": "Adachi to Shimamura",
+      "english": "Adachi and Shimamura"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2012
+    }
+  },
+  {
+    "id": 87217,
+    "title": {
+      "romaji": "Innocent Rouge",
+      "english": "Innocent Rouge"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Drama",
+      "Psychological"
+    ],
+    "startDate": {
+      "year": 2015
+    }
+  },
+  {
+    "id": 85307,
+    "title": {
+      "romaji": "Bungou Stray Dogs",
+      "english": "Bungo Stray Dogs"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2012
+    }
+  },
+  {
+    "id": 33572,
+    "title": {
+      "romaji": "Tobaku Mokushiroku Kaiji",
+      "english": "Gambling Apocalypse Kaiji"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Thriller"
+    ],
+    "startDate": {
+      "year": 1996
+    }
+  },
+  {
+    "id": 33571,
+    "title": {
+      "romaji": "Ten: Tenhou-doori no Kaidanji",
+      "english": null
+    },
+    "averageScore": 83,
+    "genres": [
+      "Drama",
+      "Psychological"
+    ],
+    "startDate": {
+      "year": 1989
+    }
+  },
+  {
+    "id": 107521,
+    "title": {
+      "romaji": "Eoneu Nal Gongjuga Doeeobeoryeotda",
+      "english": "Who Made Me a Princess"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "startDate": {
+      "year": 2017
+    }
+  },
+  {
+    "id": 68071,
+    "title": {
+      "romaji": "Spirit Circle",
+      "english": "Spirit Circle"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Romance",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2012
+    }
+  },
+  {
+    "id": 30399,
+    "title": {
+      "romaji": "Kino no Tabi: the Beautiful World",
+      "english": "Kino's Journey: The Beautiful World"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "startDate": {
+      "year": 2000
+    }
+  },
+  {
+    "id": 171729,
+    "title": {
+      "romaji": "LOVE-BULLET",
+      "english": "Love Bullet"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2023
+    }
+  },
+  {
+    "id": 143763,
+    "title": {
+      "romaji": "Nademonogatari",
+      "english": null
+    },
+    "averageScore": 83,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Mystery",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2016
+    }
+  },
+  {
+    "id": 136807,
+    "title": {
+      "romaji": "Look Back",
+      "english": "Look Back"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Drama",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2021
+    }
+  },
+  {
+    "id": 86568,
+    "title": {
+      "romaji": "Vanitas no Carte",
+      "english": "The Case Study of Vanitas"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2015
+    }
+  },
+  {
+    "id": 86036,
+    "title": {
+      "romaji": "SHIORI EXPERIENCE: Jimi na Watashi to Hen na Ojisan",
+      "english": null
+    },
+    "averageScore": 83,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ],
+    "startDate": {
+      "year": 2013
+    }
+  },
+  {
+    "id": 74307,
+    "title": {
+      "romaji": "Kakukaku Shikajika",
+      "english": "Blank Canvas: My So-Called Artist's Journey"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Drama",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2011
+    }
+  },
+  {
+    "id": 48200,
+    "title": {
+      "romaji": "Sotsugyousei",
+      "english": "Classmates"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2007
+    }
+  },
+  {
+    "id": 30042,
+    "title": {
+      "romaji": "Dragon Ball",
+      "english": "Dragon Ball"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 1984
+    }
+  },
+  {
+    "id": 145164,
+    "title": {
+      "romaji": "Seishun Buta Yarou wa Hatsukoi Shoujo no Yume wo Minai",
+      "english": "Rascal Does Not Dream of His First Love"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Psychological",
+      "Romance",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2016
+    }
+  },
+  {
+    "id": 123117,
+    "title": {
+      "romaji": "Bungou Stray Dogs: Dazai Osamu to Kuro no Jidai",
+      "english": "Bungo Stray Dogs: Osamu Dazai and The Dark Era"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2014
+    }
+  },
+  {
+    "id": 119174,
+    "title": {
+      "romaji": "The Boxer",
+      "english": "The Boxer"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sports"
+    ],
+    "startDate": {
+      "year": 2019
+    }
+  },
+  {
+    "id": 109921,
+    "title": {
+      "romaji": "Kieta Hatsukoi",
+      "english": "My Love Mix-Up!"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "startDate": {
+      "year": 2019
+    }
+  },
+  {
+    "id": 86964,
+    "title": {
+      "romaji": "Hurejasik",
+      "english": "Bastard"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Romance",
+      "Thriller"
+    ],
+    "startDate": {
+      "year": 2014
+    }
+  },
+  {
+    "id": 30214,
+    "title": {
+      "romaji": "Kidou Senshi Gundam: The Origin",
+      "english": "Mobile Suit Gundam: The Origin"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "startDate": {
+      "year": 2001
+    }
+  },
+  {
+    "id": 108556,
+    "title": {
+      "romaji": "SPY\u00d7FAMILY",
+      "english": "SPY x FAMILY"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2019
+    }
+  },
+  {
+    "id": 98544,
+    "title": {
+      "romaji": "Yuukoku no Moriarty",
+      "english": "Moriarty the Patriot"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Mystery",
+      "Psychological",
+      "Thriller"
+    ],
+    "startDate": {
+      "year": 2016
+    }
+  },
+  {
+    "id": 87347,
+    "title": {
+      "romaji": "Given",
+      "english": "Given"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2013
+    }
+  },
+  {
+    "id": 50006,
+    "title": {
+      "romaji": "Fate/strange Fake",
+      "english": null
+    },
+    "averageScore": 83,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Mystery",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2015
+    }
+  },
+  {
+    "id": 159441,
+    "title": {
+      "romaji": "Pick Me Up!",
+      "english": "Pick Me Up"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "startDate": {
+      "year": 2022
+    }
+  },
+  {
+    "id": 149544,
+    "title": {
+      "romaji": "Ki ni Natteru Hito ga Otoko Janakatta",
+      "english": "The Guy She Was Interested In Wasn't a Guy at All"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Music",
+      "Romance"
+    ],
+    "startDate": {
+      "year": 2022
+    }
+  },
+  {
+    "id": 129574,
+    "title": {
+      "romaji": "1-nichi Go ni Shinu Gorilla",
+      "english": null
+    },
+    "averageScore": 83,
+    "genres": [
+      "Comedy"
+    ],
+    "startDate": {
+      "year": 2021
+    }
+  },
+  {
+    "id": 98351,
+    "title": {
+      "romaji": "Yuru Camp\u25b3",
+      "english": "Laid-Back Camp"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2015
+    }
+  },
+  {
+    "id": 33299,
+    "title": {
+      "romaji": "Ookami to Koushinryou",
+      "english": "Spice & Wolf"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Romance",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2007
+    }
+  },
+  {
+    "id": 33082,
+    "title": {
+      "romaji": "Nichijou",
+      "english": "Nichijou"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2006
+    }
+  },
+  {
+    "id": 31325,
+    "title": {
+      "romaji": "Hi no Tori",
+      "english": "Phoenix"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "startDate": {
+      "year": 1966
+    }
+  },
+  {
+    "id": 132029,
+    "title": {
+      "romaji": "Dandadan",
+      "english": "Dandadan"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2021
+    }
+  },
+  {
+    "id": 110473,
+    "title": {
+      "romaji": "Kimi wa Houkago Insomnia",
+      "english": "Insomniacs After School"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2019
+    }
+  },
+  {
+    "id": 108428,
+    "title": {
+      "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+      "english": "The Eminence in Shadow"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "startDate": {
+      "year": 2018
+    }
+  },
+  {
+    "id": 108027,
+    "title": {
+      "romaji": "Hirano to Kagiura",
+      "english": "Hirano and Kagiura"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2019
+    }
+  },
+  {
+    "id": 101131,
+    "title": {
+      "romaji": "Toshokan no Daimajutsushi",
+      "english": "Magus of the Library"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "startDate": {
+      "year": 2017
+    }
+  },
+  {
+    "id": 99609,
+    "title": {
+      "romaji": "Kimi no Suizou wo Tabetai",
+      "english": "I Want to Eat Your Pancreas"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2016
+    }
+  },
+  {
+    "id": 99324,
+    "title": {
+      "romaji": "Mairimashita! Iruma-kun",
+      "english": "Welcome to Demon School! Iruma-kun"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "startDate": {
+      "year": 2017
+    }
+  },
+  {
+    "id": 47051,
+    "title": {
+      "romaji": "Barakamon",
+      "english": "Barakamon"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2008
+    }
+  },
+  {
+    "id": 41327,
+    "title": {
+      "romaji": "One Outs",
+      "english": null
+    },
+    "averageScore": 83,
+    "genres": [
+      "Psychological",
+      "Sports"
+    ],
+    "startDate": {
+      "year": 1998
+    }
+  },
+  {
+    "id": 33083,
+    "title": {
+      "romaji": "Suzumiya Haruhi no Yuuutsu",
+      "english": "The Melancholy of Haruhi Suzumiya"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Comedy",
+      "Psychological",
+      "Sci-Fi",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2003
+    }
+  },
+  {
+    "id": 30658,
+    "title": {
+      "romaji": "Mugen no Juunin",
+      "english": "Blade of the Immortal"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 1993
+    }
+  },
+  {
+    "id": 177706,
+    "title": {
+      "romaji": "Oneulman Saneun Gisa",
+      "english": "The Knight Only Lives Today"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "startDate": {
+      "year": 2024
+    }
+  },
+  {
+    "id": 108551,
+    "title": {
+      "romaji": "Mystery to Iunakare",
+      "english": "Don't Call it Mystery"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "startDate": {
+      "year": 2017
+    }
+  },
+  {
+    "id": 97298,
+    "title": {
+      "romaji": "Violet Evergarden",
+      "english": null
+    },
+    "averageScore": 83,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "startDate": {
+      "year": 2015
+    }
+  },
+  {
+    "id": 85611,
+    "title": {
+      "romaji": "Tokyo Ghoul:re",
+      "english": "Tokyo Ghoul:re"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2014
+    }
+  },
+  {
+    "id": 33649,
+    "title": {
+      "romaji": "Fate/Zero",
+      "english": null
+    },
+    "averageScore": 83,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "startDate": {
+      "year": 2006
+    }
+  },
+  {
+    "id": 33573,
+    "title": {
+      "romaji": "Tobaku Hakairoku Kaiji",
+      "english": null
+    },
+    "averageScore": 83,
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Thriller"
+    ],
+    "startDate": {
+      "year": 2000
+    }
+  },
+  {
+    "id": 31218,
+    "title": {
+      "romaji": "Akagi: Yami ni Oritatta Tensai",
+      "english": null
+    },
+    "averageScore": 83,
+    "genres": [
+      "Action",
+      "Drama",
+      "Psychological"
+    ],
+    "startDate": {
+      "year": 1992
+    }
+  },
+  {
+    "id": 31183,
+    "title": {
+      "romaji": "Cross Game",
+      "english": "Cross Game"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Sports"
+    ],
+    "startDate": {
+      "year": 2005
+    }
+  },
+  {
+    "id": 30660,
+    "title": {
+      "romaji": "Versailles no Bara",
+      "english": "The Rose of Versailles"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "startDate": {
+      "year": 1972
+    }
+  },
+  {
+    "id": 143079,
+    "title": {
+      "romaji": "Kimi no Yoru ni Fureru",
+      "english": "Touch Within the Abyss"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Romance"
+    ],
+    "startDate": {
+      "year": 2021
+    }
+  },
+  {
+    "id": 134191,
+    "title": {
+      "romaji": "Segimal Putsagwa Boseupagwon",
+      "english": "After School Lessons for Unripe Apples"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2020
+    }
+  },
+  {
+    "id": 113891,
+    "title": {
+      "romaji": "Souyaku Toaru Majutsu no Index",
+      "english": null
+    },
+    "averageScore": 83,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "startDate": {
+      "year": 2020
+    }
+  },
+  {
+    "id": 105747,
+    "title": {
+      "romaji": "Mata, Onaji Yume wo Miteita",
+      "english": "I Had That Same Dream Again"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2017
+    }
+  },
+  {
+    "id": 104241,
+    "title": {
+      "romaji": "Tsukiatte Agete mo Ii ka na",
+      "english": "How Do We Relationship?"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2018
+    }
+  },
+  {
+    "id": 45306,
+    "title": {
+      "romaji": "Takemitsu Zamurai",
+      "english": null
+    },
+    "averageScore": 83,
+    "genres": [
+      "Drama",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2006
+    }
+  },
+  {
+    "id": 30936,
+    "title": {
+      "romaji": "Homunculus",
+      "english": "Homunculus"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2003
+    }
+  },
+  {
+    "id": 168843,
+    "title": {
+      "romaji": "Xiao Mogu",
+      "english": "Little Mushroom"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "startDate": {
+      "year": 2023
+    }
+  },
+  {
+    "id": 116219,
+    "title": {
+      "romaji": "Shinai naru Gene e",
+      "english": null
+    },
+    "averageScore": 83,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "startDate": {
+      "year": 2019
+    }
+  },
+  {
+    "id": 109206,
+    "title": {
+      "romaji": "Watashi no Oshi wa Akuyaku Reijou.",
+      "english": "I\u2019m in Love with the Villainess"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "startDate": {
+      "year": 2019
+    }
+  },
+  {
+    "id": 86406,
+    "title": {
+      "romaji": "Kumo desu ga, Nani ka?",
+      "english": "So I'm a Spider, So What?"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "startDate": {
+      "year": 2015
+    }
+  },
+  {
+    "id": 65513,
+    "title": {
+      "romaji": "Hyouka",
+      "english": null
+    },
+    "averageScore": 83,
+    "genres": [
+      "Mystery",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2001
+    }
+  },
+  {
+    "id": 36812,
+    "title": {
+      "romaji": "Kyou kara Ore wa!!",
+      "english": null
+    },
+    "averageScore": 83,
+    "genres": [
+      "Comedy"
+    ],
+    "startDate": {
+      "year": 1988
+    }
+  },
+  {
+    "id": 30974,
+    "title": {
+      "romaji": "BASARA",
+      "english": "Basara"
+    },
+    "averageScore": 83,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "startDate": {
+      "year": 1990
+    }
+  },
+  {
+    "id": 173062,
+    "title": {
+      "romaji": "Houkago Kitaku Biyori",
+      "english": null
+    },
+    "averageScore": 82,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2023
+    }
+  },
+  {
+    "id": 168509,
+    "title": {
+      "romaji": "Hae Tteuneun Jip",
+      "english": "Our Sunny Days"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2023
+    }
+  },
+  {
+    "id": 146749,
+    "title": {
+      "romaji": "Umineko no Naku Koro ni Chiru Episode 8: Twilight of the Golden Witch",
+      "english": null
+    },
+    "averageScore": 82,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2018
+    }
+  },
+  {
+    "id": 128067,
+    "title": {
+      "romaji": "SSS-geup Jugeoya Saneun Hunter",
+      "english": "SSS-Class Revival Hunter"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2020
+    }
+  },
+  {
+    "id": 101311,
+    "title": {
+      "romaji": "Bakemonogatari",
+      "english": "Bakemonogatari"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Mystery",
+      "Romance",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2018
+    }
+  },
+  {
+    "id": 98741,
+    "title": {
+      "romaji": "Majo no Tabitabi",
+      "english": "Wandering Witch: The Journey of Elaina"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2016
+    }
+  },
+  {
+    "id": 87350,
+    "title": {
+      "romaji": "Ohayou, Ibarahime",
+      "english": "Wake up, Sleeping Beauty"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2014
+    }
+  },
+  {
+    "id": 87284,
+    "title": {
+      "romaji": "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?",
+      "english": "WorldEnd: What Do You Do at the End of the World? Are You Busy? Will You Save Us?"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2014
+    }
+  },
+  {
+    "id": 86717,
+    "title": {
+      "romaji": "Wotaku ni Koi wa Muzukashii",
+      "english": "Wotakoi: Love is Hard for Otaku"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2014
+    }
+  },
+  {
+    "id": 30030,
+    "title": {
+      "romaji": "Ouran Koukou Host Club",
+      "english": "Ouran High School Host Club"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2002
+    }
+  },
+  {
+    "id": 148305,
+    "title": {
+      "romaji": "Akuyaku Reijou no Naka no Hito: Danzai Sareta Tenseisha no Tame Usotsuki Heroine ni Fukushuu Itashimasu",
+      "english": null
+    },
+    "averageScore": 82,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "startDate": {
+      "year": 2021
+    }
+  },
+  {
+    "id": 138603,
+    "title": {
+      "romaji": "Hikaru ga Shinda Natsu",
+      "english": "The Summer Hikaru Died"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Supernatural",
+      "Thriller"
+    ],
+    "startDate": {
+      "year": 2021
+    }
+  },
+  {
+    "id": 86399,
+    "title": {
+      "romaji": "Tensei Shitara Slime Datta Ken",
+      "english": "That Time I Got Reincarnated as a Slime"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "startDate": {
+      "year": 2015
+    }
+  },
+  {
+    "id": 59211,
+    "title": {
+      "romaji": "Gekkan Shoujo Nozaki-kun",
+      "english": "Monthly Girls' Nozaki-kun"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "startDate": {
+      "year": 2011
+    }
+  },
+  {
+    "id": 56704,
+    "title": {
+      "romaji": "Shouwa Genroku Rakugo Shinjuu",
+      "english": "Descending Stories: Showa Genroku Rakugo Shinju"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Drama"
+    ],
+    "startDate": {
+      "year": 2010
+    }
+  },
+  {
+    "id": 46144,
+    "title": {
+      "romaji": "Umineko no Naku Koro ni Episode 4: Alliance of the Golden Witch",
+      "english": "Umineko When They Cry Episode 4: Alliance of the Golden Witch"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Psychological"
+    ],
+    "startDate": {
+      "year": 2009
+    }
+  },
+  {
+    "id": 33575,
+    "title": {
+      "romaji": "Saikyou Densetsu Kurosawa",
+      "english": "The Legend of the Strongest, Kurosawa!"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Psychological"
+    ],
+    "startDate": {
+      "year": 2003
+    }
+  },
+  {
+    "id": 169272,
+    "title": {
+      "romaji": "Mayonaka Heart Tune",
+      "english": "Tune In to the Midnight Heart"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "startDate": {
+      "year": 2023
+    }
+  },
+  {
+    "id": 138705,
+    "title": {
+      "romaji": "Suyo Webtoon-ui Na Kang-Rim",
+      "english": null
+    },
+    "averageScore": 82,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "startDate": {
+      "year": 2021
+    }
+  },
+  {
+    "id": 130429,
+    "title": {
+      "romaji": "Ibeon Saengeun Gajuga Doegetseumnida",
+      "english": "I Shall Master this Family!"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "startDate": {
+      "year": 2021
+    }
+  },
+  {
+    "id": 106130,
+    "title": {
+      "romaji": "Blue Lock",
+      "english": "Blue Lock"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sports"
+    ],
+    "startDate": {
+      "year": 2018
+    }
+  },
+  {
+    "id": 86770,
+    "title": {
+      "romaji": "Totsukuni no Shoujo",
+      "english": "The Girl From the Other Side: Si\u00fail, a R\u00fan"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "startDate": {
+      "year": 2015
+    }
+  },
+  {
+    "id": 67707,
+    "title": {
+      "romaji": "Shigatsu wa Kimi no Uso",
+      "english": "Your Lie in April"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2011
+    }
+  },
+  {
+    "id": 42854,
+    "title": {
+      "romaji": "Toaru Majutsu no Index",
+      "english": "A Certain Magical Index"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "startDate": {
+      "year": 2004
+    }
+  },
+  {
+    "id": 40443,
+    "title": {
+      "romaji": "Bakuon Rettou",
+      "english": null
+    },
+    "averageScore": 82,
+    "genres": [
+      "Action",
+      "Drama",
+      "Psychological"
+    ],
+    "startDate": {
+      "year": 2002
+    }
+  },
+  {
+    "id": 35249,
+    "title": {
+      "romaji": "NHK ni Youkoso!",
+      "english": "Welcome to the N.H.K."
+    },
+    "averageScore": 82,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Psychological",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2002
+    }
+  },
+  {
+    "id": 33378,
+    "title": {
+      "romaji": "Kimi ni Todoke",
+      "english": "Kimi ni Todoke: From Me to You"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2006
+    }
+  },
+  {
+    "id": 31061,
+    "title": {
+      "romaji": "Meitantei Conan",
+      "english": "Case Closed"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Mystery",
+      "Romance"
+    ],
+    "startDate": {
+      "year": 1994
+    }
+  },
+  {
+    "id": 30869,
+    "title": {
+      "romaji": "Konjiki no Gash!!",
+      "english": "Zatch Bell!"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "startDate": {
+      "year": 2001
+    }
+  },
+  {
+    "id": 131640,
+    "title": {
+      "romaji": "Cloud",
+      "english": "Lost in the Cloud"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2020
+    }
+  },
+  {
+    "id": 104063,
+    "title": {
+      "romaji": "Shadows House",
+      "english": "Shadows House"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Mystery",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2018
+    }
+  },
+  {
+    "id": 104045,
+    "title": {
+      "romaji": "Kimi ga Shinu made Koi wo Shitai",
+      "english": "I Want to Love You Till Your Dying Day"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "startDate": {
+      "year": 2018
+    }
+  },
+  {
+    "id": 85364,
+    "title": {
+      "romaji": "One Punch Man",
+      "english": null
+    },
+    "averageScore": 82,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2009
+    }
+  },
+  {
+    "id": 72451,
+    "title": {
+      "romaji": "Horimiya",
+      "english": "Horimiya"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2011
+    }
+  },
+  {
+    "id": 30743,
+    "title": {
+      "romaji": "21 Seiki Shounen",
+      "english": "21st Century Boys"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "startDate": {
+      "year": 2006
+    }
+  },
+  {
+    "id": 30610,
+    "title": {
+      "romaji": "Skip Beat!",
+      "english": "Skip Beat!"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "startDate": {
+      "year": 2002
+    }
+  },
+  {
+    "id": 138711,
+    "title": {
+      "romaji": "Yuki no Yousei",
+      "english": "Snow Fairy"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Romance"
+    ],
+    "startDate": {
+      "year": 2021
+    }
+  },
+  {
+    "id": 117853,
+    "title": {
+      "romaji": "Natsu e no Tunnel, Sayonara no Deguchi",
+      "english": "The Tunnel to Summer, the Exit of Goodbyes"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2019
+    }
+  },
+  {
+    "id": 78347,
+    "title": {
+      "romaji": "Ballroom e Youkoso",
+      "english": "Welcome to the Ballroom"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sports"
+    ],
+    "startDate": {
+      "year": 2011
+    }
+  },
+  {
+    "id": 67755,
+    "title": {
+      "romaji": "Saiki Kusuo no \u03a8-nan",
+      "english": null
+    },
+    "averageScore": 82,
+    "genres": [
+      "Comedy",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2012
+    }
+  },
+  {
+    "id": 46081,
+    "title": {
+      "romaji": "Umineko no Naku Koro ni Episode 3: Banquet of the Golden Witch",
+      "english": "Umineko When They Cry Episode 3: Banquet of the Golden Witch"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Psychological"
+    ],
+    "startDate": {
+      "year": 2009
+    }
+  },
+  {
+    "id": 32895,
+    "title": {
+      "romaji": "Piano no Mori",
+      "english": "Forest of Piano"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "startDate": {
+      "year": 1998
+    }
+  },
+  {
+    "id": 30043,
+    "title": {
+      "romaji": "Eyeshield 21",
+      "english": "Eyeshield 21"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Comedy",
+      "Sports"
+    ],
+    "startDate": {
+      "year": 2002
+    }
+  },
+  {
+    "id": 30010,
+    "title": {
+      "romaji": "xxxHolic",
+      "english": "xxxHOLiC"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Mystery",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2003
+    }
+  },
+  {
+    "id": 143003,
+    "title": {
+      "romaji": "Naje Tteuneun Byeol",
+      "english": "Daytime Star"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "startDate": {
+      "year": 2021
+    }
+  },
+  {
+    "id": 123126,
+    "title": {
+      "romaji": "Bungou Stray Dogs: Dazai, Chuuya, Juugosai",
+      "english": "Bungo Stray Dogs: Dazai, Chuuya, Age Fifteen"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2019
+    }
+  },
+  {
+    "id": 111258,
+    "title": {
+      "romaji": "Bocchi the Rock!",
+      "english": "Bocchi the Rock!"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Comedy",
+      "Music",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2018
+    }
+  },
+  {
+    "id": 104533,
+    "title": {
+      "romaji": "Bareunyeonae Giljabi",
+      "english": "Romance 101"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2018
+    }
+  },
+  {
+    "id": 85734,
+    "title": {
+      "romaji": "Tamen De Gushi",
+      "english": null
+    },
+    "averageScore": 82,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2014
+    }
+  },
+  {
+    "id": 63031,
+    "title": {
+      "romaji": "Imawa no Kuni no Alice",
+      "english": "Alice in Borderland"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror",
+      "Psychological",
+      "Supernatural",
+      "Thriller"
+    ],
+    "startDate": {
+      "year": 2010
+    }
+  },
+  {
+    "id": 58393,
+    "title": {
+      "romaji": "Sakamichi no Apollon",
+      "english": null
+    },
+    "averageScore": 82,
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2007
+    }
+  },
+  {
+    "id": 33285,
+    "title": {
+      "romaji": "Holyland",
+      "english": null
+    },
+    "averageScore": 82,
+    "genres": [
+      "Action",
+      "Psychological"
+    ],
+    "startDate": {
+      "year": 2000
+    }
+  },
+  {
+    "id": 30443,
+    "title": {
+      "romaji": "MARS",
+      "english": "Mars"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Romance",
+      "Thriller"
+    ],
+    "startDate": {
+      "year": 1996
+    }
+  },
+  {
+    "id": 153007,
+    "title": {
+      "romaji": "Sensou Kyoushitsu",
+      "english": "The Bugle Call: Song of War"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Psychological"
+    ],
+    "startDate": {
+      "year": 2022
+    }
+  },
+  {
+    "id": 145162,
+    "title": {
+      "romaji": "Seishun Buta Yarou wa Orusuban Imouto no Yume wo Minai",
+      "english": "Rascal Does Not Dream of a Sister Home Alone"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Comedy",
+      "Psychological",
+      "Romance",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2015
+    }
+  },
+  {
+    "id": 114328,
+    "title": {
+      "romaji": "Hidamari ga Kikoeru: Limit",
+      "english": "I Hear the Sunspot: Limit"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2016
+    }
+  },
+  {
+    "id": 104677,
+    "title": {
+      "romaji": "Geunyeoui Simcheong",
+      "english": "Her Tale of Shim Chong"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "startDate": {
+      "year": 2017
+    }
+  },
+  {
+    "id": 100094,
+    "title": {
+      "romaji": "Chichi to Hige-Gorilla to Watashi",
+      "english": null
+    },
+    "averageScore": 82,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2011
+    }
+  },
+  {
+    "id": 40884,
+    "title": {
+      "romaji": "Diamond no Ace",
+      "english": "Ace of the Diamond"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Sports"
+    ],
+    "startDate": {
+      "year": 2006
+    }
+  },
+  {
+    "id": 30085,
+    "title": {
+      "romaji": "Azumanga Daiou",
+      "english": "Azumanga Daioh"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 1999
+    }
+  },
+  {
+    "id": 30022,
+    "title": {
+      "romaji": "Rurouni Kenshin: Meiji Kenkaku Romantan",
+      "english": "Rurouni Kenshin"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Romance"
+    ],
+    "startDate": {
+      "year": 1994
+    }
+  },
+  {
+    "id": 120980,
+    "title": {
+      "romaji": "Nano Machine",
+      "english": "Nano Machine"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "startDate": {
+      "year": 2020
+    }
+  },
+  {
+    "id": 97701,
+    "title": {
+      "romaji": "Machida-kun no Sekai",
+      "english": null
+    },
+    "averageScore": 82,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2015
+    }
+  },
+  {
+    "id": 87262,
+    "title": {
+      "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu Ex",
+      "english": "Re:ZERO -Starting Life in Another World- Ex"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "startDate": {
+      "year": 2015
+    }
+  },
+  {
+    "id": 55096,
+    "title": {
+      "romaji": "Gin no Saji",
+      "english": "Silver Spoon"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2011
+    }
+  },
+  {
+    "id": 53571,
+    "title": {
+      "romaji": "Sunny",
+      "english": "Sunny"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2010
+    }
+  },
+  {
+    "id": 36164,
+    "title": {
+      "romaji": "My Girl",
+      "english": null
+    },
+    "averageScore": 82,
+    "genres": [
+      "Drama",
+      "Slice of Life"
+    ],
+    "startDate": {
+      "year": 2006
+    }
+  },
+  {
+    "id": 31414,
+    "title": {
+      "romaji": "SKET DANCE",
+      "english": null
+    },
+    "averageScore": 82,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "startDate": {
+      "year": 2007
+    }
+  },
+  {
+    "id": 31111,
+    "title": {
+      "romaji": "Buddha",
+      "english": "Buddha"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Psychological",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 1972
+    }
+  },
+  {
+    "id": 30401,
+    "title": {
+      "romaji": "Kiseijuu",
+      "english": "Parasyte"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "startDate": {
+      "year": 1989
+    }
+  },
+  {
+    "id": 100932,
+    "title": {
+      "romaji": "2-ban Lee Hui-Su",
+      "english": "Heesu in Class 2"
+    },
+    "averageScore": 82,
+    "genres": [
+      "Romance"
+    ],
+    "startDate": {
+      "year": 2017
+    }
+  },
+  {
+    "id": 96019,
+    "title": {
+      "romaji": "Orokamonogatari",
+      "english": null
+    },
+    "averageScore": 82,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Mystery",
+      "Supernatural"
+    ],
+    "startDate": {
+      "year": 2015
+    }
+  }
+]

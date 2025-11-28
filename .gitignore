@@ -1,0 +1,22 @@
+# Ignore virtual environments
+.venv/
+venv/
+ENV/
+
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+*.sqlite3-journal
+
+# Ignore Streamlit logs
+.streamlit/
+
+# Ignore SQLite DB if it's generated at runtime
+db/top_manga.db
+
+# Ignore large raw data files (optional)
+data/*.csv
+
+# VSCode and Mac system files
+.vscode/
+.DS_Store
