@@ -1,8 +1,4 @@
 requests 
 pandas 
-os 
-sys
-random
 streamlit
-ast
 pyarrow
