@@ -4,11 +4,16 @@ This project builds a lightweight data pipeline to fetch, transform, and explore
 
 ---
 
+🚀 **[Launch the Live App](https://anilistmangapipeline.streamlit.app)**  
+Try the SQL-powered manga explorer live in your browser — no setup needed!
+
+---
+
 ## 🔧 Features
 
-- 🗃️ Ingest top manga data from external APIs
-- 🧼 Clean and transform the data
-- 💾 Store it in a local SQLite database
+- 🗃️ Ingest top manga data from external APIs  
+- 🧼 Clean and transform the data  
+- 💾 Store it in a local SQLite database  
 - 🧪 Query the database using a **Streamlit SQL Workbench**
 
 > **Note:** Dashboard visualizations are coming soon!
@@ -27,56 +32,45 @@ manga_data_pipeline/
 ├── requirements.txt
 └── README.md
 
+---
 
-## 🚀 How to Run
+## 🚀 How to Run Locally
 
-1. **Clone the repo:**
-   git clone https://github.com/duartedasilva172/anilist_manga_pipeline.git
-   cd anilist_manga_pipeline
-Create a virtual environment:
-
+1. **Clone the repo**
+```bash
+git clone https://github.com/duartedasilva172/anilist_manga_pipeline.git
+cd anilist_manga_pipeline
 
 python -m venv .venv
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
-Install dependencies:
-
+source .venv/bin/activate      # macOS & Linux
+# OR
+.\.venv\Scripts\activate       # Windows
 
 pip install -r requirements.txt
-Run the Streamlit app:
-
 
 streamlit run streamlit_app/app.py
+```
+
 🧠 Tech Stack
+
 Python 3.9
 
-Streamlit – for interactive UI
+Streamlit – interactive UI
 
-Pandas – for data transformation
+Pandas – data transformation
 
-SQLite3 – for lightweight SQL database
+SQLite3 – lightweight data storage
 
 📌 To Do
-📈 Build dashboard with key insights (genres, rankings, scores)
+
+📈 Build dashboard with key insights (scores, rankings, genres)
 
 🔍 Add filter and search options in UI
 
 🧪 Write tests for ETL and database logic
 
 📬 Contact
+
 Made by @duartedasilva172
+
 Feel free to fork, clone, or reach out for collaboration!
-
-yaml
-Copy code
-
----
-
-### ✅ Next Step
-
-Save this as `README.md` in the root of your repo.  
-Then commit:
-
-```bash
-git add README.md
-git commit -m "Add README with project overview and setup"
-git push
