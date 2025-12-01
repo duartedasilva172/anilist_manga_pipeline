@@ -29,7 +29,7 @@ def show_dashboard():
     st.sidebar.header("Filter Options")
     genres = st.sidebar.multiselect("Genres", sorted(df["genre"].dropna().unique()))
     score = st.sidebar.slider("Average Score", 0, 100, (70, 100))
-    years = st.sidebar.slider("Start Year", int(df["start_year"].min()), int(df["start_year"].max()), (2010,2023))
+    years = st.sidebar.slider("Start Year", int(df["start_year"].min()), int(df["start_year"].max()), (1980,2023))
 
     filtered_df =df.copy()
     if genres:
