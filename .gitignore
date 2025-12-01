@@ -12,7 +12,7 @@ __pycache__/
 .streamlit/
 
 # Ignore SQLite DB if it's generated at runtime
-db/top_manga.db
+#db/top_manga.db
 
 # Ignore large raw data files (optional)
 data/*.csv

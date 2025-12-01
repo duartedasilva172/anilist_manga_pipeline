@@ -14,14 +14,25 @@ from views.run_sql import run_sql_view
 from views.update_manga import update_manga_view
 from views.insert_manga import insert_manga_view
 from views.delete_manga import delete_manga_view
+from views.dashboard_view import show_dashboard
+
+
 # ----- Main Menu -----
 
-st.sidebar.title("Select Mode")
-mode = st.sidebar.radio("Mode", ["SQL Workbench", "Insert Data", "Update Manga", "Delete Manga"])
+st.sidebar.title("Manga Explorer")
+
+view = st.sidebar.radio("Choose a view:", ["Dashboard", "SQL Workbench"])
+
+if view == "Dashboard":
+    show_dashboard()
+
+else:
+
+    mode = st.sidebar.radio("Mode", ["SQL Workbench", "Insert Data", "Update Manga", "Delete Manga"])
 
 # ----- Table Schemas -----
 
-def get_table_schemas():
+    def get_table_schemas():
        resolved_path = os.path.abspath(DB_PATH)
        st.write(f"Connected to DB at: {resolved_path}")
        with sqlite3.connect(resolved_path) as conn:
@@ -37,17 +48,17 @@ def get_table_schemas():
         return table_schemas
        
 
-if mode == "SQL Workbench":
-    with st.expander("View Table Structures", expanded= True):
-        st.image("streamlit_app/assets/db_schema.png", caption = "Manga Database Schema", use_container_width=True) 
-    run_sql_view()
+    if mode == "SQL Workbench":
+        with st.expander("View Table Structures", expanded= True):
+            st.image("streamlit_app/assets/db_schema.png", caption = "Manga Database Schema", use_container_width=True) 
+            run_sql_view()
 
-if mode == "Update Manga":
-    update_manga_view()
+    if mode == "Update Manga":
+        update_manga_view()
 
-if mode == "Insert Data":
-    insert_manga_view()
+    if mode == "Insert Data":
+        insert_manga_view()
 
-if mode == "Delete Manga":
+    if mode == "Delete Manga":
 
-    delete_manga_view()
+        delete_manga_view()
