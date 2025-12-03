@@ -21,7 +21,7 @@ from views.insights_view import show_insights
 
 st.sidebar.title("Mode Explorer")
 
-view = st.sidebar.radio("Choose a view:", ["Dashboard", "SQL Workbench", "Insights"])
+view = st.sidebar.radio("Choose a view:", ["Data Overview", "SQL Workbench", "Insights"])
 
 if view == "Dashboard":
     show_dashboard()
