@@ -20,7 +20,7 @@ def load_data():
     return manga_df
 
 def show_dashboard():
-    st.title("Manga Dashboard")
+    st.title("Manga CRUD Explorer")
 
     df = load_data()
     df.dropna(subset=["average_score"], inplace=True)

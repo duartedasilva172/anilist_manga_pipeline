@@ -25,7 +25,7 @@ def run_sql_view():
     default_query = ""
 
     if preset == "Top genres by average score":
-        default_query = "SELECT g.genre, AVG(m.average_score) AS avg_score FROM top_manga m JOIN top_manga_genres g ON m.id = g.nanga_id GROUP BY g.genre ORDER BY avg_score DESC LIMI 20;"
+        default_query = "SELECT g.genre, AVG(m.average_score) AS avg_score FROM top_manga m JOIN top_manga_genres g ON m.id = g.manga_id GROUP BY g.genre ORDER BY avg_score DESC LIMIT 20;"
 
     elif preset == "Average score by year":
         default_query = "SELECT start_year, AVG(average_score) AS avg_score FROM top_manga WHERE start_year IS NOT NULL GROUP BY start_year ORDER BY start_year DESC;"

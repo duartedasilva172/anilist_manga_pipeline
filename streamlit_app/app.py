@@ -19,7 +19,7 @@ from views.insights_view import show_insights
 
 # ----- Main Menu -----
 
-st.sidebar.title("Manga Explorer")
+st.sidebar.title("Mode Explorer")
 
 view = st.sidebar.radio("Choose a view:", ["Dashboard", "SQL Workbench", "Insights"])
 
