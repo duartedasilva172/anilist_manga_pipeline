@@ -15,18 +15,18 @@ from views.update_manga import update_manga_view
 from views.insert_manga import insert_manga_view
 from views.delete_manga import delete_manga_view
 from views.dashboard_view import show_dashboard
-
+from views.insights_view import show_insights
 
 # ----- Main Menu -----
 
 st.sidebar.title("Manga Explorer")
 
-view = st.sidebar.radio("Choose a view:", ["Dashboard", "SQL Workbench"])
+view = st.sidebar.radio("Choose a view:", ["Dashboard", "SQL Workbench", "Insights"])
 
 if view == "Dashboard":
     show_dashboard()
 
-else:
+elif view == "SQL Workbench":
 
     mode = st.sidebar.radio("Mode", ["SQL Workbench", "Insert Data", "Update Manga", "Delete Manga"])
 
@@ -51,7 +51,7 @@ else:
     if mode == "SQL Workbench":
         with st.expander("View Table Structures", expanded= True):
             st.image("streamlit_app/assets/db_schema.png", caption = "Manga Database Schema", use_container_width=True) 
-            run_sql_view()
+        run_sql_view()
 
     if mode == "Update Manga":
         update_manga_view()
@@ -62,3 +62,6 @@ else:
     if mode == "Delete Manga":
 
         delete_manga_view()
+
+elif view == "Insights":
+    show_insights()
