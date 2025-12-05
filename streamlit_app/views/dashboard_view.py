@@ -6,16 +6,15 @@ import sys, os
 
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')))
-DB_PATH = os.path.join(os.path.dirname(__file__), "..", "..", "db", "top_manga.db")
+DB_PATH = os.path.join(os.path.dirname(__file__), "..", "..", "db", "top_manga2.db")
 
 
 def load_data():
     with sqlite3.connect(DB_PATH) as conn:
         manga_df = pd.read_sql("""
-            SELECT m.id, m.title_romaji, m.average_score, m.start_year, m.status,
-                    m.chapters, m.volumes, g.genre
-            FROM top_manga as m
-            LEFT JOIN top_manga_genres g on m.id = g.manga_id
+            SELECT m.*, g.genre
+            FROM top_manga2 as m
+            LEFT JOIN genres_2 g on m.manga_id = g.manga_id
 """, conn)
     return manga_df
 
@@ -23,6 +22,8 @@ def show_dashboard():
     st.title("Manga CRUD Explorer")
 
     df = load_data()
+    df["start_date"] = pd.to_datetime(df["start_date"], errors="coerce")
+    df["start_year"] = df["start_date"].dt.year
     df.dropna(subset=["average_score"], inplace=True)
     
     # Sidebar filters 
@@ -42,7 +43,7 @@ def show_dashboard():
     # Bar Chart 
 
     st.subheader("Top Manga by Score")
-    top_manga = filtered_df.sort_values("average_score", ascending = False).drop_duplicates("id").head(20)
+    top_manga = filtered_df.sort_values("average_score", ascending = False).drop_duplicates("manga_id").head(20)
 
     chart = alt.Chart(top_manga).mark_bar().encode(
         x = alt.X("average_score", title="Score"),
@@ -55,4 +56,4 @@ def show_dashboard():
     # Data Table 
 
     st.subheader("Filtered Manga List")
-    st.dataframe(filtered_df.drop(columns=["id"]), use_container_width=True)
+    st.dataframe(filtered_df.drop(columns=["manga_id"]), use_container_width=True)

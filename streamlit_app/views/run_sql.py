@@ -5,7 +5,7 @@ import sys, os
 import sqlite3
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')))
-DB_PATH = os.path.join(os.path.dirname(__file__), "..", "..", "db", "top_manga.db")
+DB_PATH = os.path.join(os.path.dirname(__file__), "..", "..", "db", "top_manga2.db")
 
 # Create connection
 
@@ -25,16 +25,24 @@ def run_sql_view():
     default_query = ""
 
     if preset == "Top genres by average score":
-        default_query = "SELECT g.genre, AVG(m.average_score) AS avg_score FROM top_manga m JOIN top_manga_genres g ON m.id = g.manga_id GROUP BY g.genre ORDER BY avg_score DESC LIMIT 20;"
+        default_query = "SELECT g.genre, AVG(m.average_score) AS avg_score FROM top_manga2 m JOIN genres_2 g ON m.manga_id = g.manga_id GROUP BY g.genre ORDER BY avg_score DESC LIMIT 20;"
 
     elif preset == "Average score by year":
-        default_query = "SELECT start_year, AVG(average_score) AS avg_score FROM top_manga WHERE start_year IS NOT NULL GROUP BY start_year ORDER BY start_year DESC;"
+        default_query = """ 
+                        SELECT
+                            SUBSTR(start_date, 1, 4) AS year,
+                            AVG(average_score) AS avg_score
+                        FROM top_manga2
+                        WHERE start_date IS NOT NULL 
+                        GROUP BY year
+                        ORDER BY year DESC;
+                        """
 
     elif preset == "Top authors by score":
-        default_query = "SELECT staff_name, AVG(average_score) AS avg_score FROM top_manga m JOIN top_manga_staff s ON m.id = s.manga_id WHERE s.occupation = 'Mangaka' GROUP BY staff_name ORDER BY avg_score DESC LIMIT 20;"
+        default_query = "SELECT staff_name, AVG(average_score) AS avg_score FROM top_manga2 m JOIN staff_2 s ON m.manga_id = s.manga_id WHERE s.occupation = 'Mangaka' GROUP BY staff_name ORDER BY avg_score DESC LIMIT 20;"
 
     
-    query = st.text_area("SQL Query",value=default_query.strip(), height=200, placeholder="e.g., SELECT * FROM top_manga LIMIT 10;")
+    query = st.text_area("SQL Query",value=default_query.strip(), height=200, placeholder="e.g., SELECT * FROM 2 LIMIT 10;")
 
     if st.button("Execute"):
         if not query.strip():

@@ -3,6 +3,9 @@ import json
 import pandas as pd 
 import pyarrow  # needed for parquet support through pyarrow engine
 
+
+# December 2 2025: Add Format and popularity metrics
+
 url = "https://graphql.anilist.co"
 
 query = """
