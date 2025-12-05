@@ -50,7 +50,7 @@ elif view == "SQL Workbench":
 
     if mode == "SQL Workbench":
         with st.expander("View Table Structures", expanded= True):
-            st.image("streamlit_app/assets/db_schema.png", caption = "Manga Database Schema", use_container_width=True) 
+            st.image("streamlit_app/assets/diagram_top_manga2.png", caption = "Manga Database Schema", use_container_width=True) 
         run_sql_view()
 
     if mode == "Update Manga":
