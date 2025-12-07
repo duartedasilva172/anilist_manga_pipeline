@@ -2,6 +2,9 @@ import streamlit as st
 import pandas as pd 
 import sqlite3 
 import altair as alt 
+import seaborn as sns
+import numpy as np 
+import matplotlib.pyplot as plt 
 import sys, os 
 
 
@@ -15,6 +18,7 @@ def load_data():
             SELECT m.*, g.genre
             FROM top_manga2 as m
             LEFT JOIN genres_2 g on m.manga_id = g.manga_id
+            ORDER BY m.average_score DESC
 """, conn)
     return manga_df
 
@@ -42,16 +46,18 @@ def show_dashboard():
 
     # Bar Chart 
 
-    st.subheader("Top Manga by Score")
-    top_manga = filtered_df.sort_values("average_score", ascending = False).drop_duplicates("manga_id").head(20)
+    st.subheader("Popularity VS Score")
+    corrs_cols = ["popularity", "average_score"]
+    corr_df = filtered_df[corrs_cols].dropna()
 
-    chart = alt.Chart(top_manga).mark_bar().encode(
-        x = alt.X("average_score", title="Score"),
-        y = alt.Y("title_romaji", sort="-x", title="Title"),
-        tooltip= ["title_romaji", "average_score", "genre"]
-    ).properties(height=400)
+    if not corr_df.empty:
+        corr_matrix = corr_df.corr()
 
-    st.altair_chart(chart, use_container_width=True)
+        fig, ax = plt.subplots()
+        sns.heatmap(corr_matrix, annot = True, fmt=".2f", cmap="rocket_r", ax=ax, annot_kws={"color":"grey"})
+        st.pyplot(fig)
+    else:
+        st.warning("Not enough data to display heatmap. Try adjusting filters")
 
     # Data Table 
 

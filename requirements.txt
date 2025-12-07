@@ -2,3 +2,6 @@ requests
 pandas 
 streamlit
 pyarrow
+seaborn
+matplotlib.pyplot
+wikipedia
