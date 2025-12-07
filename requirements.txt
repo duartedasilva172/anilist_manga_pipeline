@@ -3,5 +3,5 @@ pandas
 streamlit
 pyarrow
 seaborn
-matplotlib.pyplot
+matplotlib
 wikipedia
