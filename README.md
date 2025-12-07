@@ -2,6 +2,8 @@
 
 ![Dashboard Preview](streamlit_app/assets/anilist_screenshot.png)
 
+Launch Live App!:[https://anilistmangapipeline-2neyepklnzygm4axj3c5m5.streamlit.app/]
+
 
 This project builds a lightweight data pipeline to fetch, transform, and explore top manga data using Python, SQLite, and Streamlit.
 
