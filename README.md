@@ -7,7 +7,6 @@ This project builds a lightweight data pipeline to fetch, transform, and explore
 
 ---
 
-🚀 **[Launch the Live App](https://anilistmangapipeline.streamlit.app)**  
 Try the SQL-powered manga explorer live in your browser — no setup needed!
 
 ---
