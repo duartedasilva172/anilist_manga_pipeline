@@ -77,7 +77,7 @@ def render_dashboard():
     with tp2:
         st.markdown("### 🔥 Most Popular")
         st.metric("Title", top_popularity["title_romaji"])
-        st.metric("Popularity Rank", int(top_popularity["popularity"]))
+        st.metric("Popularity Score", int(top_popularity["popularity"]))
         st.metric("Score", top_popularity["average_score"])
 
         # Sidebar controls
