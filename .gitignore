@@ -7,6 +7,10 @@ ENV/
 __pycache__/
 *.py[cod]
 *.sqlite3-journal
+*.numbers
+*.csv
+*.parquet
+.DS_Store
 
 # Ignore Streamlit logs
 .streamlit/
