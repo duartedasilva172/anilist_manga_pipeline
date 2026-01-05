@@ -16,6 +16,7 @@ from views.insert_manga import insert_manga_view
 from views.delete_manga import delete_manga_view
 from views.dashboard_view import show_dashboard
 from views.insights_view import show_insights
+from views.manga_dashboard_view import render_dashboard
 
 # ----- Main Menu -----
 
@@ -24,7 +25,7 @@ st.sidebar.title("Mode Explorer")
 view = st.sidebar.radio("Choose a view:", ["Data Overview", "SQL Workbench", "Insights"])
 
 if view == "Data Overview":
-    show_dashboard()
+    render_dashboard()
 
 elif view == "SQL Workbench":
 
