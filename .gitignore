@@ -19,7 +19,6 @@ __pycache__/
 #db/top_manga.db
 
 # Ignore large raw data files (optional)
-data/*.csv
 
 # VSCode and Mac system files
 .vscode/
