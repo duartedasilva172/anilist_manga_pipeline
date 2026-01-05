@@ -5,3 +5,4 @@ pyarrow
 seaborn
 matplotlib
 wikipedia
+plotly
