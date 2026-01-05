@@ -28,7 +28,7 @@ def load_data():
     
     return sales_df, top_df, popular_df
 
-sales_df, top_df, popular_df = load_data()
+# sales_df, top_df, popular_df = load_data()
 
 
 def render_dashboard():
