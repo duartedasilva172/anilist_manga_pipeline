@@ -1,0 +1,1201 @@
+manga_id,title_romaji,title_english,title_native,format,popularity,average_score,start_date,end_date,status,chapters,volumes
+30001,MONSTER,Monster,MONSTER,MANGA,96925,91,1994-12-05,2001-12-20,FINISHED,162.0,18.0
+30002,Berserk,Berserk,ベルセルク,MANGA,221068,93,1989-08-25,,RELEASING,0.0,0.0
+30003,20 Seiki Shounen,20th Century Boys,20世紀少年,MANGA,96329,88,1999-09-27,2006-04-24,FINISHED,249.0,22.0
+30004,Yokohama Kaidashi Kikou,Yokohama Kaidashi Kikou,ヨコハマ買い出し紀行,MANGA,33955,86,1994-04-26,2006-02-26,FINISHED,144.0,14.0
+30007,Hajime no Ippo,Hajime no Ippo: Fighting Spirit!,はじめの一歩,MANGA,32059,87,1989-09-27,,RELEASING,0.0,0.0
+30009,Tsubasa: RESERVoir CHRoNiCLE,Tsubasa RESERVoir CHRoNiCLE,ツバサ -RESERVoir CHRoNiCLE-,MANGA,16472,80,2003-05-21,2009-10-07,FINISHED,233.0,28.0
+30010,xxxHolic,xxxHOLiC,×××ホリック,MANGA,21573,82,2003-02-24,2011-02-09,FINISHED,214.0,19.0
+30011,NARUTO,Naruto,NARUTO -ナルト-,MANGA,91214,79,1999-09-21,2014-11-10,FINISHED,700.0,72.0
+30012,BLEACH,Bleach,BLEACH,MANGA,108673,79,2001-08-07,2016-08-23,FINISHED,706.0,74.0
+30013,ONE PIECE,One Piece,ONE PIECE,MANGA,210863,91,1997-07-22,,RELEASING,0.0,0.0
+30017,Kareshi Kanojo no Jijou,Kare Kano: His and Her Circumstances,彼氏彼女の事情,MANGA,10538,78,1995-12-22,2005-02-24,FINISHED,108.0,21.0
+30018,Kodomo no Omocha,Kodocha: Sana's Stage,こどものおもちゃ,MANGA,5874,80,1994-07-02,1998-10-03,FINISHED,54.0,10.0
+30020,Hikaru no Go,Hikaru no Go,ヒカルの碁,MANGA,12016,79,1998-12-08,2003-07-14,FINISHED,197.0,23.0
+30021,DEATH NOTE,Death Note,DEATH NOTE,MANGA,91099,84,2003-12-01,2006-05-15,FINISHED,108.0,12.0
+30022,Rurouni Kenshin: Meiji Kenkaku Romantan,Rurouni Kenshin,るろうに剣心 -明治剣客浪漫譚-,MANGA,24388,82,1994-04-05,1999-09-21,FINISHED,259.0,28.0
+30023,Ranma 1/2,Ranma ½,らんま1/2,MANGA,13644,78,1987-08-05,1996-02-21,FINISHED,407.0,38.0
+30024,D.Gray-man,D.Gray-man,ディー・グレイマン,MANGA,38786,81,2004-05-31,,RELEASING,0.0,0.0
+30025,Hagane no Renkinjutsushi,Fullmetal Alchemist,鋼の錬金術師,MANGA,72924,89,2001-07-12,2010-06-11,FINISHED,116.0,27.0
+30026,HUNTER×HUNTER,Hunter x Hunter,HUNTER×HUNTER,MANGA,98232,88,1998-03-03,,RELEASING,0.0,0.0
+30027,X,X,X,MANGA,7881,79,1992-05-24,,RELEASING,0.0,0.0
+30028,NANA,Nana,NANA,MANGA,51460,88,2000-05-15,,RELEASING,0.0,0.0
+30029,Paradise Kiss,Paradise Kiss,パラダイス・キス,MANGA,20052,81,1999-03-23,2003-03-22,FINISHED,48.0,5.0
+30030,Ouran Koukou Host Club,Ouran High School Host Club,桜蘭高校ホスト部,MANGA,27234,82,2002-07-24,2010-09-24,FINISHED,97.0,18.0
+30031,Lovely★Complex,Love★Com,ラブ★コン,MANGA,16411,80,2001-08-13,2007-08-13,FINISHED,72.0,17.0
+30042,Dragon Ball,Dragon Ball,ドラゴンボール,MANGA,48669,83,1984-11-20,1995-05-23,FINISHED,520.0,42.0
+30043,Eyeshield 21,Eyeshield 21,アイシールド21,MANGA,21016,82,2002-07-23,2009-06-15,FINISHED,333.0,37.0
+30044,Gintama,Gin Tama,銀魂,MANGA,29469,86,2003-12-08,2019-06-20,FINISHED,709.0,77.0
+30047,Katekyo Hitman REBORN!,Reborn!,家庭教師ヒットマンREBORN!,MANGA,25806,77,2004-05-24,2012-11-12,FINISHED,411.0,42.0
+30051,SLAM DUNK,Slam Dunk,SLAM DUNK,MANGA,67579,90,1990-09-18,1996-06-04,FINISHED,276.0,31.0
+30053,Yuu☆Yuu☆Hakusho,Yu Yu Hakusho,幽☆遊☆白書,MANGA,24892,80,1990-11-20,1994-07-05,FINISHED,176.0,19.0
+30054,Yu☆Gi☆Oh!,Yu-Gi-Oh!,遊☆戯☆王,MANGA,13572,77,1996-09-17,2004-03-08,FINISHED,343.0,38.0
+30057,Hanazakari no Kimitachi e,Hana-Kimi: For You in Full Blossom,花ざかりの君たちへ,MANGA,5606,78,1996-09-20,2004-08-20,FINISHED,148.0,23.0
+30081,ARIA,Aria,ARIA,MANGA,16493,86,2002-02-28,2008-02-29,FINISHED,67.0,12.0
+30085,Azumanga Daiou,Azumanga Daioh,あずまんが大王,MANGA,17209,82,1999-01-18,2002-03-21,FINISHED,69.0,4.0
+30092,Bishoujo Senshi Sailor Moon,Sailor Moon,美少女戦士セーラームーン,MANGA,17070,79,1991-12-28,1997-02-03,FINISHED,61.0,18.0
+30102,Fruits Basket,Fruits Basket,フルーツバスケット,MANGA,32565,84,1998-07-18,2006-11-20,FINISHED,137.0,23.0
+30104,Yotsuba to!,Yotsuba&!,よつばと！,MANGA,58331,88,2003-03-21,,RELEASING,0.0,0.0
+30105,Kekkaishi,Kekkaishi,結界師,MANGA,7038,77,2004-02-18,2011-04-06,FINISHED,345.0,35.0
+30106,Cardcaptor Sakura,Cardcaptor Sakura,カードキャプターさくら,MANGA,17577,81,1996-05-02,2000-07-03,FINISHED,50.0,12.0
+30124,AQUA,Aqua,AQUA,MANGA,8459,77,2001-01-27,2001-09-28,FINISHED,11.0,2.0
+30128,Petshop of Horrors,Pet Shop of Horrors,Petshop of Horrors (ペットショップ オブ ホラーズ),MANGA,8686,78,1995-01-01,1997-01-01,FINISHED,41.0,10.0
+30145,BECK,BECK,BECK,MANGA,29563,86,2000-02-17,2008-06-05,FINISHED,103.0,34.0
+30149,BLAME!,BLAME!,BLAME!,MANGA,57340,81,1997-01-25,2003-07-25,FINISHED,66.0,10.0
+30158,Ghost Hunt,Not Recorded,ゴーストハント,MANGA,3678,77,1998-07-07,2010-09-30,FINISHED,57.0,12.0
+30160,School Rumble,School Rumble,スクールランブル,MANGA,5941,77,2002-10-23,2008-07-23,FINISHED,345.0,22.0
+30214,Kidou Senshi Gundam: The Origin,Mobile Suit Gundam: The Origin,機動戦士ガンダム The Origin,MANGA,6981,83,2001-06-25,2014-06-26,FINISHED,112.0,24.0
+30267,HELLSING,HELLSING,HELLSING,MANGA,24675,79,1997-05-02,2008-09-30,FINISHED,92.0,10.0
+30320,Gakuen Alice,Gakuen Alice,学園アリス,MANGA,8747,80,2002-09-05,2013-06-20,FINISHED,180.0,31.0
+30336,GTO,GTO: Great Teacher Onizuka,GTO,MANGA,51739,86,1997-05-16,2002-04-17,FINISHED,208.0,25.0
+30339,Sakigake!! Cromartie Koukou,Cromartie High School,魁!! クロマティ高校,MANGA,4304,77,2000-07-19,2006-05-17,FINISHED,335.0,17.0
+30348,Genshiken,Genshiken,げんしけん,MANGA,12113,80,2002-04-25,2006-05-25,FINISHED,55.0,9.0
+30375,Initial D,Initial D,頭文字D,MANGA,11994,81,1995-06-26,2013-07-29,FINISHED,725.0,48.0
+30399,Kino no Tabi: the Beautiful World,Kino's Journey: The Beautiful World,キノの旅-the Beautiful World-,NOVEL,6192,83,2000-03-01,,RELEASING,0.0,0.0
+30401,Kiseijuu,Parasyte,寄生獣,MANGA,30003,82,1989-11-22,1995-12-23,FINISHED,64.0,10.0
+30418,Mushishi,Mushishi,蟲師,MANGA,26528,85,1999-11-01,2008-08-25,FINISHED,50.0,10.0
+30419,Nodame Cantabile,Nodame Cantabile,のだめカンタービレ,MANGA,6835,81,2001-07-10,2010-09-10,FINISHED,152.0,25.0
+30436,Uzumaki,Uzumaki: Spiral into Horror,うずまき,MANGA,81448,79,1998-01-19,1999-08-30,FINISHED,20.0,3.0
+30442,Tekkon Kinkreet,Tekkonkinkreet: Black & White,鉄コン筋クリート,MANGA,6718,78,1993-01-01,1994-01-01,FINISHED,33.0,3.0
+30443,MARS,Mars,MARS,MANGA,11543,82,1996-05-13,2000-12-13,FINISHED,41.0,15.0
+30445,Shonan Junai Gumi!,GTO: The Early Years - Shonan Junai Gumi,湘南純愛組！,MANGA,8862,80,1990-09-26,1996-09-18,FINISHED,267.0,31.0
+30463,NHK ni Youkoso!,Welcome to the N.H.K.,NHKにようこそ!,MANGA,17155,78,2004-06-24,2007-06-06,FINISHED,40.0,8.0
+30481,Planetes,Planetes,プラネテス,MANGA,23474,80,1999-01-14,2004-01-08,FINISHED,28.0,4.0
+30564,GANTZ,Gantz,GANTZ,MANGA,63342,77,2000-07-13,2013-06-20,FINISHED,383.0,37.0
+30583,CLAYMORE,Claymore,CLAYMORE,MANGA,59304,81,2001-05-06,2014-10-04,FINISHED,159.0,27.0
+30585,Hourou Musuko,Wandering Son,放浪息子,MANGA,11147,79,2002-12-12,2013-07-12,FINISHED,123.0,15.0
+30610,Skip Beat!,Skip Beat!,スキップ・ビート！,MANGA,15053,82,2002-02-15,,RELEASING,0.0,0.0
+30642,Vinland Saga,Vinland Saga,ヴィンランド・サガ,MANGA,125169,90,2005-04-27,2025-07-25,FINISHED,220.0,29.0
+30649,GUNSLINGER GIRL,GUNSLINGER GIRL,GUNSLINGER GIRL,MANGA,7995,79,2002-05-21,2012-09-27,FINISHED,100.0,15.0
+30651,Kaze no Tani no Nausicaä,Nausicaä of the Valley of the Wind,風の谷のナウシカ,MANGA,19300,85,1982-02-01,1994-03-01,FINISHED,59.0,7.0
+30655,Boku no Chikyuu wo Mamotte,Please Save My Earth,ぼくの地球を守って,MANGA,5736,78,1986-12-20,1994-05-20,FINISHED,138.0,21.0
+30656,Vagabond,Vagabond,バガボンド,MANGA,144364,92,1998-09-03,,RELEASING,0.0,0.0
+30657,Real,Real,リアル,MANGA,44576,89,1999-11-11,,RELEASING,0.0,0.0
+30658,Mugen no Juunin,Blade of the Immortal,無限の住人,MANGA,29328,83,1993-06-25,2012-12-25,FINISHED,219.0,30.0
+30660,Versailles no Bara,The Rose of Versailles,ベルサイユのばら,MANGA,9782,83,1972-05-21,1973-12-23,FINISHED,85.0,10.0
+30661,Sayonara Zetsubou Sensei,"Sayonara, Zetsubou-Sensei",さよなら絶望先生,MANGA,11413,81,2005-04-27,2012-06-13,FINISHED,301.0,30.0
+30664,AKIRA,Akira,AKIRA,MANGA,43234,84,1982-12-20,1990-06-25,FINISHED,120.0,6.0
+30670,Bokurano,Bokurano: Ours,ぼくらの,MANGA,11558,77,2003-11-25,2009-06-25,FINISHED,66.0,11.0
+30674,Majin Tantei Nougami Neuro,Not Recorded,魔人探偵脳噛ネウロ,MANGA,4994,77,2005-02-21,2009-04-20,FINISHED,203.0,23.0
+30676,Inuyasha,InuYasha,犬夜叉,MANGA,15849,77,1996-11-13,2008-06-15,FINISHED,558.0,56.0
+30688,Maison Ikkoku,Maison Ikkoku,めぞん一刻,MANGA,7473,80,1980-11-01,1987-04-01,FINISHED,162.0,15.0
+30698,Shin Seiki Evangelion,Neon Genesis Evangelion,新世紀エヴァンゲリオン,MANGA,34860,84,1994-12-26,2013-06-04,FINISHED,97.0,14.0
+30704,Trigun Maximum,Trigun Maximum,トライガン・マキシマム,MANGA,10624,82,1997-10-31,2007-03-30,FINISHED,104.0,14.0
+30705,Shingetsutan Tsukihime,Lunar Legend Tsukihime,真月譚 月姫,MANGA,13664,79,2003-10-01,2010-07-27,FINISHED,75.0,10.0
+30729,Emma,Emma,エマ,MANGA,10277,80,2001-12-12,2008-02-12,FINISHED,72.0,10.0
+30731,EDEN: It's an Endless World!,Eden: It's an Endless World!,EDEN 〜It's an Endless World!〜,MANGA,21516,80,1997-09-25,2008-06-25,FINISHED,131.0,18.0
+30735,BLACK LAGOON,Black Lagoon,ブラック・ラグーン,MANGA,18521,81,2002-04-19,,RELEASING,0.0,0.0
+30736,Shin Angyo Onshi,Blade of the Phantom Master,新暗行御史,MANGA,8620,77,2001-03-19,2007-08-18,FINISHED,75.0,17.0
+30743,21 Seiki Shounen,21st Century Boys,21世紀少年,MANGA,33865,82,2006-12-25,2007-07-14,FINISHED,16.0,2.0
+30745,PLUTO,Pluto,PLUTO,MANGA,48557,85,2003-09-09,2009-04-01,FINISHED,65.0,8.0
+30756,BANANA FISH,Banana Fish,BANANA FISH,MANGA,27994,84,1985-05-01,1994-04-01,FINISHED,110.0,19.0
+30768,GUNNM,Battle Angel Alita,銃夢,MANGA,28386,81,1990-12-15,1995-04-01,FINISHED,54.0,9.0
+30770,GUNNM: Last Order,Battle Angel Alita: Last Order,銃夢 Last Order,MANGA,7535,79,2001-07-19,2014-01-28,FINISHED,124.0,19.0
+30792,City Hunter,City Hunter,シティーハンター,MANGA,6709,78,1985-02-26,1991-11-19,FINISHED,336.0,35.0
+30838,Angel Densetsu,Not Recorded,エンジェル伝説,MANGA,15999,80,1993-02-01,2000-03-01,FINISHED,89.0,15.0
+30868,Karakuri Circus,Not Recorded,からくりサーカス,MANGA,5461,82,1997-07-09,2006-05-31,FINISHED,425.0,43.0
+30869,Konjiki no Gash!!,Zatch Bell!,金色のガッシュ!!,MANGA,12850,82,2001-05-18,2007-12-27,FINISHED,324.0,33.0
+30872,JoJo no Kimyou na Bouken: Stardust Crusaders,JoJo's Bizarre Adventure Part 3: Stardust Crusaders,ジョジョの奇妙な冒険スターダストクルセイダース,MANGA,32698,78,1989-03-20,1992-04-07,FINISHED,152.0,16.0
+30895,Full Metal Panic! Sigma,Full Metal Panic! Sigma,フルメタル・パニック! Σ,MANGA,2411,79,2005-04-09,2013-09-20,FINISHED,90.0,19.0
+30904,Kozure Ookami,Lone Wolf and Cub,子連れ狼,MANGA,16948,85,1970-09-10,1976-04-01,FINISHED,142.0,28.0
+30908,Soul Eater,Soul Eater,ソウルイーター,MANGA,61422,80,2003-06-24,2013-08-12,FINISHED,117.0,25.0
+30915,Rookies,Not Recorded,ルーキーズ,MANGA,10445,82,1998-06-04,2003-11-04,FINISHED,233.0,24.0
+30923,Kanata Kara,From Far Away,彼方から,MANGA,4119,79,1991-09-24,2003-01-24,FINISHED,61.0,14.0
+30928,Pocket Monsters SPECIAL,Pokémon Adventures,ポケットモンスターSPECIAL,MANGA,15323,79,1997-04-01,,RELEASING,0.0,0.0
+30936,Homunculus,Homunculus,ホムンクルス,MANGA,63643,83,2003-03-17,2011-02-21,FINISHED,166.0,15.0
+30974,BASARA,Basara,BASARA,MANGA,9869,83,1990-09-01,1998-06-01,FINISHED,107.0,27.0
+31009,Hachimitsu to Clover,Honey and Clover,ハチミツとクローバー,MANGA,8388,79,2000-04-24,2006-07-28,FINISHED,75.0,10.0
+31013,Touch,Not Recorded,タッチ,MANGA,5710,81,1981-08-19,1986-11-26,FINISHED,257.0,26.0
+31014,H2,Not Recorded,エイチツー,MANGA,4497,81,1992-07-29,1999-11-24,FINISHED,338.0,34.0
+31032,Doraemon,Not Recorded,ドラえもん,MANGA,4108,80,1969-12-01,1996-04-26,FINISHED,821.0,45.0
+31047,Saint Seiya: THE LOST CANVAS - Meiou Shinwa,Not Recorded,聖闘士星矢 THE LOST CANVAS 冥王神話,MANGA,3933,79,2006-09-21,2011-04-07,FINISHED,224.0,25.0
+31061,Meitantei Conan,Case Closed,名探偵コナン,MANGA,16612,82,1994-02-02,,RELEASING,0.0,0.0
+31067,Cesare: Hakai no Souzousha,Not Recorded,チェーザレ 破壊の創造者,MANGA,3123,77,2005-03-24,2021-11-25,FINISHED,106.0,13.0
+31075,7SEEDS,Not Recorded,７ＳＥＥＤＳ,MANGA,10035,81,2001-10-13,2017-05-27,FINISHED,178.0,35.0
+31092,Gokusen,Not Recorded,ごくせん,MANGA,5108,77,1999-12-15,2007-02-15,FINISHED,156.0,15.0
+31101,Akumetsu,Not Recorded,アクメツ,MANGA,20813,78,2002-10-01,2006-04-06,FINISHED,162.0,18.0
+31111,Buddha,Buddha,ブッダ,MANGA,5913,82,1972-09-01,1983-11-01,FINISHED,69.0,14.0
+31131,Freesia,Not Recorded,フリージア,MANGA,15951,77,2001-09-29,2009-08-25,FINISHED,84.0,12.0
+31133,Dorohedoro,Dorohedoro,ドロヘドロ,MANGA,80514,86,2000-12-30,2018-09-12,FINISHED,191.0,23.0
+31149,Hokuto no Ken,Fist of the North Star,北斗の拳,MANGA,17389,79,1983-09-13,1988-08-08,FINISHED,245.0,27.0
+31183,Cross Game,Cross Game,クロスゲーム,MANGA,7191,83,2005-09-02,2010-02-17,FINISHED,170.0,17.0
+31211,Ore to Akuma no Blues,Me and the Devil Blues: The Unreal Life of Robert Johnson,俺と悪魔のブルーズ,MANGA,10171,79,2003-11-23,,RELEASING,0.0,0.0
+31216,Gokinjo Monogatari,Neighborhood Story,ご近所物語,MANGA,5966,79,1995-02-01,1997-10-01,FINISHED,34.0,7.0
+31218,Akagi: Yami ni Oritatta Tensai,Not Recorded,アカギ ～闇に降り立った天才～,MANGA,6224,83,1992-03-01,2018-02-01,FINISHED,306.0,36.0
+31224,3-gatsu no Lion,March Comes in Like a Lion,3月のライオン,MANGA,31558,88,2007-07-13,,RELEASING,0.0,0.0
+31260,Higurashi no Naku Koro ni: Tatarigoroshi-hen,Higurashi WHEN THEY CRY: Curse Killing Arc,ひぐらしのなく頃に 祟殺し編,MANGA,4498,77,2005-05-18,2006-05-18,FINISHED,13.0,2.0
+31262,Higurashi no Naku Koro ni Kai: Meakashi-hen,Higurashi WHEN THEY CRY: Eye Opening Arc,ひぐらしのなく頃に解 目明し編,MANGA,4341,80,2006-06-26,2008-02-26,FINISHED,21.0,4.0
+31263,Higurashi no Naku Koro ni Kai: Tsumihoroboshi-hen,Higurashi WHEN THEY CRY: Atonement Arc,ひぐらしのなく頃に解 罪滅し編,MANGA,3835,80,2006-06-22,2008-04-22,FINISHED,16.0,4.0
+31297,Iryuu: Team Medical Dragon,Not Recorded,医龍-Team Medical Dragon-,MANGA,3979,80,2002-11-01,2011-01-28,FINISHED,210.0,25.0
+31303,Ashita no Joe,Ashita no Joe: Fighting for Tomorrow,あしたのジョー,MANGA,26697,88,1968-01-01,1973-05-13,FINISHED,171.0,20.0
+31315,Boogiepop wa Warawanai,Boogiepop and Others,ブギーポップは笑わない,NOVEL,4757,80,1998-02-10,1998-02-10,FINISHED,8.0,1.0
+31320,Huo Feng Liao Yuan,The Ravages of Time,火鳳燎原,MANGA,8005,81,2001-06-15,,RELEASING,0.0,0.0
+31325,Hi no Tori,Phoenix,火の鳥,MANGA,9036,83,1966-12-09,1988-01-30,CANCELLED,134.0,16.0
+31342,Baccano!,Baccano!,バッカーノ！,NOVEL,5493,83,2003-02-01,,RELEASING,0.0,0.0
+31362,Hidamari Sketch,Sunshine Sketch,ひだまりスケッチ,MANGA,2767,79,2004-02-28,,RELEASING,0.0,0.0
+31365,Kaze to Ki no Uta,Not Recorded,風と木の詩,MANGA,4988,77,1976-02-29,1984-06-01,FINISHED,139.0,17.0
+31408,The World Is Mine,Not Recorded,ザ・ワールド・イズ・マイン,MANGA,11955,79,1997-01-23,2001-03-15,FINISHED,163.0,14.0
+31414,SKET DANCE,Not Recorded,SKET DANCE,MANGA,9510,82,2007-07-14,2013-07-08,FINISHED,288.0,32.0
+31461,Sanctuary,Sanctuary,サンクチュアリ,MANGA,12547,80,1990-01-01,1995-01-01,FINISHED,108.0,12.0
+31469,Glass no Kamen,Not Recorded,ガラスの仮面,MANGA,4330,81,1975-12-05,,RELEASING,0.0,0.0
+31474,Devilman,Devilman,デビルマン,MANGA,23791,80,1972-06-11,1973-06-24,FINISHED,53.0,5.0
+31506,Sunadokei,Sand Chronicles,砂時計,MANGA,4914,78,2003-08-23,2006-08-25,FINISHED,22.0,10.0
+31600,Black Jack,Black Jack,ブラック・ジャック,MANGA,8691,81,1973-11-19,1983-10-14,FINISHED,243.0,25.0
+31630,JoJo no Kimyou na Bouken: Sentou Chouryuu,JoJo's Bizarre Adventure Part 2: Battle Tendency,ジョジョの奇妙な冒険 戦闘潮流,MANGA,34463,78,1987-10-20,1989-03-14,FINISHED,69.0,7.0
+31649,LIAR GAME,Not Recorded,LIAR GAME,MANGA,30185,79,2005-02-17,2015-01-22,FINISHED,201.0,19.0
+31668,Black Jack ni Yoroshiku,Give My Regards to Black Jack,ブラックジャックによろしく,MANGA,3354,80,2002-06-21,2006-01-23,FINISHED,127.0,13.0
+31695,Adolf ni Tsugu,Message to Adolf,アドルフに告ぐ,MANGA,10301,80,1983-01-06,1985-05-30,FINISHED,36.0,5.0
+31706,JoJo no Kimyou na Bouken: Steel Ball Run,JoJo's Bizarre Adventure: Part 7–Steel Ball Run,ジョジョの奇妙な冒険 スティール・ボール・ラン,MANGA,93405,92,2004-01-19,2011-04-19,FINISHED,95.0,24.0
+31741,Worst,Worst,ワースト,MANGA,4694,79,2001-09-06,2013-07-06,FINISHED,131.0,33.0
+31766,Marie no Kanaderu Ongaku,The Music of Marie,Marieの奏でる音楽,MANGA,6429,78,1999-12-10,2001-09-12,FINISHED,17.0,2.0
+31802,Cat Street,Not Recorded,キャットストリート,MANGA,6294,77,2004-08-13,2007-10-13,FINISHED,37.0,8.0
+31859,Natsume Yuujinchou,Natsume's Book of Friends,夏目友人帳,MANGA,12487,85,2003-06-10,,RELEASING,0.0,0.0
+32895,Piano no Mori,Forest of Piano,ピアノの森,MANGA,5788,82,1998-08-05,2015-11-05,FINISHED,242.0,26.0
+32921,Kaichou wa Maid-sama!,Maid-sama!,会長はメイド様！,MANGA,34343,81,2005-12-24,2013-09-24,FINISHED,99.0,18.0
+32924,Historie,Historie,ヒストリエ,MANGA,9560,81,2003-01-25,,RELEASING,0.0,0.0
+33006,JoJo no Kimyou na Bouken: Diamond wa Kudakenai,JoJo's Bizarre Adventure Part 4: Diamond is Unbreakable,ジョジョの奇妙な冒険 ダイヤモンドは砕けない,MANGA,33499,84,1992-04-14,1995-11-21,FINISHED,174.0,18.0
+33008,JoJo no Kimyou na Bouken: Ougon no Kaze,JoJo's Bizarre Adventure Part 5: Golden Wind,ジョジョの奇妙な冒険 黄金の風,MANGA,36668,80,1995-11-28,1999-03-23,FINISHED,155.0,17.0
+33009,JoJo no Kimyou na Bouken: Stone Ocean,JoJo's Bizarre Adventure Part 6: Stone Ocean,ジョジョの奇妙な冒険 ストーンオーシャン,MANGA,68539,82,1999-12-07,2003-02-26,FINISHED,158.0,17.0
+33031,Pandora Hearts,Pandora Hearts,パンドラハーツ,MANGA,51492,84,2006-05-18,2015-03-18,FINISHED,107.0,24.0
+33042,Soredemo Machi wa Mawatteiru,SoreMachi: And Yet the Town Moves,それでも町は廻っている,MANGA,5372,81,2005-05-30,2016-10-28,FINISHED,138.0,16.0
+33064,Kiichi!!,Not Recorded,キーチ!!,MANGA,7613,80,2001-07-27,2006-03-01,FINISHED,87.0,9.0
+33082,Nichijou,Nichijou,日常,MANGA,15594,83,2006-06-26,,RELEASING,0.0,0.0
+33083,Suzumiya Haruhi no Yuuutsu,The Melancholy of Haruhi Suzumiya,涼宮ハルヒの憂鬱,NOVEL,9612,83,2003-06-06,2003-06-06,FINISHED,9.0,1.0
+33097,Futatsu no Spica,Twin Spica,ふたつのスピカ,MANGA,2909,78,2001-09-05,2009-08-05,FINISHED,116.0,16.0
+33102,GIRL FRIENDS,GIRL FRIENDS,GIRL FRIENDS-ガールフレンズ,MANGA,12548,77,2006-10-21,2010-08-21,FINISHED,44.0,5.0
+33258,Haruka na Machi e,A Distant Neighborhood,遥かな町へ,MANGA,9162,78,1998-04-10,1999-11-25,FINISHED,16.0,2.0
+33281,Hadashi no Gen,Barefoot Gen,はだしのゲン,MANGA,4702,78,1973-05-22,1987-02-01,FINISHED,54.0,10.0
+33285,Holyland,Not Recorded,ホーリーランド,MANGA,29382,82,2000-10-13,2008-05-23,FINISHED,182.0,18.0
+33299,Ookami to Koushinryou,Spice & Wolf,狼と香辛料,MANGA,12766,83,2007-09-27,2017-12-27,FINISHED,108.0,16.0
+33378,Kimi ni Todoke,Kimi ni Todoke: From Me to You,君に届け,MANGA,34294,82,2006-05-25,2017-11-13,FINISHED,127.0,30.0
+33403,Rosario to Vampire: Season II,Rosario+Vampire: Season II,ロザリオとバンパイア SeasonⅡ,MANGA,13757,78,2007-11-04,2014-04-19,FINISHED,67.0,14.0
+33571,Ten: Tenhou-doori no Kaidanji,Not Recorded,天 天和通りの快男児,MANGA,3340,83,1989-08-21,2002-04-27,FINISHED,164.0,18.0
+33572,Tobaku Mokushiroku Kaiji,Gambling Apocalypse Kaiji,賭博黙示録カイジ,MANGA,9729,83,1996-02-19,1999-10-01,FINISHED,158.0,13.0
+33573,Tobaku Hakairoku Kaiji,Not Recorded,賭博破戒録カイジ,MANGA,5099,83,2000-11-01,2004-04-01,FINISHED,134.0,13.0
+33574,Tobaku Datenroku Kaiji,Not Recorded,賭博堕天録カイジ,MANGA,5855,80,2004-11-01,2008-04-01,FINISHED,131.0,13.0
+33575,Saikyou Densetsu Kurosawa,"The Legend of the Strongest, Kurosawa!",最強伝説黒沢,MANGA,11211,82,2003-01-01,2006-09-01,FINISHED,90.0,11.0
+33649,Fate/Zero,Not Recorded,Fate/Zero,NOVEL,7135,83,2006-12-29,2007-12-29,FINISHED,18.0,4.0
+33713,Bartender,Bartender,バーテンダ,MANGA,5922,78,2004-12-03,2009-11-04,FINISHED,166.0,21.0
+33731,Solanin,Solanin,ソラニン,MANGA,49067,80,2005-12-05,2006-05-02,FINISHED,30.0,2.0
+33866,Kuroshitsuji,Black Butler,黒執事,MANGA,35810,81,2006-09-16,,RELEASING,0.0,0.0
+33868,Shigurui,Not Recorded,シグルイ,MANGA,11819,77,2003-06-19,2010-07-17,FINISHED,84.0,15.0
+34018,Himitsu: Top Secret,Not Recorded,秘密 －トップ・シークレット－,MANGA,2827,77,1999-02-16,2012-06-28,FINISHED,22.0,12.0
+34258,Hikari to Tomo ni...,With the Light: Raising an Autistic Child,光とともに...,MANGA,2758,78,2000-09-28,2009-04-03,FINISHED,93.0,15.0
+34305,Poe no Ichizoku,The Poe Clan,ポーの一族,MANGA,2699,77,1972-03-01,1976-06-01,FINISHED,26.0,5.0
+34368,Toradora!,Toradora!,とらドラ！,MANGA,9824,77,2007-07-10,,RELEASING,0.0,0.0
+34423,Oooku,Ōoku: The Inner Chambers,大奥,MANGA,6001,81,2004-06-28,2020-12-28,FINISHED,79.0,19.0
+34453,Hitsugi Katsugi no Kuro. Kaichuu Tabi no Wa,Shoulder-a-Coffin Kuro,棺担ぎのクロ。～懐中旅話～,MANGA,3322,80,2004-12-09,2018-05-10,FINISHED,82.0,7.0
+34571,Akagami no Shirayuki-hime,Snow White with the Red Hair,赤髪の白雪姫,MANGA,18913,79,2006-08-10,,RELEASING,0.0,0.0
+34625,Kamigami no Itadaki,The Summit of the Gods,神々の山嶺,MANGA,9715,82,2000-12-15,2003-05-20,FINISHED,47.0,5.0
+34632,Oyasumi Punpun,Goodnight Punpun,おやすみプンプン,MANGA,167898,88,2007-03-15,2013-11-02,FINISHED,147.0,13.0
+34658,Hagane no Renkinjutsushi,Fullmetal Alchemist,鋼の錬金術師,NOVEL,2347,77,2003-02-01,2007-03-22,FINISHED,35.0,6.0
+35157,New Grappler Baki: In Search of Our Strongest Hero,Baki: The Search of our Strongest Hero,バキ,MANGA,10217,77,1999-09-30,2005-11-24,FINISHED,276.0,31.0
+35249,NHK ni Youkoso!,Welcome to the N.H.K.,ＮＨＫにようこそ！,NOVEL,5848,82,2002-01-28,2002-01-28,FINISHED,12.0,1.0
+35255,Dengeki Daisy,Dengeki Daisy,電撃デイジー,MANGA,17251,77,2007-05-12,2013-12-24,FINISHED,80.0,16.0
+35651,Crows,Not Recorded,クローズ,MANGA,9807,80,1990-01-01,1998-01-01,FINISHED,101.0,26.0
+35655,Kaijuu no Kodomo,Children of the Sea,海獣の子供,MANGA,9349,79,2005-12-24,2011-09-24,FINISHED,43.0,5.0
+35711,Megumi no Daigo,Firefighter! Daigo of Fire Company M,め組の大吾,MANGA,2080,78,1995-08-23,1999-06-02,FINISHED,182.0,20.0
+35744,Ping Pong,Ping Pong,ピンポン,MANGA,11377,84,1996-04-15,1997-06-23,FINISHED,55.0,5.0
+36164,My Girl,Not Recorded,マイガール,MANGA,10946,82,2006-06-02,2010-09-03,FINISHED,44.0,5.0
+36812,Kyou kara Ore wa!!,Not Recorded,今日から俺は！！,MANGA,7264,83,1988-02-10,1997-11-15,FINISHED,366.0,38.0
+37149,Toradora!,Toradora!,とらドラ!,NOVEL,7407,79,2006-03-10,2009-03-10,FINISHED,62.0,10.0
+37375,Kokou no Hito,The Climber,孤高の人,MANGA,59700,87,2007-11-01,2011-11-10,FINISHED,170.0,17.0
+37458,DEATH NOTE Another Note: Los Angeles BB Renzoku Satsujin Jiken,Death Note Another Note: The Los Angeles BB Murder Cases,DEATH NOTE アナザーノート ロサンゼルスBB連続殺人事件,NOVEL,7597,79,2006-08-01,2006-08-01,FINISHED,8.0,1.0
+37482,RAINBOW: Nisha Rokubou no Shichinin,Not Recorded,RAINBOW 二舎六房の七人,MANGA,14266,84,2002-11-21,2010-01-04,FINISHED,235.0,22.0
+37519,Kami nomi zo Shiru Sekai,Not Recorded,神のみぞ知るセカイ,MANGA,24152,82,2008-04-09,2014-04-23,FINISHED,271.0,26.0
+37630,Toshokan Sensou: Love & War,Library Wars: Love & War,図書館戦争 LOVE＆WAR,MANGA,2619,77,2007-09-22,2015-02-10,FINISHED,90.0,15.0
+37728,Rozen Maiden,Rozen Maiden,ローゼンメイデン,MANGA,2290,77,2008-04-17,2014-01-23,FINISHED,68.0,10.0
+37749,Oresama Teacher,Oresama Teacher,俺様ティーチャー,MANGA,6961,77,2007-07-05,2020-02-05,FINISHED,170.0,29.0
+37760,Hanma Baki,Not Recorded,範馬刃牙,MANGA,10340,81,2005-12-01,2012-08-16,FINISHED,314.0,37.0
+37776,Toaru Kagaku no Railgun,A Certain Scientific Railgun,とある科学の超電磁砲,MANGA,9527,81,2007-02-25,,RELEASING,0.0,0.0
+38070,Sengoku Youko,Sengoku Youko,戦国妖狐,MANGA,8623,81,2007-12-28,2016-05-20,FINISHED,100.0,17.0
+38144,Sora no Otoshimono,Not Recorded,そらのおとしもの,MANGA,10057,77,2007-03-26,2014-02-26,FINISHED,97.0,20.0
+38157,Kamisama Hajimemashita,Kamisama Kiss,神様はじめました,MANGA,21792,84,2008-02-20,2016-05-20,FINISHED,154.0,25.0
+38300,Baby Steps,Baby Steps,ベイビーステップ,MANGA,7710,79,2007-10-17,2017-11-01,FINISHED,464.0,47.0
+38557,Kimi to Boku.,Not Recorded,君と僕。,MANGA,2594,77,2003-01-18,2022-06-18,FINISHED,103.0,17.0
+38571,Shin Getter Robo,Not Recorded,真ゲッターロボ,MANGA,1826,77,1996-01-01,1999-01-01,FINISHED,10.0,2.0
+38586,The Breaker,THE BREAKER,브레이커,MANGA,37169,80,2007-06-01,2010-07-20,FINISHED,72.0,10.0
+38652,Zankoku na Kami ga Shihai Suru,Not Recorded,残酷な神が支配する,MANGA,5596,81,1993-03-19,2001-08-20,FINISHED,86.0,17.0
+38967,Onani Master Kurosawa,Not Recorded,オナニーマスター黒沢,MANGA,43877,82,2007-09-01,2008-03-01,FINISHED,31.0,4.0
+39115,Ookami to Koushinryou,Spice & Wolf,狼と香辛料,NOVEL,17524,87,2006-02-10,,RELEASING,0.0,0.0
+39152,Thomas no Shinzou,The Heart of Thomas,トーマの心臓,MANGA,3573,77,1974-05-01,1974-11-01,FINISHED,40.0,3.0
+39546,capeta,Capeta,capeta,MANGA,3044,79,2003-02-06,2013-03-06,FINISHED,119.0,32.0
+39548,Higurashi no Naku Koro ni Kai: Minagoroshi-hen,Higurashi WHEN THEY CRY: Massacre Arc,ひぐらしのなく頃に解 皆殺し編,MANGA,3687,81,2008-06-18,2010-06-18,FINISHED,25.0,6.0
+39699,Doukyuusei,Classmates,同級生,MANGA,16400,81,2006-07-01,2007-07-01,FINISHED,6.0,1.0
+39711,Bakuman.,Bakuman。,バクマン。,MANGA,41244,81,2008-08-08,2012-04-23,FINISHED,176.0,20.0
+39726,Kubikiri Cycle: Aoiro Savant to Zaregotozukai,Decapitation: Kubikiri Cycle,クビキリサイクル　青色サヴァンと戯言遣い,NOVEL,11852,84,2002-02-05,2002-02-05,FINISHED,9.0,1.0
+39738,Higurashi no Naku Koro ni Kai: Matsuribayashi-hen,Higurashi WHEN THEY CRY: Festival Accompanying Arc,ひぐらしのなく頃に解 祭囃し編,MANGA,3314,79,2008-06-22,2011-04-22,FINISHED,35.0,8.0
+39982,Usogui,Not Recorded,嘘喰い,MANGA,27764,86,2006-05-11,2017-12-21,FINISHED,539.0,49.0
+40010,Beelzebub,Not Recorded,べるぜバブ,MANGA,22570,78,2009-02-01,2014-02-24,FINISHED,252.0,28.0
+40179,Chichi no Koyomi,A Journal Of My Father,父の暦,MANGA,3492,79,1994-04-09,1994-09-24,FINISHED,12.0,1.0
+40330,Oboreru Knife,Drowning Love,溺れるナイフ,MANGA,4169,78,2004-10-13,2013-12-13,FINISHED,64.0,17.0
+40429,Kara no Kyoukai: Mirai Fukuin - The Garden of Sinners/Recalled Out Summer,Not Recorded,空の境界 未来福音 the Garden of sinners／recalled out summer,NOVEL,1253,77,2008-08-15,2008-09-15,FINISHED,5.0,1.0
+40443,Bakuon Rettou,Not Recorded,爆音列島,MANGA,9065,82,2002-10-25,2012-11-24,FINISHED,105.0,18.0
+40447,Getter Robo Go,Not Recorded,ゲッターロボ號,MANGA,2155,79,1991-02-11,1992-01-27,FINISHED,28.0,7.0
+40552,Hoshi no Samidare,Lucifer and the Biscuit Hammer,惑星のさみだれ,MANGA,19823,81,2005-06-30,2010-08-30,FINISHED,65.0,10.0
+40884,Diamond no Ace,Ace of the Diamond,ダイヤのエース,MANGA,9799,82,2006-05-17,2015-01-14,FINISHED,418.0,47.0
+40892,Full Metal Panic!,Full Metal Panic!,フルメタル・パニック!,NOVEL,2268,77,1998-09-09,2011-08-20,FINISHED,72.0,12.0
+41054,Billy Bat,Billy Bat,ビリーバット,MANGA,34038,85,2008-10-16,2016-08-18,FINISHED,165.0,20.0
+41243,Kono Sekai no Katasumi ni,In This Corner of the World,この世界の片隅に,MANGA,4146,78,2007-01-23,2009-01-20,FINISHED,48.0,3.0
+41327,One Outs,Not Recorded,ワンナウツ,MANGA,11224,83,1998-06-18,2009-02-19,FINISHED,176.0,20.0
+41425,Grappler Baki,Baki the Grappler,グラップラー刃牙,MANGA,12594,77,1991-10-10,1999-06-24,FINISHED,372.0,42.0
+41514,Otoyomegatari,A Bride's Story,乙嫁語り,MANGA,27450,85,2008-10-14,,RELEASING,0.0,0.0
+41593,Yuru Yuri,Yuru Yuri,ゆるゆり,MANGA,5618,80,2008-06-18,,RELEASING,0.0,0.0
+41652,Kuroko no Basket,Kuroko's Basketball,黒子のバスケ,MANGA,16198,77,2008-12-08,2014-09-01,FINISHED,276.0,30.0
+41734,Watashitachi no Shiawase na Jikan,Not Recorded,私たちの幸せな時間,MANGA,29121,80,2008-03-28,2008-08-22,FINISHED,8.0,1.0
+42471,Daichouhen Doraemon,Doraemon's Long Tales,大長編ドラえもん,MANGA,998,77,1980-01-01,2004-03-01,FINISHED,126.0,24.0
+42713,Red,Not Recorded,RED,MANGA,2876,77,1998-11-04,2005-10-31,FINISHED,151.0,19.0
+42854,Toaru Majutsu no Index,A Certain Magical Index,とある魔術の禁書目録,NOVEL,10320,82,2004-04-10,2010-10-10,FINISHED,132.0,22.0
+42917,Shaman King Kanzenban,Shaman King,シャーマンキング 完全版,MANGA,6436,77,2008-03-04,2009-04-03,FINISHED,312.0,27.0
+43245,Chihayafuru,Chihayafuru,ちはやふる,MANGA,21036,86,2007-12-28,2022-08-01,FINISHED,248.0,50.0
+43271,Saraiya Goyou,House of Five Leaves,さらい屋五葉,MANGA,4552,80,2005-11-25,2010-07-24,FINISHED,59.0,8.0
+43290,Ningen Shikkaku,No Longer Human,人間失格,MANGA,15160,77,2009-02-06,2011-04-21,FINISHED,12.0,3.0
+43419,Gekiga Hyouryuu,A Drifting Life,劇画漂流,MANGA,3539,78,1995-03-21,2006-12-28,FINISHED,48.0,2.0
+43702,Tonari no Kaibutsu-kun,My Little Monster,となりの怪物くん,MANGA,28891,78,2008-08-23,2013-11-22,FINISHED,69.0,13.0
+43897,GIANT KILLING,Giant Killing,GIANT KILLING,MANGA,5032,79,2007-01-11,,RELEASING,0.0,0.0
+43949,Medaka Box,Not Recorded,めだかボックス,MANGA,22643,77,2009-05-11,2013-04-27,FINISHED,194.0,22.0
+44236,LOVE SO LIFE,Not Recorded,LOVE SO LIFE,MANGA,10629,80,2008-04-15,2015-07-18,FINISHED,111.0,17.0
+44483,Uchuu Kyoudai,Space Brothers,宇宙兄弟,MANGA,12996,86,2007-12-06,,RELEASING,0.0,46.0
+44531,GTO: SHONAN 14 DAYS,GTO: 14 Days in Shonan,GTO SHONAN 14DAYS,MANGA,5230,79,2009-06-10,2011-09-14,FINISHED,77.0,9.0
+44568,Clover,Not Recorded,クローバー,MANGA,5222,80,2007-04-05,2015-10-15,FINISHED,401.0,43.0
+44720,Honto Yajuu,Like The Beast,ほんと野獣,MANGA,4359,80,2007-05-07,,RELEASING,0.0,0.0
+44721,D-Frag!,D-Frag!,ディーふらぐ!,MANGA,9213,78,2008-07-27,,RELEASING,0.0,0.0
+44790,Magi,Magi: The Labyrinth of Magic,マギ,MANGA,45816,81,2009-06-03,2017-10-18,FINISHED,369.0,37.0
+44893,Bakemonogatari,Bakemonogatari: Monster Tale,化物語,NOVEL,18144,87,2006-11-01,2006-12-04,FINISHED,41.0,2.0
+45104,Kingdom Hearts: 358/2 Days,Kingdom Hearts 358/2 Days,キングダム ハーツ スリーファイブエイト デイズオーバーツー,MANGA,2579,77,2009-05-30,2012-08-11,FINISHED,35.0,5.0
+45306,Takemitsu Zamurai,Not Recorded,竹光侍,MANGA,7578,83,2006-08-06,2010-03-15,FINISHED,84.0,8.0
+45547,Kiichi VS,Kiichi VS,キーチVS,MANGA,3206,84,2007-07-27,2013-06-28,FINISHED,111.0,11.0
+45805,Tasogare Otome x Amnesia,Dusk Maiden of Amnesia,黄昏乙女×アムネジア,MANGA,13970,79,2008-04-22,2013-09-21,FINISHED,54.0,10.0
+46081,Umineko no Naku Koro ni Episode 3: Banquet of the Golden Witch,Umineko When They Cry Episode 3: Banquet of the Golden Witch,うみねこのなく頃に - Episode 3: Banquet of the Golden Witch,MANGA,7896,82,2009-09-19,2011-06-22,FINISHED,22.0,5.0
+46144,Umineko no Naku Koro ni Episode 4: Alliance of the Golden Witch,Umineko When They Cry Episode 4: Alliance of the Golden Witch,うみねこのなく頃に - Episode 4: Alliance of the Golden Witch,MANGA,7269,82,2009-10-01,2012-02-02,FINISHED,29.0,6.0
+46276,J no Subete,Not Recorded,Jの総て,MANGA,3356,77,2004-07-06,2006-03-31,FINISHED,16.0,3.0
+46659,Tobaku Datenroku Kaiji: Kazuya-hen,Not Recorded,賭博堕天録カイジ 和也編,MANGA,4191,79,2009-06-01,2012-02-13,FINISHED,100.0,10.0
+46668,Doubutsu no Kuni,Animal Land,どうぶつの国,MANGA,2461,77,2009-09-09,2014-02-08,FINISHED,56.0,14.0
+46765,Kingdom,Kingdom,キングダム,MANGA,68191,89,2006-01-26,,RELEASING,0.0,0.0
+46816,Durarara!!,Durarara!!,デュラララ!!,NOVEL,6406,81,2004-04-10,2014-01-10,FINISHED,89.0,13.0
+46922,Gakuen Babysitters,Not Recorded,学園ベビーシッターズ,MANGA,7422,81,2009-09-24,,RELEASING,0.0,0.0
+47051,Barakamon,Barakamon,ばらかもん,MANGA,15110,83,2008-02-22,2023-09-12,FINISHED,146.0,19.0
+47462,Dousei Jidai,Not Recorded,同棲時代,MANGA,2556,78,1972-03-02,1973-11-08,FINISHED,80.0,6.0
+47465,Omoide Emanon,Memories of Emanon,おもいでエマノン,MANGA,31866,78,2006-09-19,2008-01-19,FINISHED,9.0,1.0
+47552,Non Non Biyori,Non Non Biyori,のんのんびより,MANGA,4864,80,2009-09-26,2021-02-27,FINISHED,126.0,16.0
+47904,Kuragehime,Princess Jellyfish,海月姫,MANGA,15383,79,2008-10-25,2017-08-25,FINISHED,94.0,17.0
+47910,Yomawari Sensei,Not Recorded,夜回り先生,MANGA,8239,81,2004-09-25,2008-12-25,FINISHED,45.0,9.0
+48074,Getter Robo Saga,Not Recorded,ゲッターロボサーガ,MANGA,1382,79,2002-02-19,2007-08-20,FINISHED,73.0,9.0
+48161,Katanagatari,KATANAGATARI,刀語,NOVEL,3305,81,2007-01-09,2007-12-04,FINISHED,79.0,12.0
+48200,Sotsugyousei,Classmates,卒業生,MANGA,9767,83,2007-10-01,2009-08-01,FINISHED,16.0,2.0
+48570,Ultra Heaven,Ultra Heaven,ウルトラヘヴン,MANGA,9878,78,2001-06-12,2009-10-10,FINISHED,25.0,3.0
+49266,Ameiro Paradox,Candy Color Paradox,飴色パラドックス,MANGA,3439,77,2009-12-14,,RELEASING,0.0,0.0
+49594,Hana wa Saku ka,Does The Flower Blossom?,花は咲くか,MANGA,1804,77,2006-08-22,2015-09-12,FINISHED,35.0,5.0
+50006,Fate/strange Fake,Not Recorded,Fate/strange Fake,NOVEL,3923,83,2015-01-10,,RELEASING,0.0,10.0
+50242,Binbougami ga!,Good Luck Girl!,貧乏神が!,MANGA,5161,78,2008-06-04,2013-07-04,FINISHED,82.0,16.0
+51054,Touhou Ibarakasen: Wild and Horned Hermit,Not Recorded,東方茨歌仙 ～ Wild and Horned Hermit,MANGA,2679,78,2010-07-24,2019-06-14,FINISHED,61.0,10.0
+51277,Rutta to Kodama,Not Recorded,るったとこだま,MANGA,2645,77,2010-08-01,2012-09-01,FINISHED,21.0,3.0
+51467,Hoshi Mamoru Inu,Stargazing Dog,星守る犬,MANGA,9326,79,2008-07-22,2009-01-20,FINISHED,4.0,1.0
+51479,Sword Art Online,Sword Art Online,ソードアート・オンライン,NOVEL,14376,77,2009-04-10,,RELEASING,0.0,0.0
+51498,Umineko no Naku Koro ni Chiru Episode 5: End of the Golden Witch,Umineko When They Cry Episode 5: End of the Golden Witch,うみねこのなく頃に散 - Episode 5: End of the Golden Witch,MANGA,7219,84,2010-10-22,2012-11-22,FINISHED,27.0,6.0
+51499,Umineko no Naku Koro ni Chiru Episode 6: Dawn of the Golden Witch,Umineko When They Cry Episode 6: Dawn of the Golden Witch,うみねこのなく頃に散 - Episode 6: Dawn of the Golden Witch,MANGA,6620,84,2010-11-18,2012-11-17,FINISHED,26.0,6.0
+51525,Akatsuki no Yona,Yona of the Dawn,暁のヨナ,MANGA,49151,87,2009-08-05,2025-12-19,RELEASING,0.0,0.0
+52044,Iris Zero,Iris Zero,アイリス・ゼロ,MANGA,8476,77,2009-04-27,,RELEASING,0.0,0.0
+52651,The Breaker: New Waves,THE BREAKER - NEW WAVES,브레이커NW,MANGA,21245,81,2010-10-08,2015-05-08,FINISHED,203.0,20.0
+53390,Shingeki no Kyojin,Attack on Titan,進撃の巨人,MANGA,215014,84,2009-09-09,2021-04-09,FINISHED,141.0,34.0
+53571,Sunny,Sunny,Sunny,MANGA,12805,82,2010-12-25,2015-07-27,FINISHED,37.0,6.0
+53627,Yowamushi Pedal,Yowamushi Pedal,弱虫ペダル,MANGA,5122,78,2008-02-07,,RELEASING,0.0,0.0
+53751,Nekomonogatari: Shiro,Nekomonogatari: Cat Tale (White),猫物語（白）,NOVEL,7744,88,2010-10-27,2010-10-27,FINISHED,40.0,1.0
+53900,Umineko no Naku Koro ni Chiru Episode 7: Requiem of the Golden Witch,Umineko When They Cry Episode 7: Requiem of the Golden Witch,うみねこのなく頃に散 - Episode 7: Requiem of the Golden Witch,MANGA,6812,87,2011-04-12,2015-03-12,FINISHED,48.0,9.0
+53947,Kara no Kyoukai: The Garden of Sinners,Not Recorded,空の境界 the Garden of sinners,MANGA,2452,77,2010-11-01,,RELEASING,0.0,0.0
+54294,Ao Haru Ride,Ao Haru Ride,アオハライド,MANGA,56487,78,2011-01-13,2015-02-13,FINISHED,53.0,13.0
+54308,NO.6,No. 6,NO.6 [ナンバーシックス],MANGA,14278,79,2011-01-28,2013-11-28,FINISHED,35.0,9.0
+54380,Kokoro Connect,Kokoro Connect,ココロコネクト,NOVEL,3441,78,2010-01-30,2013-09-30,FINISHED,91.0,11.0
+54457,Mahou Shoujo Madoka☆Magica,Puella Magi Madoka Magica,魔法少女まどか☆マギカ,MANGA,11600,78,2011-02-12,2011-05-30,FINISHED,12.0,3.0
+54464,Kyoukaisenjou no Horizon,Not Recorded,境界線上のホライゾン,NOVEL,1965,77,2008-09-10,2018-12-07,FINISHED,872.0,29.0
+54692,Noragami,Noragami: Stray God,ノラガミ,MANGA,58140,82,2010-12-23,2024-01-06,FINISHED,109.0,27.0
+54705,Aku no Hana,The Flowers of Evil,惡の華,MANGA,65795,81,2009-09-09,2014-05-09,FINISHED,58.0,11.0
+54801,Ohana Holoholo,Not Recorded,オハナホロホロ,MANGA,3834,78,2008-10-01,2013-12-07,FINISHED,42.0,6.0
+54875,Shinyaku Toaru Majutsu no Index,A Certain Magical Index NT,新約とある魔術の禁書目録,NOVEL,4760,86,2011-03-11,2019-07-10,FINISHED,183.0,23.0
+54903,GANGSTA.,GANGSTA.,GANGSTA.,MANGA,17729,78,2011-01-21,,RELEASING,0.0,0.0
+55096,Gin no Saji,Silver Spoon,銀の匙,MANGA,14266,82,2011-03-30,2019-11-27,FINISHED,131.0,15.0
+55245,Zoku Hoshi Mamoru Inu,Star Protector Dog,続・星守る犬,MANGA,3594,78,2009-07-21,2009-11-03,FINISHED,4.0,1.0
+55250,The Voynich Hotel,The Voynich Hotel,ヴォイニッチホテル,MANGA,14778,78,2006-10-17,2015-03-17,FINISHED,68.0,3.0
+55409,High School DxD,High School DxD,ハイスクールD×D,NOVEL,9625,78,2008-09-20,2018-03-20,FINISHED,252.0,25.0
+55515,JoJo no Kimyou na Bouken: JoJolion,Not Recorded,ジョジョの奇妙な冒険 ジョジョリオン,MANGA,55917,84,2011-05-19,2021-08-19,FINISHED,110.0,27.0
+56144,Danshi Koukousei no Nichijou,The Daily Lives of High School Boys,男子高校生の日常,MANGA,9254,80,2009-05-21,2012-09-27,FINISHED,138.0,7.0
+56441,"Maoyuu Maou Yuusha: 'Kono Watashi no Mono Tonare, Yuusha yo' 'Kotowaru!'","MAOYU: Archenemy and Hero ""Be Mine, Hero!"" ""I Refuse!""",まおゆう魔王勇者「この我のものとなれ、勇者よ」「断る!」,MANGA,5346,77,2011-04-26,2016-04-26,FINISHED,59.0,18.0
+56704,Shouwa Genroku Rakugo Shinjuu,Descending Stories: Showa Genroku Rakugo Shinju,昭和元禄落語心中,MANGA,5098,82,2010-03-25,2016-06-07,FINISHED,32.0,10.0
+56736,Taiyou no Ie,House of the Sun,たいようのいえ,MANGA,23594,79,2010-04-24,2015-03-24,FINISHED,70.0,13.0
+56769,Bokura wa Minna Kawaisou,The Kawai Complex Guide to Manors and Hostel Behavior,僕らはみんな河合荘,MANGA,12801,78,2010-04-30,2017-12-28,FINISHED,94.0,11.0
+57231,Hirunaka no Ryuusei,Daytime Shooting Star,ひるなかの流星,MANGA,21991,77,2011-05-20,2014-11-05,FINISHED,86.0,12.0
+58393,Sakamichi no Apollon,Not Recorded,坂道のアポロン,MANGA,9146,82,2007-09-28,2012-01-28,FINISHED,53.0,9.0
+58449,Saezuru Tori wa Habatakanai,Twittering Birds Never Fly,囀る鳥は羽ばたかない,MANGA,6634,81,2011-08-01,,RELEASING,0.0,0.0
+59211,Gekkan Shoujo Nozaki-kun,Monthly Girls' Nozaki-kun,月刊少女野崎くん,MANGA,24537,82,2011-08-25,,RELEASING,0.0,0.0
+60079,Annarasumanara,Sound of Magic,안나라수마나라,MANGA,20135,79,2010-07-28,2010-12-31,FINISHED,28.0,3.0
+60315,Last Game,Last Game,ラストゲーム,MANGA,23423,79,2011-08-24,2016-06-24,FINISHED,66.0,11.0
+60779,Tetsugaku Letra,Not Recorded,鉄楽レトラ,MANGA,6764,77,2011-04-12,2014-12-12,FINISHED,27.0,6.0
+63031,Imawa no Kuni no Alice,Alice in Borderland,今際の国のアリス,MANGA,37582,82,2010-11-25,2016-03-02,FINISHED,87.0,18.0
+63297,Ao Haru Ride,Blue Spring Ride,アオハライド,NOVEL,4670,78,2011-12-27,2015-06-02,FINISHED,20.0,6.0
+63327,Tokyo Ghoul,Tokyo Ghoul,東京喰種 トーキョーグール,MANGA,176635,84,2011-09-22,2014-09-18,FINISHED,144.0,14.0
+64053,Umineko no Naku Koro ni Chiru Episode 8: Twilight of the Golden Witch,Umineko When They Cry Episode 8: Twilight of the Golden Witch,うみねこのなく頃に散 - Episode 8: Twilight of the Golden Witch,MANGA,10274,91,2012-01-21,2015-06-22,FINISHED,42.0,9.0
+64127,Mahouka Koukou no Rettousei,The Irregular at Magic High School,魔法科高校の劣等生,NOVEL,7575,77,2011-07-10,2020-09-10,FINISHED,243.0,32.0
+65003,Yamada-kun to 7-nin no Majo,Yamada-kun and the Seven Witches,山田くんと7人の魔女,MANGA,31793,77,2012-02-22,2017-02-22,FINISHED,246.0,28.0
+65243,Haikyuu!!,Haikyu!!,ハイキュー！！,MANGA,95411,89,2012-02-20,2020-07-20,FINISHED,404.0,45.0
+65513,Hyouka,Not Recorded,氷菓,NOVEL,5529,83,2001-10-31,2001-10-31,FINISHED,9.0,1.0
+65573,orange,orange,orange [オレンジ],MANGA,36370,79,2012-03-13,2022-04-12,FINISHED,39.0,7.0
+65733,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,Not Recorded,あの日見た花の名前を僕達はまだ知らない。,MANGA,4658,78,2012-04-04,2013-04-04,FINISHED,13.0,3.0
+66131,Fate/kaleid liner Prisma☆Illya 3rei!!,Fate/kaleid liner Prisma ☆ Illya Drei 3!!,Fate/kaleid liner プリズマ☆イリヤ ドライ！！,MANGA,4125,81,2012-05-26,,RELEASING,0.0,0.0
+66413,Hinamatsuri,Hinamatsuri,ヒナまつり,MANGA,22419,84,2010-06-15,2020-07-15,FINISHED,132.0,19.0
+66903,Sasurai Emanon,Emanon Wanderer,さすらいエマノン,MANGA,10732,77,2012-04-03,2017-12-19,CANCELLED,37.0,3.0
+66933,Ore Monogatari!!,My Love Story!!,俺物語!!,MANGA,10629,79,2011-11-01,2024-04-24,FINISHED,56.0,14.0
+67523,Date A Live,Date A Live,デート・ア・ライブ,NOVEL,7164,80,2011-03-19,2020-03-19,FINISHED,146.0,22.0
+67707,Shigatsu wa Kimi no Uso,Your Lie in April,四月は君の嘘,MANGA,20833,82,2011-04-06,2015-02-06,FINISHED,44.0,11.0
+67755,Saiki Kusuo no Ψ-nan,Not Recorded,斉木楠雄のΨ難,MANGA,15334,82,2012-05-14,2018-07-26,FINISHED,290.0,26.0
+68071,Spirit Circle,Spirit Circle,スピリットサークル,MANGA,18601,83,2012-05-30,2016-03-30,FINISHED,46.0,6.0
+68105,Kase-san Series,Kase-san and...,加瀬さんシリーズ,MANGA,17279,79,2010-08-25,2017-03-23,FINISHED,25.0,5.0
+69291,Nijiiro Days,Rainbow Days,虹色デイズ,MANGA,11767,77,2011-12-01,2018-05-11,FINISHED,80.0,16.0
+69325,Boku dake ga Inai Machi,Erased,僕だけがいない街,MANGA,27403,80,2012-06-04,2016-11-04,FINISHED,49.0,9.0
+69859,Steins;Gate Chouyoku no Divergence: Reverse,Not Recorded,STEINS;GATE 蝶翼のダイバージェンス：Reverse,NOVEL,1513,78,2011-01-07,,FINISHED,0.0,1.0
+69883,Ansatsu Kyoushitsu,Assassination Classroom,暗殺教室,MANGA,51122,81,2012-07-02,2016-04-25,FINISHED,188.0,21.0
+70099,Chuunibyou demo Koi ga Shitai!,Not Recorded,中二病でも恋がしたい!,NOVEL,3000,77,2011-05-15,2017-12-22,FINISHED,51.0,4.0
+70171,Yahari Ore no Seishun Love Come wa Machigatteiru.,"My Youth Romantic Comedy Is Wrong, As I Expected",やはり俺の青春ラブコメはまちがっている。,NOVEL,19347,85,2011-03-23,2021-04-20,FINISHED,168.0,18.0
+70761,Ookami Kodomo no Ame to Yuki,Wolf Children: Ame & Yuki,おおかみこどもの雨と雪,MANGA,6108,80,2012-04-04,2013-08-03,FINISHED,16.0,3.0
+71629,Hyouka,Hyouka,氷菓,MANGA,7286,79,2012-01-26,,RELEASING,0.0,0.0
+71769,pink,Pink,pink,MANGA,6874,77,1989-02-01,1989-09-28,FINISHED,20.0,1.0
+71865,Hajishirazu no Purple Haze: JoJo no Kimyou na Bouken,JoJo's Bizarre Adventure: Purple Smoke Distortion,恥知らずのパープルヘイズ―ジョジョの奇妙な冒険より―,NOVEL,5893,78,2011-09-16,2011-09-16,FINISHED,9.0,1.0
+72001,Chang Ge Xing,Not Recorded,長歌行,MANGA,8994,81,2011-02-01,,RELEASING,0.0,0.0
+72451,Horimiya,Horimiya,ホリミヤ,MANGA,114996,82,2011-10-18,2023-07-18,FINISHED,152.0,17.0
+72867,Kagerou Daze,Kagerou Daze,カゲロウデイズ,NOVEL,3862,80,2012-05-30,2017-12-09,FINISHED,81.0,8.0
+73915,Feng Shen Ji II,Not Recorded,封神紀Ⅱ,MANGA,3335,78,2011-01-01,2012-01-01,FINISHED,64.0,0.0
+73921,Sword Art Online: Progressive,Sword Art Online Progressive,ソードアート・オンライン プログレッシブ,NOVEL,6131,81,2012-10-10,,RELEASING,0.0,0.0
+74227,Tsukimonogatari,Tsukimonogatari: Possession Tale,憑物語,NOVEL,6006,84,2012-09-26,2012-09-26,FINISHED,19.0,1.0
+74307,Kakukaku Shikajika,Blank Canvas: My So-Called Artist's Journey,かくかくしかじか,MANGA,13130,83,2011-09-28,2015-01-28,FINISHED,34.0,5.0
+74319,Mahou Shoujo Madoka★Magica: The different story,Puella Magi Madoka Magica: The Different Story,魔法少女まどか☆マギカ ~The different story~,MANGA,4888,79,2012-06-12,2012-11-12,FINISHED,12.0,3.0
+74347,One Punch-Man,One-Punch Man,ワンパンマン,MANGA,160360,85,2012-06-14,,RELEASING,0.0,0.0
+74489,Houseki no Kuni,Land of the Lustrous,宝石の国,MANGA,72775,89,2012-10-25,2024-04-25,FINISHED,108.0,13.0
+74501,Hi Score Girl,Hi Score Girl,ハイスコアガール,MANGA,7127,78,2010-10-29,2018-09-25,FINISHED,70.0,10.0
+74523,Touhou Suzunaan: Forbidden Scrollery.,Forbidden Scrollery,東方鈴奈庵 ～ Forbidden Scrollery.,MANGA,3330,79,2012-10-26,2017-07-26,FINISHED,54.0,7.0
+74711,Feng Shen Ji III,Not Recorded,封神纪3,MANGA,2641,77,2012-01-01,2014-01-01,FINISHED,80.0,0.0
+75143,Kono Oto Tomare!,Not Recorded,この音とまれ！,MANGA,21791,87,2012-08-04,,RELEASING,0.0,0.0
+75447,Yahari Ore no Seishun Love Come wa Machigatteiru. Monologue,Not Recorded,やはり俺の青春ラブコメはまちがっている－妄言録－,MANGA,4684,78,2012-09-25,2023-04-25,FINISHED,115.0,22.0
+76010,xxxHOLiC: Rei,xxxHOLiC Rei,xxxHOLiC・戻,MANGA,3890,79,2013-03-04,,RELEASING,0.0,0.0
+76024,Log Horizon,Log Horizon,ログ・ホライズン,NOVEL,4122,77,2010-04-13,,RELEASING,0.0,0.0
+76258,Flying Witch,Flying Witch,ふらいんぐうぃっち,MANGA,9502,79,2012-08-09,,RELEASING,0.0,0.0
+76282,Chikan Otoko,Not Recorded,痴漢男,MANGA,13924,81,2004-01-01,2004-01-01,FINISHED,23.0,0.0
+76814,Hibari no Asa,Not Recorded,ひばりの朝,MANGA,4979,78,2011-03-08,2013-05-08,FINISHED,14.0,2.0
+77022,Sakamichi no Apollon: Bonus Track,Not Recorded,坂道のアポロン BONUS TRACK,MANGA,1757,79,2012-03-28,2012-07-28,FINISHED,5.0,1.0
+77825,Steins;Gate: Aishin Meizu no Babel,Not Recorded,シュタインズ・ゲート - 哀心迷図のバベル,MANGA,1510,78,2012-05-19,2014-01-18,FINISHED,20.0,4.0
+78025,Magi: Sinbad no Bouken,Magi: The Adventures of Sinbad,マギ シンドバッドの冒険,MANGA,12282,80,2013-05-08,2018-05-02,FINISHED,182.0,19.0
+78151,World Trigger,World Trigger,ワールドトリガー,MANGA,18756,77,2013-02-08,,RELEASING,0.0,0.0
+78347,Ballroom e Youkoso,Welcome to the Ballroom,ボールルームへようこそ,MANGA,15079,82,2011-11-05,,RELEASING,0.0,0.0
+78399,No Game No Life,Not Recorded,ノーゲーム・ノーライフ,NOVEL,16296,81,2012-04-25,,RELEASING,0.0,0.0
+78621,Koe no Katachi,Not Recorded,聲の形,ONE_SHOT,14463,81,2011-01-08,2011-01-08,FINISHED,1.0,0.0
+79835,Gochuumon wa Usagi desu ka?,Is the order a rabbit?,ご注文はうさぎですか？,MANGA,3118,80,2011-01-19,,RELEASING,0.0,0.0
+79865,Ajin,Ajin: Demi-Human,亜人,MANGA,56382,80,2012-07-06,2021-02-05,FINISHED,99.0,17.0
+82343,Jun: Shotaro no Fantasy World,Not Recorded,ジュン - 章太郎のファンタジーワールド,MANGA,3234,77,1966-12-20,1971-09-20,FINISHED,34.0,2.0
+83537,Danganronpa Kirigiri,Not Recorded,ダンガンロンパ霧切,NOVEL,2268,77,2013-09-13,2020-06-17,FINISHED,35.0,7.0
+85134,Utsuro no Hako to Zero no Maria,The Empty Box and Zeroth Maria,空ろの箱と零のマリア,NOVEL,25869,84,2009-01-07,2015-06-10,FINISHED,254.0,7.0
+85135,Koe no Katachi,A Silent Voice,聲の形,MANGA,84498,87,2013-08-07,2014-11-19,FINISHED,64.0,7.0
+85139,Jitsu wa Watashi wa,"My Monster Secret: Actually, I Am…",実は私は,MANGA,17193,78,2013-01-31,2017-02-16,FINISHED,196.0,22.0
+85143,Sinui Tap,Tower of God,신의 탑,MANGA,92815,81,2010-06-30,,RELEASING,0.0,0.0
+85162,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,Is It Wrong to Try to Pick Up Girls in a Dungeon?,ダンジョンに出会いを求めるのは間違っているのだろうか,NOVEL,9569,81,2013-01-15,,RELEASING,0.0,0.0
+85165,Innocent,Innocent,イノサン,MANGA,31245,81,2013-01-31,2015-04-16,FINISHED,99.0,9.0
+85189,Mob Psycho 100,Mob Psycho 100,モブサイコ100,MANGA,45775,85,2012-04-18,2017-12-22,FINISHED,113.0,16.0
+85198,Kasane,Kasane,累－かさね－,MANGA,16438,77,2013-04-23,2018-08-10,FINISHED,126.0,14.0
+85199,Shingeki no Kyojin Gaiden: Kuinaki Sentaku,Attack on Titan: No Regrets,進撃の巨人 外伝 悔いなき選択,MANGA,15454,78,2013-09-28,2014-06-28,FINISHED,11.0,2.0
+85235,Gakkou Gurashi!,School-Live!,がっこうぐらし!,MANGA,20088,78,2012-05-24,2019-11-22,FINISHED,78.0,12.0
+85247,Sousei no Onmyouji,Twin Star Exorcists,双星の陰陽師,MANGA,21127,77,2013-11-02,2024-09-04,FINISHED,142.0,35.0
+85296,Baraou no Souretsu,Requiem of the Rose King,薔薇王の葬列,MANGA,10962,79,2013-10-04,2022-01-06,FINISHED,78.0,17.0
+85307,Bungou Stray Dogs,Bungo Stray Dogs,文豪ストレイドッグス,MANGA,42830,83,2012-12-04,,RELEASING,0.0,0.0
+85316,Dead Dead Demon's Dededededestruction,Dead Dead Demon's Dededede Destruction,デッドデッドデーモンズデデデデデストラクション,MANGA,38155,81,2014-04-28,2022-02-28,FINISHED,101.0,12.0
+85336,Wakabayashi Toshiya 4-koma Soushuuhen,Not Recorded,若林稔弥 4コマ 総集編,MANGA,2995,78,2012-01-10,2018-08-24,FINISHED,61.0,0.0
+85364,One Punch Man,Not Recorded,ワンパンマン,MANGA,12322,82,2009-07-03,,RELEASING,0.0,0.0
+85395,Namaiki Zakari.,Cheeky Brat,なまいきざかり。,MANGA,24219,77,2013-10-19,2021-12-20,FINISHED,138.0,23.0
+85412,Shoujo Shuumatsu Ryokou,Girls' Last Tour,少女終末旅行,MANGA,44109,86,2014-02-21,2018-01-12,FINISHED,47.0,6.0
+85413,Yugami-kun ni wa Tomodachi ga Inai,Not Recorded,湯神くんには友達がいない,MANGA,13742,80,2012-05-25,2019-05-22,FINISHED,81.0,16.0
+85435,Mahoutsukai no Yome,The Ancient Magus' Bride,魔法使いの嫁,MANGA,26930,81,2013-11-30,,RELEASING,0.0,0.0
+85464,Gekijouban Mahou Shoujo Madoka★Magica: Shinpen - Hangyaku no Monogatari,Puella Magi Madoka Magica: The Movie -Rebellion-,劇場版 魔法少女まどか★マギカ [新編] 叛逆の物語,MANGA,2758,78,2013-11-12,2014-01-10,FINISHED,9.0,3.0
+85470,Mushoku Tensei: Isekai Ittara Honki Dasu,Mushoku Tensei: Jobless Reincarnation,無職転生 ～異世界行ったら本気だす～,NOVEL,34113,88,2014-01-23,2022-11-25,FINISHED,334.0,26.0
+85475,Rikudou,Not Recorded,リクドウ,MANGA,11879,77,2014-04-17,2019-05-23,FINISHED,241.0,23.0
+85486,Boku no Hero Academia,My Hero Academia,僕のヒーローアカデミア,MANGA,168725,77,2014-07-07,2024-08-05,FINISHED,432.0,42.0
+85533,Karakai Jouzu no Takagi-san,Teasing Master Takagi-san,からかい上手の高木さん,MANGA,28987,79,2012-06-12,2023-10-12,FINISHED,190.0,20.0
+85564,Mushoku Tensei: Isekai Ittara Honki Dasu,Mushoku Tensei: Jobless Reincarnation,無職転生 ～異世界行ったら本気だす～,MANGA,43848,78,2014-05-02,,RELEASING,0.0,0.0
+85609,Blue Sky Complex,Blue Sky Complex,ブルースカイコンプレックス,MANGA,3107,79,2013-09-25,,RELEASING,0.0,0.0
+85611,Tokyo Ghoul:re,Tokyo Ghoul:re,東京喰種-トーキョーグール-:re,MANGA,93634,83,2014-10-16,2018-07-05,FINISHED,181.0,16.0
+85616,Umibe no Étranger,Seaside Stranger: Umibe no Étranger,海辺のエトランゼ,MANGA,19100,77,2013-04-25,2014-04-25,FINISHED,4.0,1.0
+85617,Harukaze no Étranger,Seaside Stranger: Harukaze no Étranger,春風のエトランゼ,MANGA,11793,82,2014-07-25,,RELEASING,0.0,0.0
+85635,Dungeon ni Deai wo Motomeru no wa Machigatteiru no Darou ka Gaiden: Sword Oratoria,Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria,ダンジョンに出会いを求めるのは間違っているだろうか外伝 ソード・オラトリア,NOVEL,1760,79,2014-01-15,,RELEASING,0.0,0.0
+85697,NEW GAME!,New Game!,NEW GAME!,MANGA,10606,79,2013-01-28,2021-08-27,FINISHED,181.0,13.0
+85702,Kono Subarashii Sekai ni Shukufuku wo!,Konosuba: God's Blessing on This Wonderful World!,この素晴らしい世界に祝福を!,MANGA,9782,79,2014-09-09,,RELEASING,0.0,0.0
+85734,Tamen De Gushi,Not Recorded,她们的故事,MANGA,36035,82,2014-11-22,,RELEASING,0.0,0.0
+85737,Re:Zero kara Hajimeru Isekai Seikatsu,Re:ZERO -Starting Life in Another World-,Re:ゼロから始める異世界生活,NOVEL,26232,87,2014-01-24,,RELEASING,0.0,0.0
+85747,Winter Woods,Winter Woods,윈터우즈,MANGA,4252,78,2014-07-14,2017-02-05,FINISHED,128.0,7.0
+85749,Saenai Heroine no Sodatekata: Koisuru Metronome,Not Recorded,冴えない彼女の育てかた 恋するメトロノーム,MANGA,3825,77,2013-08-24,2018-04-25,FINISHED,64.0,10.0
+85814,Re:Zero kara Hajimeru Isekai Seikatsu: Dai-2 Shou - Yashiki no Isshuukan-hen,Re:ZERO -Starting Life in Another World- Chapter 2: A Week at the Mansion,Re:ゼロから始める異世界生活 第二章 屋敷の一週間編,MANGA,5898,77,2014-10-25,2017-10-25,FINISHED,31.0,5.0
+85827,Seolleneun Gibun,Not Recorded,설레는 기분,MANGA,2687,78,2014-10-08,2016-03-20,CANCELLED,68.0,0.0
+85849,ReLife,ReLIFE,リライフ,MANGA,51563,85,2013-10-12,2018-03-16,FINISHED,238.0,15.0
+85850,19 Tian,Not Recorded,19天,MANGA,24258,84,2014-01-01,,RELEASING,0.0,0.0
+85887,Ookami Shounen wa Kyou mo Uso wo Kasaneru,Not Recorded,狼少年は今日も嘘を重ねる,MANGA,17223,78,2014-08-29,2017-12-08,FINISHED,34.0,5.0
+85898,Tanaka-kun wa Itsumo Kedaruge,Tanaka-kun is Always Listless,田中くんはいつもけだるげ,MANGA,10745,79,2013-07-25,2019-07-25,FINISHED,140.0,13.0
+85911,Tomodachi Game,Tomodachi Game,トモダチゲーム,MANGA,37156,81,2013-12-09,2024-08-08,FINISHED,130.0,26.0
+85922,Hidamari ga Kikoeru,I Hear the Sunspot,ひだまりが聴こえる,MANGA,14983,79,2013-12-21,2014-08-06,FINISHED,6.0,1.0
+85934,Overlord,Overlord,オーバーロード,MANGA,15354,77,2014-11-26,2023-05-26,FINISHED,83.0,19.0
+85976,Overlord,Overlord,オーバーロード,NOVEL,16635,84,2012-06-30,,RELEASING,0.0,18.0
+86036,SHIORI EXPERIENCE: Jimi na Watashi to Hen na Ojisan,Not Recorded,SHIORI EXPERIENCE ~ジミなわたしとヘンなおじさん~,MANGA,11054,83,2013-10-25,,RELEASING,0.0,0.0
+86037,Rokka no Yuusha,Rokka: Braves of the Six Flowers,六花の勇者,NOVEL,3435,78,2011-08-25,,RELEASING,0.0,0.0
+86044,Amaama to Inazuma,Sweetness and Lightning,甘々と稲妻,MANGA,9694,79,2013-02-07,2018-08-07,FINISHED,64.0,12.0
+86082,Dungeon Meshi,Delicious in Dungeon,ダンジョン飯,MANGA,48131,88,2014-02-15,2023-09-15,FINISHED,111.0,14.0
+86099,Wind Breaker,Wind Breaker,윈드브레이커,MANGA,39280,85,2013-12-08,2025-07-06,CANCELLED,554.0,0.0
+86123,Black Clover,Black Clover,ブラッククローバー,MANGA,98369,77,2015-02-16,,RELEASING,0.0,0.0
+86182,Fate/stay night [Heaven's Feel],Not Recorded,Fate/stay night [Heaven's Feel],MANGA,3441,79,2015-05-02,,RELEASING,0.0,0.0
+86206,Hitoribocchi no Marumaru Seikatsu,Not Recorded,ひとりぼっちの○○生活,MANGA,10530,79,2013-09-27,2021-04-27,FINISHED,101.0,8.0
+86218,Yagate Kimi ni Naru,Bloom Into You,やがて君になる,MANGA,60066,86,2015-04-27,2019-09-27,FINISHED,53.0,8.0
+86238,Kono Subarashii Sekai ni Shukufuku wo!,Konosuba: God's Blessing on This Wonderful World!,この素晴らしい世界に祝福を!,NOVEL,16556,84,2013-10-01,2020-05-01,FINISHED,127.0,17.0
+86243,Tsubaki-chou Lonely Planet,Tsubaki-chou Lonely Planet,椿町ロンリープラネット,MANGA,14937,77,2015-05-20,2019-03-20,FINISHED,85.0,14.0
+86265,Kengan Ashura,Kengan Ashura,ケンガンアシュラ,MANGA,25594,81,2012-04-18,2018-08-09,FINISHED,260.0,27.0
+86279,Kishuku Gakkou no Juliet,Boarding School Juliet,寄宿学校のジュリエット,MANGA,24381,81,2015-07-09,2019-09-04,FINISHED,121.0,16.0
+86284,Queen's Quality,Queen's Quality,クイーンズ・クオリティ,MANGA,5595,78,2015-07-13,2025-02-13,FINISHED,108.0,25.0
+86300,Tomo-chan wa Onnanoko!,Tomo-chan is a Girl!,トモちゃんは女の子!,MANGA,43742,77,2015-04-07,2019-07-14,FINISHED,961.0,8.0
+86310,Enen no Shouboutai,Fire Force,炎炎ノ消防隊,MANGA,60344,78,2015-09-23,2022-02-22,FINISHED,305.0,34.0
+86355,Tensei Shitara Slime Datta Ken,That Time I Got Reincarnated as a Slime,転生したらスライムだった件,NOVEL,16334,84,2014-05-30,2025-11-29,FINISHED,0.0,23.0
+86365,Hai to Gensou no Grimgar,Grimgar of Fantasy and Ash,灰と幻想のグリムガル,NOVEL,7140,80,2013-06-25,,RELEASING,0.0,0.0
+86399,Tensei Shitara Slime Datta Ken,That Time I Got Reincarnated as a Slime,転生したらスライムだった件,MANGA,54852,82,2015-03-26,,RELEASING,0.0,0.0
+86406,"Kumo desu ga, Nani ka?","So I'm a Spider, So What?",蜘蛛ですが、なにか？,NOVEL,10839,82,2015-12-10,2022-01-08,FINISHED,384.0,16.0
+86436,Koimonogatari,Love Stories,こいものがたり,MANGA,4653,78,2013-05-22,,RELEASING,0.0,0.0
+86462,Boku to Kimi no Taisetsu na Hanashi,Our Precious Conversations,僕と君の大切な話,MANGA,11124,78,2015-08-24,2019-12-24,FINISHED,37.0,7.0
+86481,Tsurezure Children,Tsuredure Children,徒然チルドレン,MANGA,19767,80,2012-06-10,2018-07-11,FINISHED,212.0,12.0
+86551,Made in Abyss,Made in Abyss,メイドインアビス,MANGA,53315,85,2012-10-20,,RELEASING,0.0,0.0
+86559,Golden Kamuy,Golden Kamuy,ゴールデンカムイ,MANGA,46914,86,2014-08-21,2022-04-28,FINISHED,314.0,31.0
+86568,Vanitas no Carte,The Case Study of Vanitas,ヴァニタスの手記,MANGA,32720,83,2015-12-22,,RELEASING,0.0,0.0
+86569,Diamond no Ace Act II,Ace of the Diamond Act II,ダイヤのA act II,MANGA,7101,85,2015-08-19,2022-10-26,FINISHED,308.0,34.0
+86579,Fukigen na Mononokean,The Morose Mononokean,不機嫌なモノノケ庵,MANGA,4285,80,2013-09-12,2021-04-08,FINISHED,93.0,18.0
+86623,Hakumei to Mikochi,Hakumei & Mikochi,ハクメイとミコチ,MANGA,4636,78,2011-04-30,,RELEASING,0.0,0.0
+86635,Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen,Kaguya-sama: Love is War,かぐや様は告らせたい～天才たちの恋愛頭脳戦～,MANGA,110511,88,2015-05-19,2022-11-02,FINISHED,281.0,28.0
+86639,Koi wa Ameagari no You ni,After the Rain,恋は雨上がりのように,MANGA,16023,77,2014-06-27,2018-03-19,FINISHED,83.0,10.0
+86640,Gosu,GOSU,고수,MANGA,12301,78,2015-09-08,2021-04-27,FINISHED,233.0,16.0
+86687,Hanakoi Tsurane,Not Recorded,花恋つらね,MANGA,1812,78,2015-11-14,2024-02-14,FINISHED,68.0,10.0
+86707,Yao Shen Ji,Tales of Demons and Gods,妖神记,MANGA,30146,77,2015-01-01,,RELEASING,0.0,0.0
+86717,Wotaku ni Koi wa Muzukashii,Wotakoi: Love is Hard for Otaku,ヲタクに恋は難しい,MANGA,60029,82,2014-04-17,2021-07-16,FINISHED,115.0,11.0
+86720,Helck,Helck,ヘルク,MANGA,17272,80,2014-05-05,2017-12-18,FINISHED,111.0,12.0
+86738,Nekota no Koto ga Ki ni Natte Shikatanai.,Not Recorded,猫田のことが気になって仕方ない。,MANGA,3067,77,2013-04-03,2016-12-28,FINISHED,49.0,10.0
+86742,Kujira no Kora wa Sajou ni Utau,Children of the Whales,クジラの子らは砂上に歌う,MANGA,9362,77,2013-06-06,2023-01-06,FINISHED,97.0,23.0
+86753,Fate/strange Fake,Not Recorded,Fate/strange Fake,MANGA,4263,78,2015-01-10,,RELEASING,0.0,0.0
+86770,Totsukuni no Shoujo,"The Girl From the Other Side: Siúil, a Rún",とつくにの少女,MANGA,42239,82,2015-09-05,2021-03-05,FINISHED,53.0,11.0
+86848,Oemo Jisangjuui,Lookism,외모지상주의,MANGA,39453,78,2014-11-20,,RELEASING,0.0,0.0
+86890,BLUE GIANT,Blue Giant,BLUE GIANT,MANGA,12880,84,2013-05-10,2016-08-25,FINISHED,80.0,10.0
+86898,Demi-chan wa Kataritai,Interviews with Monster Girls,亜人ちゃんは語りたい,MANGA,11134,77,2014-09-05,2022-12-19,FINISHED,78.0,11.0
+86964,Hurejasik,Bastard,후레자식,MANGA,71023,83,2014-07-04,2017-03-20,FINISHED,94.0,5.0
+87020,Hokuhokusei ni Kumo to Ike,"Go with the Clouds, North-by-Northwest",北北西に曇と往け,MANGA,7105,79,2016-03-14,,RELEASING,0.0,0.0
+87027,Hellper,Hellper,헬퍼,MANGA,7954,77,2011-10-05,2015-06-03,FINISHED,189.0,18.0
+87151,Colette wa Shinu Koto ni Shita,Colette Decides to Die,コレットは死ぬことにした,MANGA,6358,78,2013-11-05,2021-10-05,FINISHED,133.0,20.0
+87154,Urisaineuneun,Something About Us,우리사이느은,MANGA,13993,79,2014-10-01,2016-10-19,FINISHED,117.0,5.0
+87170,Fire Punch,Fire Punch,ファイアパンチ,MANGA,92192,79,2016-04-18,2018-01-01,FINISHED,83.0,8.0
+87197,Lord El-Melloi II-sei no Jikenbo,Not Recorded,ロード・エルメロイⅡ世の事件簿,NOVEL,1464,78,2014-12-30,2019-05-17,FINISHED,58.0,10.0
+87208,Shimanami Tasogare,Our Dreams at Dusk: Shimanami Tasogare,しまなみ誰そ彼,MANGA,34545,84,2015-03-06,2018-05-23,FINISHED,23.0,4.0
+87216,Kimetsu no Yaiba,Demon Slayer: Kimetsu no Yaiba,鬼滅の刃,MANGA,195328,79,2016-02-15,2020-05-18,FINISHED,207.0,23.0
+87217,Innocent Rouge,Innocent Rouge,イノサン Rouge,MANGA,15991,83,2015-05-20,2020-01-08,FINISHED,88.0,12.0
+87232,NARUTO Shinden Series (2015),Not Recorded,NARUTO -ナルト- 真伝シリーズ,NOVEL,4335,81,2015-09-04,2015-11-04,FINISHED,11.0,3.0
+87259,Re:Zero kara Hajimeru Isekai Seikatsu: Dai-3 Shou - Truth of Zero,Re:ZERO -Starting Life in Another World- Chapter 3: Truth of Zero,Re:ゼロから始める異世界生活 第三章 Truth of Zero,MANGA,4891,79,2015-05-27,2019-09-27,FINISHED,55.0,11.0
+87262,Re:Zero kara Hajimeru Isekai Seikatsu Ex,Re:ZERO -Starting Life in Another World- Ex,Re:ゼロから始める異世界生活Ex,NOVEL,2283,82,2015-06-25,,RELEASING,0.0,0.0
+87284,Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?,WorldEnd: What Do You Do at the End of the World? Are You Busy? Will You Save Us?,終末なにしてますか? 忙しいですか? 救ってもらっていいですか?,NOVEL,7544,83,2014-11-01,2016-04-01,FINISHED,25.0,5.0
+87296,Cardcaptor Sakura: Clear Card-hen,Cardcaptor Sakura: Clear Card Arc,カードキャプターさくら クリアカード編,MANGA,6408,79,2016-06-03,2023-12-01,FINISHED,88.0,16.0
+87347,Given,Given,ギヴン,MANGA,38474,83,2013-04-30,2023-03-30,FINISHED,51.0,9.0
+87350,"Ohayou, Ibarahime","Wake up, Sleeping Beauty",おはよう、いばら姫,MANGA,14607,82,2014-11-22,2017-05-24,FINISHED,26.0,6.0
+87383,Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen Dai 1-bu - Heishi no Musume,Ascendance of a Bookworm: Part 1,本好きの下剋上 ~司書になるためには手段を選んでいられません~ 第一部「兵士の娘」,NOVEL,6710,85,2015-01-25,2015-06-25,FINISHED,85.0,3.0
+87395,Grand Blue,Grand Blue Dreaming,ぐらんぶる,MANGA,62503,88,2014-04-07,,RELEASING,0.0,0.0
+87401,Bungou Stray Dogs Wan!,Bungo Stray Dogs: Wan!,文豪ストレイドッグス わん！,MANGA,3100,80,2015-12-20,,RELEASING,0.0,0.0
+87423,Yakusoku no Neverland,The Promised Neverland,約束のネバーランド,MANGA,125618,79,2016-08-01,2020-06-15,FINISHED,181.0,20.0
+87442,Kanata no Astra,Astra Lost in Space,彼方のアストラ,MANGA,9581,78,2016-05-09,2017-12-30,FINISHED,53.0,5.0
+87459,Sabishisugite Rezu Fuzoku ni Ikimashita Report,My Lesbian Experience With Loneliness,さびしすぎてレズ風俗に行きましたレポ,MANGA,33848,80,2016-07-17,2016-07-17,FINISHED,6.0,1.0
+87471,Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,Rascal Does Not Dream of Bunny Girl Senpai,青春ブタ野郎はバニーガール先輩の夢を見ない,MANGA,11547,77,2015-11-30,2018-08-30,FINISHED,20.0,2.0
+87510,Maou-jou de Oyasumi,Sleepy Princess in the Demon Castle,魔王城でおやすみ,MANGA,10362,78,2016-05-11,,RELEASING,0.0,0.0
+88867,BE BLUES!: Ao ni Nare,Not Recorded,BE BLUES!〜青になれ〜,MANGA,4931,81,2011-01-26,2022-09-28,FINISHED,489.0,49.0
+89278,Tobaku Datenroku Kaiji: One Poker-hen,Not Recorded,賭博堕天録カイジ ワン・ポーカー編,MANGA,4553,86,2013-04-27,2017-08-21,FINISHED,155.0,16.0
+91170,Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,Rascal Does Not Dream of Bunny Girl Senpai,青春ブタ野郎はバニーガール先輩の夢を見ない,NOVEL,11435,85,2014-04-10,2014-04-10,FINISHED,6.0,1.0
+91203,OUT,Not Recorded,OUT -アウト-,MANGA,11701,78,2012-06-12,,RELEASING,0.0,0.0
+91616,Setoutsumi,Seto Utsumi,セトウツミ,MANGA,3276,77,2012-12-06,2017-11-10,FINISHED,76.0,8.0
+92453,Higurashi no Naku Koro ni - Dai 1-wa: Onikakushi-hen,Not Recorded,ひぐらしのなく頃に 第一話~鬼隠し編~,NOVEL,825,78,2007-08-02,2007-09-04,FINISHED,0.0,2.0
+92544,Higurashi no Naku Koro ni Kai - Dai 2-wa: Tsumihoroboshi-hen,Not Recorded,ひぐらしのなく頃に解 第2話～罪滅し編～,NOVEL,475,77,2008-07-02,2008-08-05,FINISHED,0.0,2.0
+92550,Adachi to Shimamura,Adachi and Shimamura,安達としまむら,NOVEL,5979,83,2012-10-10,,RELEASING,0.0,0.0
+92936,Umineko no Naku Koro ni Chiru Episode 5: End of the Golden Witch,Not Recorded,うみねこのなく頃に 散 - Episode 5: End of the Golden Witch,NOVEL,1271,85,2012-07-13,2012-12-18,FINISHED,0.0,2.0
+92954,Yahari Ore no Seishun Love Come wa Machigatteiru. @comic,"My Youth Romantic Comedy Is Wrong, As I Expected @ comic",やはり俺の青春ラブコメはまちがっている。@comic,MANGA,3105,78,2012-12-19,2023-01-19,FINISHED,118.0,22.0
+92985,Girls und Panzer: Ribbon no Musha,Not Recorded,ガールズ&パンツァー リボンの武者,MANGA,1608,78,2014-09-05,2021-03-05,FINISHED,64.0,16.0
+93006,Otouto no Otto,My Brother's Husband,弟の夫,MANGA,5885,80,2014-09-25,2017-05-25,FINISHED,28.0,4.0
+94490,The Fable,The Fable,ザ・ファブル,MANGA,26967,84,2014-11-01,2019-11-18,FINISHED,240.0,22.0
+94846,Youjo Senki,The Saga of Tanya the Evil,幼女戦記,NOVEL,8030,81,2013-10-31,,RELEASING,0.0,0.0
+94970,Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e,Classroom of the Elite,ようこそ実力至上主義の教室へ,NOVEL,38819,86,2015-05-25,2019-09-25,FINISHED,110.0,14.0
+95041,Usemono Yado,Not Recorded,うせもの宿,MANGA,4393,77,2014-03-27,2015-10-28,FINISHED,18.0,3.0
+95821,Berserk: Shinen no Kami 2,Not Recorded,ベルセルク 深淵の神②,ONE_SHOT,5512,80,1996-07-12,1996-07-12,FINISHED,1.0,0.0
+96019,Orokamonogatari,Not Recorded,愚物語,NOVEL,3731,82,2015-10-05,2015-10-05,FINISHED,44.0,1.0
+96360,Kageki Shoujo!!,Kageki Shojo!!,かげきしょうじょ!!,MANGA,2948,78,2015-02-28,,RELEASING,0.0,0.0
+96518,Bokutachi ga Yarimashita,Not Recorded,僕たちがやりました,MANGA,14726,79,2015-04-06,2017-01-23,FINISHED,87.0,9.0
+96581,Orange,Not Recorded,orange,NOVEL,4024,80,2015-07-18,2016-03-18,FINISHED,20.0,3.0
+96754,Taishou Otome Otogibanashi,Not Recorded,大正処女御伽話,MANGA,10713,80,2015-07-04,2017-09-04,FINISHED,42.0,5.0
+96775,Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen Dai 1-bu - Hon ga Nai nara Tsukureba Ii!,"Ascendance of a Bookworm ~I'll do anything to become a librarian!~ Part 1 If there aren't any books, I'll just have make some!",本好きの下剋上~司書になるためには手段を選んでいられません~第一部 「本がないなら作ればいい」,MANGA,7540,77,2015-10-30,2018-07-02,FINISHED,42.0,7.0
+96842,Zelda no Densetsu: Twilight Princess,The Legend of Zelda: Twilight Princess,ゼルダの伝説 トワイライトプリンセス,MANGA,4422,79,2016-02-08,2022-01-30,FINISHED,58.0,11.0
+96930,Souboutei Kowasubeshi,Not Recorded,双亡亭壊すべし,MANGA,3564,77,2016-03-23,2021-07-21,FINISHED,250.0,25.0
+97100,Isekai Goumon Hime,Torture Princess: Fremd Torturchen,異世界拷問姫,NOVEL,4592,80,2016-04-25,2020-02-25,FINISHED,115.0,10.0
+97204,Bungou Stray Dogs: Dazai Osamu no Nyuusha Shiken,Bungo Stray Dogs: Osamu Dazai's Entrance Exam,文豪ストレイドッグス 太宰治の入社試験,NOVEL,3707,82,2014-04-01,2014-04-01,FINISHED,8.0,1.0
+97216,Youjo Senki,The Saga of Tanya the Evil,幼女戦記,MANGA,12702,82,2016-04-26,,RELEASING,0.0,0.0
+97258,Joshikousei no Mudazukai,Not Recorded,女子高生の無駄づかい,MANGA,3139,77,2014-07-01,,RELEASING,0.0,0.0
+97298,Violet Evergarden,Not Recorded,ヴァイオレット・エヴァーガーデン,NOVEL,9131,83,2015-12-25,2016-12-26,FINISHED,13.0,2.0
+97337,Kimi no Na wa.,your name.,君の名は。,MANGA,18790,79,2016-05-27,2017-01-27,FINISHED,9.0,3.0
+97391,Usotoki Rhetoric,Usotoki Rhetoric,嘘解きレトリック,MANGA,4194,78,2012-06-26,2018-03-26,FINISHED,50.0,10.0
+97466,Tensei Shitara Ken Deshita,Reincarnated as a Sword,転生したら剣でした,NOVEL,3174,77,2016-07-30,,RELEASING,0.0,0.0
+97553,"Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.",Not Recorded,寿命を買い取ってもらった。一年につき、一万円で。,MANGA,76166,86,2016-08-10,2017-10-25,FINISHED,18.0,3.0
+97700,CITY,CITY,CITY,MANGA,5703,79,2016-09-29,2025-10-15,FINISHED,212.0,15.0
+97701,Machida-kun no Sekai,Not Recorded,町田くんの世界,MANGA,16205,82,2015-03-13,2018-04-13,FINISHED,28.0,7.0
+97812,Tokidoki,Toki Doki,刻どキ,ONE_SHOT,18332,77,2016-10-20,2016-10-20,FINISHED,1.0,0.0
+97830,Fumetsu no Anata e,To Your Eternity,不滅のあなたへ,MANGA,47143,80,2016-11-09,2025-06-04,FINISHED,202.0,25.0
+97852,"Komi-san wa, Komyushou desu.",Komi Can't Communicate,古見さんは、コミュ症です。,MANGA,100852,77,2016-05-18,2025-01-29,FINISHED,537.0,37.0
+97865,Super Secret,Super Secret,슈퍼 시크릿,MANGA,5507,77,2015-03-30,2018-01-29,FINISHED,141.0,4.0
+97871,Ihaebulneung,Out of Control,이해불능,MANGA,7067,77,2013-08-31,2016-03-24,FINISHED,85.0,0.0
+97894,Imouto sae Ireba Ii.,A Sister's All You Need.,妹さえいればいい。,NOVEL,3866,80,2015-03-18,2020-02-18,FINISHED,206.0,14.0
+98071,"Itai no Itai no, Tonde Yuke",Not Recorded,いたいのいたいの、とんでゆけ,NOVEL,3017,79,2014-11-25,2014-11-25,FINISHED,10.0,1.0
+98263,Tongari Boushi no Atelier,Witch Hat Atelier,とんがり帽子のアトリエ,MANGA,63360,86,2016-07-22,,RELEASING,0.0,0.0
+98305,Akebi-chan no Sailor Fuku,Not Recorded,明日ちゃんのセーラー服,MANGA,9390,78,2016-08-02,,RELEASING,0.0,0.0
+98334,Ao no Flag,Blue Flag,青のフラッグ,MANGA,38098,80,2017-02-01,2020-04-08,FINISHED,54.0,8.0
+98351,Yuru Camp△,Laid-Back Camp,ゆるキャン△,MANGA,10731,83,2015-05-23,,RELEASING,0.0,0.0
+98360,Koisuru Kiseichuu,Not Recorded,恋する寄生虫,NOVEL,3654,79,2016-09-24,2016-09-24,FINISHED,9.0,1.0
+98361,Mikkakan no Koufuku,Three Days of Happiness,三日間の幸福,NOVEL,31587,88,2013-12-25,2013-12-25,FINISHED,15.0,1.0
+98370,Sasaki to Miyano,Sasaki and Miyano,佐々木と宮野,MANGA,18364,84,2016-02-26,,RELEASING,0.0,0.0
+98376,Ouji-sama Nante Iranai,Not Recorded,王子さまなんていらない,MANGA,3284,79,2016-07-11,2020-05-25,FINISHED,200.0,0.0
+98397,Chi no Wadachi,Blood on the Tracks,血の轍,MANGA,57693,79,2017-02-24,2023-09-08,FINISHED,153.0,17.0
+98416,Dr. STONE,Dr. STONE,Dr.STONE,MANGA,82867,81,2017-03-06,2024-04-04,FINISHED,236.0,27.0
+98544,Yuukoku no Moriarty,Moriarty the Patriot,憂国のモリアーティ,MANGA,20428,83,2016-08-04,,RELEASING,0.0,0.0
+98561,Fools,Fools: Original,FOOLS,MANGA,5886,78,2016-06-06,2017-11-06,FINISHED,73.0,4.0
+98587,BEASTARS,BEASTARS,BEASTARS,MANGA,45907,80,2016-09-08,2020-10-08,FINISHED,196.0,22.0
+98610,86: Eighty Six,86―EIGHTY-SIX,86―エイティシックス―,NOVEL,19200,88,2017-02-10,,RELEASING,0.0,0.0
+98617,Sibiwole,December Rain,십이월에,MANGA,3218,77,2017-10-09,2019-03-18,FINISHED,52.0,0.0
+98620,Suhwa,Sign,수화,MANGA,9781,81,2017-09-13,2020-06-02,FINISHED,115.0,0.0
+98689,King's Maker,King's Maker,킹스메이커,MANGA,10048,81,2017-04-25,2017-11-14,FINISHED,38.0,3.0
+98741,Majo no Tabitabi,Wandering Witch: The Journey of Elaina,魔女の旅々,NOVEL,6279,82,2016-04-15,,RELEASING,0.0,0.0
+98777,Yamada to Kase-san.,Kase-san and Yamada,山田と加瀬さん。,MANGA,6789,78,2017-04-28,,RELEASING,0.0,0.0
+98817,Toaru Kagaku no Railgun Gaiden: Astral Buddy,A Certain Scientific Railgun: Astral Buddy,とある科学の超電磁砲外伝 アストラル・バディ,MANGA,2103,78,2017-04-27,2020-07-27,FINISHED,31.0,4.0
+98842,Jibaku Shounen Hanako-kun,Toilet-Bound Hanako-kun,地縛少年 花子くん,MANGA,67175,84,2014-06-18,,RELEASING,0.0,0.0
+98889,Maiko-san Chi no Makanai-san,Not Recorded,舞妓さんちのまかないさん,MANGA,4276,79,2016-12-28,2025-01-22,FINISHED,327.0,30.0
+98908,Nicola no Oyururi Makai Kikou,Nicola Traveling Around the Demons’ World,ニコラのおゆるり魔界紀行,MANGA,2719,77,2017-03-15,2021-02-15,FINISHED,26.0,4.0
+99022,Kusuriya no Hitorigoto,The Apothecary Diaries,薬屋のひとりごと,MANGA,40338,85,2017-05-25,,RELEASING,0.0,0.0
+99026,Kusuriya no Hitorigoto,The Apothecary Diaries,薬屋のひとりごと,NOVEL,10445,86,2014-08-29,,RELEASING,0.0,0.0
+99140,Hitori Koukan Nikki,My Solo Exchange Diary,一人交換日記,MANGA,11739,80,2016-05-23,2017-11-13,FINISHED,28.0,2.0
+99183,Senryuu Shoujo,Not Recorded,川柳少女,MANGA,14091,78,2016-10-19,2020-04-22,FINISHED,188.0,13.0
+99324,Mairimashita! Iruma-kun,Welcome to Demon School! Iruma-kun,魔入りました！入間くん,MANGA,32504,83,2017-03-02,,RELEASING,0.0,0.0
+99346,Aono-kun ni Sawaritai kara Shinitai,I Want to Hold Aono-kun so Badly I Could Die,青野くんに触りたいから死にたい,MANGA,5634,78,2016-12-24,2025-10-24,FINISHED,82.0,14.0
+99458,Life: Senjou no Bokura,Life - The Road That Leads To You,Life 線上の僕ら,MANGA,2963,80,2016-08-12,2017-01-14,FINISHED,6.0,1.0
+99516,"Tadaima, Okaeri",Welcome Home,ただいま、おかえり,MANGA,2912,79,2015-11-24,2016-04-23,FINISHED,7.0,1.0
+99549,Karakai Jouzu no (Moto) Takagi-san,Not Recorded,からかい上手の（元）高木さん,MANGA,18222,79,2017-07-15,2024-07-24,FINISHED,314.0,23.0
+99559,Nogi Wakaba wa Yuusha de Aru,Not Recorded,乃木若葉は勇者である,NOVEL,2300,84,2015-06-27,2017-03-28,FINISHED,22.0,2.0
+99609,Kimi no Suizou wo Tabetai,I Want to Eat Your Pancreas,君の膵臓をたべたい,MANGA,20877,83,2016-08-25,2017-05-25,FINISHED,10.0,2.0
+99640,"Mairimashita, Senpai","You Got Me, Sempai!",まいりました、先輩,MANGA,9353,78,2016-06-24,2020-10-24,FINISHED,40.0,10.0
+99737,Tsuiraku JK to Haijin Kyoushi,Not Recorded,墜落JKと廃人教師,MANGA,10322,77,2017-07-20,2024-06-05,FINISHED,139.0,20.0
+99757,Runway de Waratte,Smile Down the Runway,ランウェイで笑って,MANGA,9277,81,2017-05-31,2021-07-14,FINISHED,194.0,22.0
+99758,Jaku-Chara Tomozaki-kun,Bottom-Tier Character Tomozaki,弱キャラ友崎くん,NOVEL,5202,78,2016-05-18,,RELEASING,0.0,0.0
+99923,Spirit Fingers,Spirit Fingers,스피릿 핑거스,MANGA,4786,81,2015-05-16,2018-09-02,FINISHED,167.0,9.0
+100052,Kimi wa Natsu no Naka,The Summer of You,君は夏のなか,MANGA,11170,78,2016-07-30,2017-05-30,FINISHED,5.0,1.0
+100080,Onii-chan wa Oshimai!,ONIMAI: I'm Now Your Sister!,お兄ちゃんはおしまい！,MANGA,12763,77,2017-06-27,,RELEASING,0.0,0.0
+100094,Chichi to Hige-Gorilla to Watashi,Not Recorded,父とヒゲゴリラと私,MANGA,3665,82,2011-02-04,2018-11-05,FINISHED,98.0,7.0
+100109,Majo to Yajuu,The Witch and the Beast,魔女と野獣,MANGA,11407,80,2016-11-06,,RELEASING,0.0,0.0
+100117,Goblin Slayer Gaiden: Year One,Goblin Slayer Side Story: Year One,ゴブリンスレイヤー外伝：イヤーワン,MANGA,9617,77,2017-09-15,,RELEASING,0.0,0.0
+100147,Kono Subarashii Sekai ni Shukufuku wo! Spin-off: Kono Subarashii Sekai ni Bakuen wo!,Konosuba: An Explosion on This Wonderful World!,この素晴らしい世界に祝福を! スピンオフ この素晴らしい世界に爆焔を!,NOVEL,2715,78,2014-07-01,2016-12-25,FINISHED,20.0,3.0
+100230,Go-toubun no Hanayome,The Quintessential Quintuplets,五等分の花嫁,MANGA,66041,77,2017-08-09,2020-02-19,FINISHED,122.0,14.0
+100293,Shinigami Bocchan to Kuro Maid,The Duke of Death and His Maid,死神坊ちゃんと黒メイド,MANGA,16495,77,2017-10-03,2023-07-11,FINISHED,240.0,16.0
+100342,Itsuka koi ni Naru made,Someday I'll Fall for You,いつか恋になるまで,MANGA,2348,77,2017-10-10,2019-08-06,FINISHED,10.0,2.0
+100355,Shinobumonogatari,Not Recorded,忍物語,NOVEL,3388,80,2017-07-20,2017-07-20,FINISHED,50.0,1.0
+100418,Boku no Omawari-san,My Dearest Patrolman,僕のおまわりさん,MANGA,2562,78,2016-11-22,2021-07-29,FINISHED,18.0,3.0
+100470,Naui Manyeo,Witch of Mine,나의 마녀,MANGA,5393,78,2016-04-01,2022-06-13,FINISHED,63.0,4.0
+100473,Gyeoul Jina Beojkkoch,Cherry Blossoms After Winter,겨울 지나 벚꽃,MANGA,9004,79,2017-06-18,2021-02-12,FINISHED,153.0,0.0
+100557,Sachi-iro no One Room,One Room of Happiness,幸色のワンルーム,MANGA,26402,78,2016-09-30,2022-12-21,FINISHED,69.0,11.0
+100568,Supyeongseon,The Horizon,수평선,MANGA,57914,85,2016-03-31,2016-07-22,FINISHED,21.0,3.0
+100676,Kusunoki Mebuki wa Yuusha de Aru,Not Recorded,楠芽吹は勇者である,NOVEL,727,79,2017-06-30,2017-11-30,FINISHED,7.0,1.0
+100704,Uramichi Oniisan,Life Lessons with Uramichi Oniisan,うらみちお兄さん,MANGA,8007,77,2017-05-12,,RELEASING,0.0,0.0
+100755,Neoui Sarange Daehayeo,The Shape of Your Love,너의 사랑에 대하여,MANGA,3635,78,2017-09-29,2019-07-12,FINISHED,86.0,0.0
+100758,Itou Junji Jisen Kessakushuu,Shiver: Junji Ito Selected Stories,伊藤潤二自選傑作集,MANGA,10371,79,2015-10-07,2015-10-07,FINISHED,10.0,1.0
+100801,Hana ni Arashi,Rainbows After Storms,はなにあらし,MANGA,10326,79,2017-11-24,2023-08-18,FINISHED,162.0,13.0
+100805,Here U Are,Here U Are,Here U Are,MANGA,28563,85,2017-11-22,2020-11-25,FINISHED,157.0,0.0
+100851,Lian Shi Yingchaose,Love Like Cherry Blossoms,恋是樱草色,MANGA,2374,77,2016-03-14,2018-12-31,FINISHED,90.0,5.0
+100908,Kamisama no Uroko,The Dragon's Betrothed,神様のウロコ,MANGA,2842,78,2016-09-30,,RELEASING,0.0,0.0
+100932,2-ban Lee Hui-Su,Heesu in Class 2,2반 이희수,MANGA,8554,82,2017-11-16,2019-12-18,FINISHED,90.0,4.0
+100941,Cheese in the Trap Season 4,Cheese in the Trap Season 4,치즈인더트랩 시즌4,MANGA,3680,79,2015-09-02,2017-03-29,FINISHED,77.0,7.0
+100942,Cheese in the Trap Season 3,Cheese in the Trap Season 3,치즈인더트랩 시즌3,MANGA,3939,79,2013-01-09,2015-08-26,FINISHED,108.0,12.0
+100943,Cheese in the Trap Season 2,Cheese in the Trap Season 2,치즈인더트랩 시즌2,MANGA,4307,78,2011-06-15,2012-10-17,FINISHED,67.0,9.0
+100954,Sweet Home,Sweet Home,스위트홈,MANGA,50585,81,2017-10-19,2020-07-02,FINISHED,141.0,12.0
+100991,act-age,ACT-AGE,アクタージュ act-age,MANGA,26147,81,2018-01-22,2020-08-11,CANCELLED,123.0,12.0
+100994,Jigokuraku,Hell’s Paradise: Jigokuraku,地獄楽,MANGA,88903,81,2018-01-23,2021-01-25,FINISHED,127.0,13.0
+101072,Fushigi Neko no Kyuu-chan,Wonder Cat Kyuu-chan,ふしぎねこのきゅーちゃん,MANGA,6484,80,2018-02-03,2022-12-02,FINISHED,878.0,8.0
+101131,Toshokan no Daimajutsushi,Magus of the Library,図書館の大魔術師,MANGA,12234,83,2017-11-07,,RELEASING,0.0,0.0
+101176,Ojisama to Neko,A Man and His Cat,おじさまと猫,MANGA,11170,81,2017-06-12,,RELEASING,0.0,0.0
+101177,Tonikaku Kawaii,Fly Me to the Moon,トニカクカワイイ,MANGA,38332,80,2018-02-14,,RELEASING,0.0,0.0
+101233,Gokushufudou,The Way of the Househusband,極主夫道,MANGA,65135,79,2018-02-26,,RELEASING,0.0,0.0
+101255,Koiwazurai no Ellie,Lovesick Ellie,恋わずらいのエリー,MANGA,7722,78,2015-07-24,2024-04-12,FINISHED,50.0,13.0
+101265,Takane no Ran-san,Ran the Peerless Beauty,高嶺の蘭さん,MANGA,5451,78,2017-07-13,2020-12-11,FINISHED,41.0,10.0
+101311,Bakemonogatari,Bakemonogatari,化物語,MANGA,20210,83,2018-03-14,2023-03-15,FINISHED,193.0,22.0
+101328,Therapy Game,Therapy Game,セラピーゲーム,MANGA,4561,79,2017-11-14,2018-01-01,FINISHED,9.0,2.0
+101335,Sengoku Komachi Kuroutan: Noukou Giga,Sengoku Komachi Kurotan,戦国小町苦労譚 農耕戯画,MANGA,4130,77,2017-05-26,,RELEASING,0.0,0.0
+101517,Jujutsu Kaisen,Jujutsu Kaisen,呪術廻戦,MANGA,226747,80,2018-03-05,2024-09-30,FINISHED,272.0,30.0
+101521,Saihate no Paladin,The Faraway Paladin,最果てのパラディン,MANGA,14836,77,2017-09-25,,RELEASING,0.0,0.0
+101556,Tobaku Datenroku Kaiji: 24-oku Dasshutsu-hen,Not Recorded,賭博堕天録カイジ 24億脱出編,MANGA,2796,77,2017-08-28,,RELEASING,0.0,0.0
+101557,Boku no Kokoro no Yabai Yatsu,The Dangers in My Heart,僕の心のヤバイやつ,MANGA,31297,81,2018-03-08,,RELEASING,0.0,0.0
+101563,Modao Zushi,Grandmaster of Demonic Cultivation: Mo Dao Zu Shi,魔道祖师,MANGA,13373,84,2017-12-08,2022-10-26,FINISHED,259.0,13.0
+101583,Sono Bisque Doll wa Koi wo Suru,My Dress-Up Darling,その着せ替え人形は恋をする,MANGA,87570,79,2018-01-19,2025-07-04,FINISHED,119.0,15.0
+101607,Nora to Zassou,Not Recorded,ノラと雑草,MANGA,5186,79,2018-04-20,2020-08-21,FINISHED,26.0,4.0
+101642,Hokuou Kizoku to Moukinzuma no Yukiguni Karigurashi,Not Recorded,北欧貴族と猛禽妻の雪国狩り暮らし,MANGA,3700,78,2018-03-30,2023-09-22,FINISHED,100.0,10.0
+101700,Hananoi-kun to Koi no Yamai,A Condition Called Love,花野井くんと恋の病,MANGA,14038,78,2017-12-22,2025-11-21,FINISHED,73.0,18.0
+101853,NieR:Automata: Nagai Hanashi,NieR:Automata: Long Story Short,NieR:Automata 長イ話,NOVEL,3423,78,2017-08-05,2017-08-05,FINISHED,12.0,1.0
+101942,Tengoku Daimakyou,Heavenly Delusion,天国大魔境,MANGA,23284,80,2018-01-25,,RELEASING,0.0,0.0
+102043,Metamorphose no Engawa,BL Metamorphosis,メタモルフォーゼの縁側,MANGA,5397,77,2017-11-17,2020-10-09,FINISHED,52.0,5.0
+102259,Oneuldo Sarangseureopgae,A Good Day to be a Dog,오늘도 사랑스럽개,MANGA,10317,79,2017-08-05,2019-05-12,FINISHED,92.0,9.0
+102308,Kimi wa Tsukiyo ni Hikarikagayaku,Not Recorded,君は月夜に光り輝く,NOVEL,1478,78,2017-02-25,2017-02-25,FINISHED,4.0,1.0
+102540,Umineko no Naku Koro ni Episode 1: Legend of the Golden Witch,Not Recorded,うみねこのなく頃に - Episode 1: Legend of the Golden Witch,NOVEL,1804,79,2009-07-01,2009-08-04,FINISHED,0.0,2.0
+102895,"Tashiro-kun, Kimi tte Yatsu wa.","Tashiro-kun, Why're You Like This?",鯛代くん、君ってやつは。,MANGA,2966,77,2016-10-08,,RELEASING,0.0,0.0
+102989,Summer Time Render,Summertime Rendering,サマータイムレンダ,MANGA,21718,80,2017-10-23,2021-02-01,FINISHED,139.0,13.0
+103029,Kishibe Rohan wa Ugokanai,Thus Spoke Rohan Kishibe,岸辺露伴は動かない,MANGA,6338,78,2013-11-19,,RELEASING,0.0,0.0
+103141,Yuki to Matsu,Yuki and Matsu,雪と松,MANGA,1647,78,2016-03-25,2018-12-25,FINISHED,15.0,3.0
+103180,REIGEN: Reikyuuchi MAX 131 no Otoko,Mob Psycho 100: Reigen,REIGEN ～霊級値MAX131の男～,MANGA,5204,77,2018-03-19,2019-02-19,FINISHED,7.0,1.0
+103192,blanc,blanc,blanc,MANGA,5510,84,2018-02-28,2020-09-16,FINISHED,11.0,2.0
+103204,Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.,An Observation Log of My Fiancée Who Calls Herself a Villainess,自称悪役令嬢な婚約者の観察記録。,MANGA,7020,77,2018-05-07,2022-03-17,FINISHED,37.0,6.0
+103270,Bokura no Shokutaku,Our Dining Table,僕らの食卓,MANGA,8667,81,2015-11-21,2017-01-21,FINISHED,8.0,1.0
+103608,Bocchi Kaibutsu to Moumoku Shoujo,Not Recorded,ぼっち怪物と盲目少女,MANGA,3659,77,2016-11-22,2022-03-01,FINISHED,50.0,0.0
+103610,MADK,MADK,MADK,MANGA,5272,78,2017-08-28,2022-06-30,FINISHED,19.0,3.0
+103687,Yuusha Goikkou no Kaerimichi,Not Recorded,勇者ご一行の帰り道,ONE_SHOT,7439,77,2018-08-02,2018-08-02,FINISHED,1.0,0.0
+103807,Rojika to Rakkasei,Not Recorded,ロジカとラッカセイ,MANGA,4319,80,2017-11-17,2019-07-12,FINISHED,28.0,3.0
+103822,Biuidojeok Yeonaedam,Unintentional Love Story,비의도적 연애담,MANGA,3676,79,2018-05-10,2020-09-10,FINISHED,58.0,6.0
+103854,Bitgwa Geurimja,Light and Shadow,빛과 그림자,MANGA,10553,77,2016-12-27,2019-02-20,FINISHED,103.0,0.0
+104030,Bungou Stray Dogs: Dead Apple,Bungo Stray Dogs: Dead Apple,文豪ストレイドッグス DEAD APPLE,MANGA,3170,78,2018-03-09,2023-06-29,FINISHED,15.0,4.0
+104045,Kimi ga Shinu made Koi wo Shitai,I Want to Love You Till Your Dying Day,きみが死ぬまで恋をしたい,MANGA,11238,82,2018-08-18,,RELEASING,0.0,0.0
+104063,Shadows House,Shadows House,シャドーハウス,MANGA,21489,82,2018-09-06,,RELEASING,0.0,0.0
+104140,Fukakai na Boku no Subete wo,Love Me for Who I Am,不可解なぼくのすべてを,MANGA,12960,78,2018-06-01,2021-03-05,FINISHED,28.0,5.0
+104203,Kimi to Natsu no Naka,The Summer With You,君と夏のなか,MANGA,5484,79,2018-08-30,,RELEASING,0.0,0.0
+104233,Namida Ame to Serenade,Not Recorded,涙雨とセレナーデ,MANGA,4821,79,2014-11-25,2025-11-25,FINISHED,0.0,0.0
+104241,Tsukiatte Agete mo Ii ka na,How Do We Relationship?,付き合ってあげてもいいかな,MANGA,17221,83,2018-08-17,2025-02-28,FINISHED,133.0,14.0
+104271,Abimussang,"Father, Unrivaled",아비무쌍,MANGA,11690,77,2017-10-31,2024-02-06,FINISHED,296.0,0.0
+104533,Bareunyeonae Giljabi,Romance 101,바른연애 길잡이,MANGA,8428,82,2018-03-02,2021-07-19,FINISHED,158.0,12.0
+104540,Yume no Hashibashi,Not Recorded,夢の端々,MANGA,3682,78,2018-10-06,2020-05-08,FINISHED,10.0,2.0
+104617,Isekai Oji-san,Uncle from Another World,異世界おじさん,MANGA,12911,77,2018-06-29,,RELEASING,0.0,0.0
+104664,ONE PIECE novel A,One Piece: Ace's Story,ONE PIECE novel A,NOVEL,2637,77,2018-04-04,2018-06-04,FINISHED,11.0,2.0
+104677,Geunyeoui Simcheong,Her Tale of Shim Chong,그녀의 심청,MANGA,10167,82,2017-09-12,2020-06-17,FINISHED,90.0,7.0
+104780,Koko wa Ima kara Rinri desu.,Not Recorded,ここは今から倫理です。,MANGA,15702,81,2016-10-26,2025-08-27,FINISHED,56.0,10.0
+104973,Geunyeoga Gongjakjeoro Gaya Haetdeon Sajeong,The Reason Why Raeliana Ended Up at the Duke's Mansion,그녀가 공작저로 가야 했던 사정,MANGA,25176,81,2017-09-03,2021-03-22,FINISHED,158.0,9.0
+105011,"Fuufu Ijou, Koibito Miman.","More Than a Married Couple, but Not Lovers.",夫婦以上、恋人未満。,MANGA,31090,77,2018-03-02,,RELEASING,0.0,0.0
+105097,Mieruko-chan,Mieruko-chan,見える子ちゃん,MANGA,42536,77,2018-11-02,,RELEASING,0.0,0.0
+105263,Dai Dark,Dai Dark,大ダーク,MANGA,24512,77,2019-03-12,,RELEASING,0.0,0.0
+105307,MagMell Shinkai Suizokukan,Not Recorded,マグメル深海水族館,MANGA,3081,77,2017-04-08,,RELEASING,0.0,0.0
+105332,Ase to Sekken,Sweat and Soap,あせとせっけん,MANGA,23863,81,2018-07-05,2021-01-07,FINISHED,110.0,11.0
+105388,Yagate Kimi ni Naru Saeki Sayaka ni Tsuite,Bloom Into You: Regarding Saeki Sayaka,やがて君になる 佐伯沙弥香について,NOVEL,5287,85,2018-11-10,2020-03-10,FINISHED,9.0,3.0
+105398,Na Honjaman Level Up,Solo Leveling,나 혼자만 레벨업,MANGA,260393,84,2018-03-04,2023-05-31,FINISHED,201.0,15.0
+105469,Jujutsu Kaisen 0: Tokyo Toritsu Jujutsu Koutou Senmon Gakkou,Jujutsu Kaisen 0,呪術廻戦 0 東京都立呪術高等専門学校,MANGA,65834,80,2017-04-28,2017-07-28,FINISHED,4.0,1.0
+105577,Giji Harem,Not Recorded,疑似ハーレム,MANGA,24663,77,2018-06-20,2021-03-05,FINISHED,157.0,6.0
+105641,Suki na Ko ga Megane wo Wasureta,The Girl I Like Forgot Her Glasses,好きな子がめがねを忘れた,MANGA,23149,79,2018-11-22,2024-04-22,FINISHED,120.0,12.0
+105688,Kimi ni wa Todokanai.,I Cannot Reach You,君には届かない。,MANGA,5285,77,2018-11-23,,RELEASING,0.0,0.0
+105747,"Mata, Onaji Yume wo Miteita",I Had That Same Dream Again,また、同じ夢を見ていた,MANGA,15011,83,2017-09-20,2018-08-20,FINISHED,12.0,3.0
+105778,Chainsaw Man,Chainsaw Man,チェンソーマン,MANGA,298727,85,2018-12-03,,RELEASING,0.0,0.0
+105790,Subete no Jinrui wo Hakai Suru. Sorera wa Saisei Dekinai.,Destroy All Humans. They Can't Be Regenerated. A Magic: The Gathering Manga,すべての人類を破壊する。それらは再生できない。,MANGA,10746,77,2018-11-26,2025-05-26,FINISHED,71.0,18.0
+105913,Majo no Tabitabi,Wandering Witch: The Journey of Elaina,魔女の旅々,MANGA,4580,77,2018-11-29,2024-03-28,FINISHED,24.0,6.0
+106098,Gugyeonghaneun Deulleoriyang,Miss Not-So Sidekick,구경하는 들러리양,MANGA,7592,77,2017-12-24,,RELEASING,0.0,0.0
+106130,Blue Lock,Blue Lock,ブルーロック,MANGA,110330,82,2018-08-01,,RELEASING,0.0,0.0
+106176,Ura Sekai Picnic,Otherside Picnic,裏世界ピクニック,MANGA,6333,79,2018-02-10,,RELEASING,0.0,0.0
+106331,Ikoku Nikki,Not Recorded,違国日記,MANGA,8445,86,2017-06-08,2023-06-08,FINISHED,57.0,11.0
+106531,Watashi no Shiawase na Kekkon,My Happy Marriage,わたしの幸せな結婚,MANGA,10845,79,2018-12-20,,RELEASING,0.0,0.0
+106726,Shimeji Simulation,Not Recorded,シメジ シミュレーション,MANGA,17135,84,2019-01-26,2023-11-26,FINISHED,49.0,5.0
+106758,Kage no Jitsuryokusha ni Naritakute!,The Eminence in Shadow,陰の実力者になりたくて！,MANGA,42448,80,2018-12-26,,RELEASING,0.0,0.0
+106867,Shinai naru Boku e Satsui wo Komete,My Dearest Self With Malice Aforethought,親愛なる僕へ殺意をこめて,MANGA,27206,81,2018-05-07,2020-09-07,FINISHED,98.0,11.0
+106888,Persona 5: Mementos Mission,Persona 5: Mementos Mission,ペルソナ5 メメントスミッション,MANGA,1671,77,2018-10-26,2020-06-27,FINISHED,19.0,3.0
+106929,Eleceed,Eleceed,일렉시드,MANGA,38811,85,2018-10-02,,RELEASING,0.0,0.0
+107098,Shuumatsu no Valkyrie,Record of Ragnarok,終末のワルキューレ,MANGA,63039,78,2017-11-25,,RELEASING,0.0,0.0
+107112,Shiro Seijo to Kuro Bokushi,Saint Cecilia and Pastor Lawrence,白聖女と黒牧師,MANGA,4376,77,2017-04-20,,RELEASING,0.0,0.0
+107207,"Kashikomarimashita, Destiny: Answer",Not Recorded,かしこまりました、デスティニー ~Answer~,MANGA,889,79,2016-10-24,2017-03-24,FINISHED,8.0,2.0
+107237,Blue Period,Blue Period,ブルーピリオド,MANGA,71761,86,2017-06-24,,RELEASING,0.0,0.0
+107254,WALK ON WATER,Walk on Water,WALK ON WATER,MANGA,5620,78,2018-06-20,2020-06-10,FINISHED,64.0,0.0
+107279,Aoashi,Aoashi,アオアシ,MANGA,22072,86,2015-01-05,2025-06-23,FINISHED,410.0,40.0
+107321,WonDance,Wandance,ワンダンス,MANGA,7527,78,2019-01-17,,RELEASING,0.0,0.0
+107416,Doukyuusei: Gold Ring & Silver Ring,Not Recorded,同級生 限定小冊子【gold ring】 & 【silver ring】,MANGA,3215,79,2016-11-05,2016-11-05,FINISHED,2.0,1.0
+107462,Machikado Mazoku,The Demon Girl Next Door,まちカドまぞく,MANGA,6040,81,2014-06-28,,RELEASING,0.0,0.0
+107518,Shinma Gyeongcheongi,Heavenly Demon Reborn!,신마경천기,MANGA,15992,77,2018-08-14,2025-01-08,FINISHED,252.0,0.0
+107521,Eoneu Nal Gongjuga Doeeobeoryeotda,Who Made Me a Princess,어느 날 공주가 되어버렸다,MANGA,35066,83,2017-12-20,,RELEASING,0.0,9.0
+107790,Ningen Shikkaku,No Longer Human,人間失格,MANGA,12639,77,2017-05-02,2018-04-20,FINISHED,24.0,3.0
+107987,Sasayaku You ni Koi wo Utau,Whisper Me a Love Song,ささやくように恋を唄う,MANGA,26183,80,2019-02-18,,RELEASING,0.0,0.0
+108027,Hirano to Kagiura,Hirano and Kagiura,平野と鍵浦,MANGA,6911,83,2019-03-15,,RELEASING,0.0,0.0
+108141,Koi ga Ochitara,Not Recorded,恋が落ちたら,MANGA,1987,79,2017-01-31,2018-10-25,FINISHED,6.0,1.0
+108196,My Home Hero,My Home Hero,マイホームヒーロー,MANGA,15856,78,2017-05-29,2024-07-29,FINISHED,224.0,26.0
+108251,"Umarekawattemo Mata, Watashi to Kekkon Shitekuremasu ka",Not Recorded,生まれ変わってもまた、私と結婚してくれますか,MANGA,13263,84,2017-10-20,2019-09-20,FINISHED,25.0,4.0
+108427,Devil May Cry 5: Visions of V,Not Recorded,Devil May Cry 5 - Visions of V -,MANGA,2074,79,2019-03-08,2022-03-19,FINISHED,35.0,5.0
+108428,Kage no Jitsuryokusha ni Naritakute!,The Eminence in Shadow,陰の実力者になりたくて！,NOVEL,9714,83,2018-11-05,,RELEASING,0.0,0.0
+108551,Mystery to Iunakare,Don't Call it Mystery,ミステリと言う勿れ,MANGA,6350,83,2017-11-28,,RELEASING,0.0,0.0
+108556,SPY×FAMILY,SPY x FAMILY,SPY×FAMILY,MANGA,148951,83,2019-03-25,,RELEASING,0.0,0.0
+108659,Rumspringa no Joukei,The Scene of My Rumspringa,ラムスプリンガの情景,MANGA,1809,80,2017-02-27,2017-11-30,FINISHED,5.0,1.0
+108695,Ore ga Watashi ni Naru made,Not Recorded,オレが私になるまで,MANGA,2481,77,2019-03-26,,RELEASING,0.0,0.0
+108919,Kaketa Tsuki to Doughnuts,Doughnuts Under a Crescent Moon,欠けた月とドーナッツ,MANGA,12345,77,2019-03-18,2022-05-18,FINISHED,20.0,4.0
+108946,30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii,Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!,30歳まで童貞だと魔法使いになれるらしい,MANGA,5450,80,2018-01-26,,RELEASING,0.0,0.0
+108952,Dwaejiuri,PIGPEN,돼지우리,MANGA,15396,79,2019-03-09,2020-06-13,FINISHED,68.0,0.0
+109017,Mahou Shoujo ni Akogarete,Gushing over Magical Girls,魔法少女にあこがれて,MANGA,15205,77,2019-01-30,,RELEASING,0.0,0.0
+109064,Karasugaoka Don't be shy!!,Crow Hill: Don’t Be Shy!!,烏ヶ丘 Don't be shy!!,MANGA,5898,78,2018-06-01,2020-04-05,FINISHED,12.0,2.0
+109121,Violet Evergarden Gaiden,Not Recorded,ヴァイオレット・エヴァーガーデン 外伝,NOVEL,1700,77,2018-03-23,2018-03-23,FINISHED,6.0,1.0
+109206,Watashi no Oshi wa Akuyaku Reijou.,I’m in Love with the Villainess,私の推しは悪役令嬢。,NOVEL,7196,83,2019-02-26,2021-08-26,FINISHED,30.0,5.0
+109285,Skip to Loafer,Skip and Loafer,スキップとローファー,MANGA,29138,86,2018-08-25,,RELEASING,0.0,0.0
+109302,Adachi to Shimamura,Adachi and Shimamura,安達としまむら,MANGA,8023,78,2019-05-27,,RELEASING,0.0,0.0
+109384,Cong Huang Yan Kai Shi,Not Recorded,从谎言开始,MANGA,4618,78,2019-03-29,2020-06-04,FINISHED,66.0,0.0
+109398,Yeonui Pyeonji,Your Letter,연의 편지,MANGA,9535,80,2018-08-11,2018-10-14,FINISHED,10.0,1.0
+109455,Houkago Shounen Hanako-kun,After-school Hanako-kun,放課後少年花子くん,MANGA,4815,80,2018-02-22,,RELEASING,0.0,0.0
+109501,Yamada-kun to Lv999 no Koi wo Suru,My Love Story with Yamada-kun at Lv999,山田くんとLv999の恋をする,MANGA,33580,81,2019-03-07,,RELEASING,0.0,0.0
+109608,Dark Gathering,Dark Gathering,ダークギャザリング,MANGA,6829,78,2019-03-04,,RELEASING,0.0,0.0
+109710,Yuri de Naru♥Espoir,Yuri Espoir,ゆりでなる♥えすぽわーる,MANGA,2142,77,2019-03-20,,RELEASING,0.0,0.0
+109921,Kieta Hatsukoi,My Love Mix-Up!,消えた初恋,MANGA,13448,83,2019-06-13,2022-06-13,FINISHED,41.0,9.0
+109957,Dubeon Saneun Ranker,Second Life Ranker,두번사는랭커,MANGA,40424,77,2019-05-16,,RELEASING,0.0,0.0
+110084,Stigmata: Aikon,Stigmata -Love Bites-,スティグマタ-愛痕-,MANGA,1245,77,2019-03-25,2021-01-25,FINISHED,12.0,2.0
+110095,Sanae Matseon,A Business Proposal,사내 맞선,MANGA,11433,79,2018-09-18,2022-07-10,FINISHED,124.0,10.0
+110140,Futari Ashita mo Sorenari ni,"It Takes Two Tomorrow, Too",ふたり明日もそれなりに,MANGA,16811,78,2019-05-10,2021-04-23,FINISHED,92.0,5.0
+110159,Ponkotsu Ponko,Not Recorded,ぽんこつポン子,MANGA,7206,80,2019-03-25,2021-05-24,FINISHED,79.0,10.0
+110393,Asper Kanojo,That's My Atypical Girl,アスペル・カノジョ,MANGA,10931,78,2018-03-06,2021-01-26,FINISHED,123.0,12.0
+110439,Uchi no Musuko wa Tabun Gay,I Think Our Son Is Gay,うちの息子はたぶんゲイ,MANGA,8775,77,2018-11-02,2022-12-19,FINISHED,104.0,5.0
+110473,Kimi wa Houkago Insomnia,Insomniacs After School,君は放課後インソムニア,MANGA,28776,83,2019-05-20,2023-08-21,FINISHED,125.0,14.0
+110530,"Ichido dake demo, Koukai Shitemasu.",I Can't Believe I Slept With You!,一度だけでも、後悔してます。,MANGA,11931,77,2019-06-27,2021-02-26,FINISHED,20.0,3.0
+110539,One Room Angel,One Room Angel,ワンルームエンジェル,MANGA,5174,80,2017-10-25,2018-12-25,FINISHED,8.0,1.0
+110605,Simhaesu,Leviathan,심해수,MANGA,16853,81,2018-03-12,2025-08-06,FINISHED,115.0,9.0
+110683,"Shokei Shoujo no Virgin Road: Soshite, Kanojo wa Yomigaeru",The Executioner and Her Way of Life,処刑少女の生きる道 ―そして、彼女は甦る―,NOVEL,3066,85,2019-07-12,2025-03-15,FINISHED,0.0,11.0
+110720,Grace Gildeul-igi,Getting to Know Grace,그레이스 길들이기,MANGA,4238,78,2019-01-30,2020-04-30,FINISHED,46.0,0.0
+110800,Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen Dai 2-bu - Shinden no Miko Minarai,Ascendance of a Bookworm: Part 2,本好きの下剋上~司書になるためには手段を選んでいられません~ 第二部「神殿の巫女見習い」,NOVEL,2547,85,2015-09-25,2016-06-10,FINISHED,105.0,4.0
+110801,Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen Dai 3-bu - Ryoushu no Youjo,Ascendance of a Bookworm: Part 3,本好きの下剋上~司書になるためには手段を選んでいられません~第三部「領主の養女」,NOVEL,2245,86,2016-09-10,2017-09-09,FINISHED,117.0,5.0
+110802,Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen Dai 4-bu - Kizoku-in no Jishou Tosho Iin,Ascendance of a Bookworm: Part 4,本好きの下剋上~司書になるためには手段を選んでいられません~第四部「貴族院の自称図書委員」,NOVEL,1980,87,2017-12-09,2019-12-10,FINISHED,209.0,9.0
+110803,Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Kizoku-in Gaiden 1-nensei,Ascendance of a Bookworm: Royal Academy Stories - First Year,本好きの下剋上~司書になるためには手段を選んでいられません~貴族院外伝 一年生,NOVEL,626,81,2018-10-10,2018-10-10,FINISHED,18.0,1.0
+110804,Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen Dai 2-bu - Hon no Tamenara Miko ni Naru!,Ascendance of a Bookworm ~I'll do anything to become a librarian!~ Part 2 I'll even join the temple to read books!,本好きの下剋上~司書になるためには手段を選んでいられません~ 第二部 「本のためなら巫女になる!」,MANGA,3929,77,2018-09-24,2025-08-25,FINISHED,80.0,13.0
+110805,Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen Dai 3-bu - Ryouchi ni Hon wo Hirogeyou!,Ascendance of a Bookworm ~I'll do anything to become a librarian!~ Part 3 Let's spread books through the duchy!,本好きの下剋上~司書になるためには手段を選んでいられません~ 第三部 「領地に本を広げよう!」,MANGA,2153,77,2018-04-30,,RELEASING,0.0,0.0
+110992,Fata Morgana no Yakata: Anata no Genten ni Itaru Monogatari,Not Recorded,ファタモルガーナの館 ―The house in Fata morgana― あなたの原典に至る物語,NOVEL,5516,89,2014-08-04,2016-01-14,FINISHED,21.0,5.0
+111044,Kirai de Isasete,"Hate Me, but Let Me Stay",嫌いでいさせて,MANGA,4690,79,2018-10-18,,RELEASING,0.0,0.0
+111075,Eotteon Gyemonimui Marchen,A Stepmother’s Märchen,어떤 계모님의 메르헨,MANGA,16470,81,2019-07-04,,RELEASING,0.0,0.0
+111116,Red Candy,Red Candy,레드 캔디,MANGA,3702,77,2018-08-20,2023-03-22,FINISHED,103.0,0.0
+111189,Yubisaki to Renren,A Sign of Affection,ゆびさきと恋々,MANGA,32257,83,2019-07-24,,RELEASING,0.0,0.0
+111212,Rebuild World,Rebuild World,リビルドワールド,MANGA,11044,77,2019-05-26,,RELEASING,0.0,0.0
+111233,Yofukashi no Uta,Call of the Night,よふかしのうた,MANGA,57967,81,2019-08-28,2024-01-24,FINISHED,203.0,20.0
+111258,Bocchi the Rock!,Bocchi the Rock!,ぼっち・ざ・ろっく！,MANGA,17266,82,2018-03-19,,RELEASING,0.0,0.0
+111335,On or Off,On or Off,온 오어 오프,MANGA,4727,78,2019-05-29,2022-02-28,FINISHED,91.0,5.0
+111406,Gujebulleung,Not Recorded,구제불능,MANGA,3514,77,2019-04-02,2019-06-03,FINISHED,8.0,0.0
+111489,Gorae Byul,Whale Star: The Gyeongseong Mermaid,고래별,MANGA,3353,79,2019-06-20,2021-06-18,FINISHED,106.0,6.0
+111593,Zui Ai Ni Di Na Shi Nian,10 Years That I Loved You the Most,最爱你的那十年,MANGA,5970,81,2018-09-23,2020-01-26,FINISHED,72.0,0.0
+111608,Kimi no Sumire,Kimi no Sumire: Your Spring Flower,きみの春花,MANGA,2029,78,2019-08-22,,RELEASING,0.0,0.0
+111970,Sayonara Rose Garden,"Goodbye, My Rose Garden",さよならローズガーデン,MANGA,9674,78,2018-07-09,2020-01-12,FINISHED,18.0,3.0
+112197,Medical Hwansaeng,Not Recorded,메디컬 환생,MANGA,11270,78,2019-09-07,2022-01-28,FINISHED,148.0,0.0
+112218,Re:Zero kara Hajimeru Isekai Seikatsu: Dai-4 Shou - Seiiki to Gouyoku no Majo,Re:ZERO -Starting Life in Another World- Chapter 4: The Sanctuary and the Witch of Greed,Re:ゼロから始める異世界生活 第四章 聖域と強欲の魔女,MANGA,2898,79,2019-09-27,,RELEASING,0.0,0.0
+112234,Hoshi Furu Oukoku no Nina,Nina the Starry Bride,星降る王国のニナ,MANGA,4528,77,2019-10-01,,RELEASING,0.0,0.0
+112275,Tian Guan Ci Fu,Heaven Official's Blessing,天官赐福,MANGA,18152,87,2019-10-19,,RELEASING,0.0,0.0
+112335,FANGS,FANGS,FANGS,MANGA,2559,79,2019-06-08,,RELEASING,0.0,0.0
+112378,Jintian De Ta Yeshi Ruci Keai,She Is Also Cute Today,今天的她也是如此可爱,MANGA,10679,77,2019-09-13,2022-02-02,FINISHED,125.0,0.0
+112484,Therapy Game Restart,Therapy Game Restart,セラピーゲーム リスタート,MANGA,2264,81,2019-10-12,,RELEASING,0.0,0.0
+112518,King's Maker: Triple Crown,King's Maker: Triple Crown,킹스메이커 ~Triple Crown~,MANGA,4537,78,2019-05-31,2024-10-21,FINISHED,149.0,0.0
+112524,BLUE GIANT SUPREME,Not Recorded,BLUE GIANT SUPREME,MANGA,2602,79,2016-09-10,2020-04-25,FINISHED,88.0,11.0
+112544,Kowloon Generic Romance,Kowloon Generic Romance,九龍ジェネリックロマンス,MANGA,18174,77,2019-11-07,,RELEASING,0.0,0.0
+112579,My Broken Mariko,My Broken Mariko,マイ・ブロークン・マリコ,MANGA,28070,78,2019-07-16,2019-12-17,FINISHED,6.0,1.0
+112621,Lonely Girl ni Sakaraenai,I Can't Say No to the Lonely Girl,ロンリーガールに逆らえない,MANGA,17015,78,2019-10-18,2022-10-18,FINISHED,37.0,6.0
+112690,Link and Ring,Link and Ring,リンク アンド リング,MANGA,1903,77,2016-06-24,2019-03-25,FINISHED,7.0,1.0
+112709,Bleach: Can't Fear Your Own World,Bleach: Can't Fear Your Own World,BLEACH Can't Fear Your Own World,NOVEL,3281,81,2017-08-04,2018-12-04,FINISHED,32.0,3.0
+112978,Amigara Dansou no Kai,The Enigma of Amigara Fault,阿彌殻断層の怪,ONE_SHOT,9703,76,2000-12-30,2000-12-30,FINISHED,1.0,0.0
+112981,Kubo-san wa Mob wo Yurusanai,Kubo Won't Let Me Be Invisible,久保さんは僕を許さない,MANGA,38622,78,2019-10-24,2023-03-02,FINISHED,158.0,12.0
+113055,Jaehon Hwanghu,The Remarried Empress,재혼 황후,MANGA,18446,78,2019-10-24,,RELEASING,0.0,0.0
+113168,Genjitsu Touhi Shitetara Boroboro ni Natta Hanashi,My Alcoholic Escape from Reality,現実逃避してたらボロボロになった話,MANGA,5942,77,2019-11-07,2019-11-07,FINISHED,13.0,1.0
+113326,Uleongkangdo,Robber X Lover,우렁강도,MANGA,6904,78,2019-07-17,2021-06-29,FINISHED,105.0,0.0
+113340,Ije God Chugseubnida,Death's Game,이제 곧 죽습니다,MANGA,8286,78,2019-04-18,2020-07-16,FINISHED,66.0,6.0
+113350,Jing Jiu,Pirouette into My Heart,经久,MANGA,6298,81,2019-10-02,2023-03-09,FINISHED,161.0,3.0
+113352,Gu Shi Yu Ni: 300 Tian,Not Recorded,顾事与你：值日300天,MANGA,1295,77,2019-03-02,2020-10-30,FINISHED,87.0,0.0
+113488,Yakanyeongung,Weak Hero,약한영웅,MANGA,19523,78,2018-05-05,2023-10-14,FINISHED,268.0,19.0
+113533,Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken,The Angel Next Door Spoils Me Rotten,お隣の天使様にいつの間にか駄目人間にされていた件,NOVEL,8756,83,2019-06-14,,RELEASING,0.0,0.0
+113868,Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Tanpenshuu,Ascendance of a Bookworm: Short Story Collection,本好きの下剋上~司書になるためには手段を選んでいられません~ 短編集,NOVEL,616,79,2019-10-10,,RELEASING,0.0,0.0
+113869,Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen Dai 5-bu - Megami no Keshin,Ascendance of a Bookworm: Part 5,本好きの下剋上～司書になるためには手段を選んでいられません～第五部「女神の化身」,NOVEL,1881,88,2020-03-10,2023-12-09,FINISHED,256.0,12.0
+113891,Souyaku Toaru Majutsu no Index,Not Recorded,創約とある魔術の禁書目録,NOVEL,1839,83,2020-02-07,,RELEASING,0.0,0.0
+113981,Teito Seihai Kitan: Fate/type Redline,Not Recorded,帝都聖杯奇譚 Fate/type Redline,MANGA,8921,80,2019-12-20,,RELEASING,0.0,0.0
+114003,Kakeochi Girl,"Run Away With Me, Girl",かけおちガール,MANGA,12602,81,2018-10-25,2020-02-25,FINISHED,19.0,3.0
+114027,Boy meets Maria,Boy Meets Maria,ボーイミーツマリア,MANGA,19759,81,2017-10-28,2018-08-28,FINISHED,7.0,1.0
+114328,Hidamari ga Kikoeru: Limit,I Hear the Sunspot: Limit,ひだまりが聴こえる－リミット,MANGA,5527,82,2016-10-22,2019-12-28,FINISHED,19.0,3.0
+114329,Hidamari ga Kikoeru: Koufukuron,I Hear the Sunspot: Theory of Happiness,ひだまりが聴こえる－幸福論－,MANGA,5785,80,2015-04-27,2016-02-22,FINISHED,7.0,1.0
+114388,Ousama Ranking,Ranking of Kings,王様ランキング,MANGA,6243,77,2017-05-20,,RELEASING,0.0,0.0
+114416,Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo,"The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",君のことが大大大大大好きな100人の彼女,MANGA,35010,77,2019-12-26,,RELEASING,0.0,0.0
+114427,Zai Du Yu Ni,Once More,再度与你,MANGA,3159,78,2019-08-16,2023-08-27,FINISHED,170.0,3.0
+114531,Cool Doji Danshi,"Play it Cool, Guys",クールドジ男子,MANGA,5637,78,2019-06-22,,RELEASING,0.0,0.0
+114542,Haruman Nega Doego Sipeo,Your Throne,하루만 네가 되고 싶어,MANGA,20122,78,2020-01-06,,RELEASING,0.0,0.0
+114671,Shrink: Seishinkai Yowai,Not Recorded,Shrink〜精神科医ヨワイ〜,MANGA,2389,77,2019-06-05,,RELEASING,0.0,0.0
+114768,BJ Alex: BJ. MD,BJ Alex: BJ. MD,BJ알렉스외전: BJ. MD,MANGA,7057,78,2020-04-17,2020-06-05,FINISHED,8.0,0.0
+114898,Koisuru (Otome) no Tsukurikata,I Think I Turned My Childhood Friend Into a Girl,恋する（おとめ）の作り方,MANGA,8781,77,2019-12-31,,RELEASING,0.0,0.0
+114913,Toorigakari ni One Point Advice Shiteiku Type no Yankee,A Delinquent's Life Hacks,通りがかりにワンポイントアドバイスしていくタイプのヤンキー,MANGA,6957,77,2018-06-09,2022-07-22,FINISHED,110.0,8.0
+114920,Tensei Oujo to Tensai Reijou no Mahou Kakumei,The Magical Revolution of the Reincarnated Princess and the Genius Young Lady,転生王女と天才令嬢の魔法革命,NOVEL,2811,79,2020-01-18,,RELEASING,0.0,0.0
+114972,Boys Run The Riot,Boys Run The Riot,ボーイズ・ラン・ザ・ライオット,MANGA,11985,78,2020-01-27,2020-10-14,FINISHED,38.0,4.0
+114998,Bungou Stray Dogs BEAST,Bungo Stray Dogs Beast,文豪ストレイドッグス　ＢＥＡＳＴ,MANGA,8368,85,2019-12-26,2022-01-26,FINISHED,22.0,4.0
+115000,White Blood,Unholy Blood,화이트 블러드,MANGA,23036,79,2020-01-15,2021-09-22,FINISHED,93.0,8.0
+115166,Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e: 2-nensei-hen,Classroom of the Elite: Year 2,ようこそ実力至上主義の教室へ　２年生編,NOVEL,14829,86,2020-01-24,2024-11-25,FINISHED,130.0,15.0
+115326,Old-Fashioned Cupcake,Old-Fashioned Cupcake,オールドファッションカップケーキ,MANGA,3208,79,2019-01-31,2019-09-30,FINISHED,7.0,1.0
+115348,Bokura no Chikyuu no Arukikata,Our Not-So-Lonely Planet Travel Guide,僕らの地球の歩き方,MANGA,1946,77,2019-12-30,2025-09-02,FINISHED,59.0,7.0
+115947,Rebuild World,Rebuild World,リビルドワールド,NOVEL,1220,77,2019-05-17,,RELEASING,0.0,0.0
+116170,Veil,Veil,Veil,MANGA,16337,87,2018-05-14,,RELEASING,0.0,0.0
+116219,Shinai naru Gene e,Not Recorded,親愛なるジーンへ,MANGA,1447,83,2019-08-31,2022-06-30,FINISHED,11.0,2.0
+116353,Mo Huang Da Guanjia,The Devil Butler,魔皇大管家,MANGA,23624,81,2019-04-05,,RELEASING,0.0,0.0
+116382,Agnyeoneun Molaesigyeleul Doedollinda,The Villainess Turns the Hourglass,악녀는 모래시계를 되돌린다,MANGA,19745,78,2020-03-01,2022-11-04,FINISHED,125.0,0.0
+116401,"Kekkon Suru tte, Hontou desu ka: 365 Days To The Wedding",365 Days to the Wedding,結婚するって、本当ですか 365 Days To The Wedding,MANGA,13970,77,2020-03-16,2023-06-12,FINISHED,110.0,11.0
+116843,Bring the Love,Bring the Love,브링 더 러브,MANGA,2952,78,2019-09-30,2023-01-22,FINISHED,155.0,0.0
+117195,[Oshi no Ko],[Oshi no Ko],【推しの子】,MANGA,97591,78,2020-04-23,2024-11-14,FINISHED,168.0,16.0
+117324,Nan Hao Shang Feng,Not Recorded,南号尚风,MANGA,22706,83,2019-01-20,,RELEASING,0.0,0.0
+117460,Temppal,Overgeared,템빨,MANGA,33794,77,2020-04-01,,RELEASING,0.0,0.0
+117540,Geu Angnyeoreul Josimhaseyo!,Beware the Villainess!,그 악녀를 조심하세요!,MANGA,23626,77,2020-04-13,2022-10-10,FINISHED,128.0,0.0
+117620,Kimi to Tsuzuru Utakata,The Summer You Were There,君と綴るうたかた,MANGA,19218,86,2020-05-18,2024-01-18,FINISHED,32.0,6.0
+117728,Dungeon Sok Sajeong,What Happens Inside the Dungeon,던전 속 사정,MANGA,7232,78,2019-06-27,2024-03-16,FINISHED,141.0,0.0
+117802,ONE PIECE episode A,One Piece: Ace’s Story—The Manga,ONE PIECE episode A,MANGA,7111,78,2020-09-16,2021-12-02,FINISHED,6.0,2.0
+117853,"Natsu e no Tunnel, Sayonara no Deguchi","The Tunnel to Summer, the Exit of Goodbyes",夏へのトンネル、さよならの出口,NOVEL,3777,82,2019-07-18,2019-07-18,FINISHED,6.0,1.0
+117877,Unromantic,Unromantic Romance,언로맨틱,MANGA,2988,78,2020-02-05,2021-10-22,FINISHED,66.0,0.0
+117918,Sinbi,Mystical,신비,MANGA,2584,77,2020-02-19,2022-04-06,FINISHED,94.0,5.0
+118269,Soulmate,Soulmate,Soulmate,MANGA,7626,80,2020-01-16,2020-08-28,FINISHED,41.0,0.0
+118371,Medalist,Medalist,メダリスト,MANGA,10726,87,2020-05-25,,RELEASING,0.0,0.0
+118408,Agyeogui Ending Jugeumppun,Villains Are Destined to Die,악역의 엔딩은 죽음뿐,MANGA,35108,84,2020-05-01,,RELEASING,0.0,0.0
+118570,Senpai wa Otokonoko,Senpai is an Otokonoko,先輩はおとこのこ,MANGA,8253,77,2019-12-07,2021-12-30,FINISHED,100.0,10.0
+118586,Sousou no Frieren,Frieren: Beyond Journey’s End,葬送のフリーレン,MANGA,74246,87,2020-04-28,,RELEASING,0.0,0.0
+118695,Watashi no Oshi wa Akuyaku Reijou.,I’m in Love with the Villainess,私の推しは悪役令嬢。,MANGA,15945,77,2020-06-18,,RELEASING,0.0,0.0
+119174,The Boxer,The Boxer,더 복서,MANGA,38166,83,2019-12-04,2022-05-04,FINISHED,133.0,13.0
+119247,Uma Musume: Cinderella Gray,Not Recorded,ウマ娘 シンデレラグレイ,MANGA,4592,86,2020-06-10,,RELEASING,0.0,0.0
+119257,Jeonjijeok Dokja Sijeom,Omniscient Reader,전지적 독자 시점,MANGA,113625,86,2020-05-26,,RELEASING,0.0,0.0
+119301,Kaichou wa Maid-sama!: Marriage,Not Recorded,会長はメイド様！マリアージュ,MANGA,4186,79,2018-08-03,2018-08-03,FINISHED,7.0,1.0
+119363,Player,Not Recorded,플레이어,MANGA,13735,77,2020-05-07,,RELEASING,0.0,0.0
+119521,Bukgeom Jeongi,The Legend of the Northern Blade,북검전기,MANGA,38733,85,2019-12-31,2024-11-19,FINISHED,202.0,0.0
+119664,Restart wa Tadaima no Ato de,Restart After Coming Back Home,リスタートはただいまのあとで,MANGA,4239,78,2016-12-22,2018-08-29,FINISHED,7.0,1.0
+120112,Asumi-chan wa Rezu Fuuzoku ni Kyoumi ga Arimasu!,Asumi-chan is Interested in Lesbian Brothels,彩純ちゃんはレズ風俗に興味があります！,MANGA,8923,78,2020-07-18,,RELEASING,0.0,0.0
+120385,Login Murim,Log-in Murim,로그인 무림,MANGA,19572,80,2020-05-01,,RELEASING,0.0,0.0
+120440,Agiga Saenggyeosseoyo,Positively Yours,아기가 생겼어요,MANGA,16644,81,2020-06-08,2022-03-14,FINISHED,82.0,8.0
+120502,Uruwashi no Yoi no Tsuki,In the Clear Moonlit Dusk,うるわしの宵の月,MANGA,18918,78,2020-07-21,,RELEASING,0.0,0.0
+120535,Boku ga Otto ni Deau made,Until I Meet My Husband,僕が夫に出会うまで,MANGA,5888,81,2020-04-29,2021-02-10,FINISHED,7.0,1.0
+120537,School Zone,SCHOOL ZONE GIRLS,スクールゾーン,MANGA,5788,77,2018-04-02,,RELEASING,0.0,0.0
+120545,Zense Coupling,Not Recorded,前世カップリング,MANGA,5130,78,2018-04-25,2020-05-28,FINISHED,62.0,7.0
+120675,Aekanaru,Not Recorded,アエカナル,MANGA,2772,77,2020-06-30,2022-07-30,FINISHED,41.0,4.0
+120796,BJ Alex: Side Story,Not Recorded,BJ 알렉외전,MANGA,5333,78,2020-06-26,2020-08-06,FINISHED,5.0,0.0
+120963,Kimi wa Tsukiyo ni Hikarikagayaku,Not Recorded,君は月夜に光り輝く,MANGA,4192,78,2018-08-06,2019-03-15,FINISHED,11.0,2.0
+120980,Nano Machine,Nano Machine,나노마신,MANGA,39925,82,2020-06-10,,RELEASING,0.0,0.0
+121054,"Pocket Monsters SPECIAL: Gold, Silver & Crystal","Pokémon Adventures: Gold, Silver & Crystal",ポケットモンスターSPECIAL 金・銀・クリスタル,MANGA,2511,77,1999-12-01,2002-12-01,FINISHED,90.0,0.0
+121146,Pocket Monsters SPECIAL: Ruby & Sapphire,Pokémon Adventures: Ruby & Sapphire,ポケットモンスターSPECIAL: ルビー・サファイア,MANGA,2302,78,2002-12-01,2006-08-01,FINISHED,87.0,0.0
+121364,Bokura no Tsuzuki,Not Recorded,ぼくらのつづき,MANGA,4302,78,2019-02-28,2019-05-31,FINISHED,6.0,1.0
+121565,Cheongchun Blossom,Seasons of Blossom,청춘 블라썸,MANGA,16790,85,2020-06-26,2023-03-31,FINISHED,130.0,12.0
+121819,Jibaku Shounen Hanako-kun 0,"Toilet-bound Hanako-kun, Vol. 0",地縛少年 花子くん 0,MANGA,5641,78,2019-12-27,2019-12-27,FINISHED,4.0,1.0
+121991,Ssaumdokak,Viral Hit,싸움독학,MANGA,25169,78,2019-11-16,2024-01-27,FINISHED,222.0,0.0
+122060,Ibeon Saengdo Jal Butakae,See You in My 19th Life,이번 생도 잘 부탁해,MANGA,15383,81,2020-06-06,2022-09-24,FINISHED,114.0,12.0
+122063,"Shangri-La Frontier: Kusoge Hunter, Kami ge ni Idoman to su",Shangri-La Frontier,"シャングリラ・フロンティア〜クソゲーハンター, 神ゲーに挑まんとす〜",MANGA,17511,81,2020-07-15,,RELEASING,0.0,0.0
+122337,Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken,The Angel Next Door Spoils Me Rotten,お隣の天使様にいつの間にか駄目人間にされていた件,MANGA,12223,79,2022-01-06,,RELEASING,0.0,0.0
+122462,"Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (※Muri ja Nakatta!?)",There’s No Freaking Way I’ll be Your Lover! Unless…,わたしが恋人になれるわけないじゃん、ムリムリ! (※ムリじゃなかった!?),NOVEL,2459,77,2020-02-21,,RELEASING,0.0,0.0
+122653,Daerihwaga,A Painter Behind the Curtain,대리화가,MANGA,1173,77,2015-07-09,2019-06-25,FINISHED,75.0,7.0
+122993,Odoriba ni Skirt ga Naru,Not Recorded,踊り場にスカートが鳴る,MANGA,3415,78,2020-08-19,2025-08-18,FINISHED,31.0,6.0
+123117,Bungou Stray Dogs: Dazai Osamu to Kuro no Jidai,Bungo Stray Dogs: Osamu Dazai and The Dark Era,文豪ストレイドッグス 太宰治と黒の時代,NOVEL,2246,83,2014-08-01,2014-08-01,FINISHED,6.0,1.0
+123118,Bungou Stray Dogs: Tanteisha Setsuritsu Hiwa,Bungo Stray Dogs: The Untold Origins of the Detective Agency,文豪ストレイドッグス 探偵社設立秘話,NOVEL,2061,81,2015-05-01,2015-05-01,FINISHED,2.0,1.0
+123121,Bungou Stray Dogs: 55 Minutes ,Bungo Stray Dogs: 55 Minutes,文豪ストレイドッグス ５５Ｍｉｎｕｔｅｓ,NOVEL,1831,79,2016-10-01,2016-10-01,FINISHED,2.0,1.0
+123125,Bungou Stray Dogs BEAST,Bungo Stray Dogs: BEAST,文豪ストレイドッグスBEAST,NOVEL,2826,83,2019-04-01,2019-04-01,FINISHED,4.0,1.0
+123126,"Bungou Stray Dogs: Dazai, Chuuya, Juugosai","Bungo Stray Dogs: Dazai, Chuuya, Age Fifteen","文豪ストレイドッグス  太宰, 中也, 十五歳",NOVEL,2353,82,2019-08-01,2019-08-01,FINISHED,8.0,1.0
+123154,Restart wa Onaka wo Sukasete,Restart After Growing Hungry,リスタートはおなかをすかせて,MANGA,2542,80,2019-12-27,2020-08-28,FINISHED,7.0,1.0
+123201,Kabukichou Bad Trip,Kabukicho Bad Trip,歌舞伎町バッドトリップ,MANGA,2701,77,2020-06-25,2021-11-24,FINISHED,14.0,2.0
+123314,Iken Senki Völundio,Völundio ~Divergent Sword Saga~,異剣戦記ヴェルンディオ,MANGA,3461,78,2020-08-24,,RELEASING,0.0,0.0
+123409,Jianle Dongxi de Lang,Not Recorded,捡了东西的狼,MANGA,5058,78,2020-04-20,,RELEASING,0.0,0.0
+123573,Baekjakgaui Mangnaniga Doeeotda,Lout of Count’s Family,백작가의 망나니가 되었다,MANGA,38432,78,2020-08-31,,RELEASING,0.0,0.0
+123760,Imaizumin-chi wa Douyara Gal no Tamariba ni Natteru Rashii,Imaizumi Brings All The Gyarus To His House,今泉ん家はどうやらギャルの溜まり場になってるらしい,MANGA,4237,78,2019-04-08,,RELEASING,0.0,0.0
+123777,"Watashi wo Tabetai, Hitodenashi",This Monster Wants to Eat Me,私を喰べたい、ひとでなし,MANGA,10996,79,2020-08-27,,RELEASING,0.0,0.0
+123868,Urijibe Nolleowa!,Ring My Bell,우리집에 놀러와!,MANGA,5404,78,2019-06-19,2021-12-25,FINISHED,66.0,0.0
+124139,Chi. Chikyuu no Undou ni Tsuite,Orb: On the Movements of the Earth,チ。―地球の運動について―,MANGA,8323,82,2020-09-14,2022-04-18,FINISHED,62.0,8.0
+124156,Ke Zai Meiyan Jian,Engraved on My Heart,刻在眉眼间,MANGA,2344,77,2020-09-08,2021-05-13,FINISHED,41.0,0.0
+124382,Hiraeth wa Tabiji no Hate,HIRAETH -The End of the Journey-,ヒラエスは旅路の果て,MANGA,6215,78,2020-10-22,2022-05-20,FINISHED,17.0,3.0
+124639,Pink Heart Jam,Pink Heart Jam,ピンクハートジャム,MANGA,6827,81,2020-08-25,2022-04-25,FINISHED,11.0,2.0
+124885,Ookami no Kawa wo Kabutta Hitsujihime,Sheep Princess in Wolf’s Clothing,狼の皮をかぶった羊姫,MANGA,4058,77,2020-10-09,2023-04-21,FINISHED,27.0,5.0
+124964,Onna no Sono no Hoshi,Not Recorded,女の園の星,MANGA,2907,78,2020-01-08,,RELEASING,0.0,0.0
+125025,Josee to Tora to Sakana-tachi,"Josee, the Tiger and the Fish",ジョゼと虎と魚たち,MANGA,4721,80,2020-01-06,2020-10-06,FINISHED,11.0,2.0
+125078,Karaoke Iko!,Let's Go Karaoke!,カラオケ行こ！,MANGA,2537,77,2020-09-12,2020-09-12,FINISHED,3.0,1.0
+125095,Tractor-neun Sarangeul Sitgo,Love Tractor,트랙터는 사랑을 싣고,MANGA,3956,80,2020-08-13,2022-05-31,FINISHED,80.0,0.0
+125116,Tsue to Tsurugi no Wistoria,Wistoria: Wand and Sword,杖と剣のウィストリア,MANGA,12344,78,2020-12-09,,RELEASING,0.0,0.0
+125167,Semantic Error,Semantic Error,시맨틱 에러,MANGA,9650,81,2020-07-27,2023-10-26,FINISHED,94.0,0.0
+125624,Kuchi ga Saketemo Kimi ni wa,Even If You Slit My Mouth,口が裂けても君には,MANGA,18698,76,2020-11-10,2023-12-19,FINISHED,90.0,11.0
+125828,SAKAMOTO DAYS,Sakamoto Days,SAKAMOTO DAYS,MANGA,79754,80,2020-11-21,,RELEASING,0.0,0.0
+126107,Beomeul Gildeulineun Yoryeong,Uncanny Charm,범을 길들이는 요령,MANGA,2774,78,2020-02-12,2023-05-10,FINISHED,108.0,0.0
+126135,Bibliomania,Not Recorded,ビブリオマニア,MANGA,20178,78,2016-09-05,2018-04-16,FINISHED,12.0,1.0
+126268,Gimai Seikatsu,Days with My Stepsister,義妹生活,NOVEL,5339,79,2021-01-25,,RELEASING,0.0,0.0
+126292,Onna Tomodachi to Kekkon Shite Mita.,I Married My Female Friend,女ともだちと結婚してみた。,MANGA,6263,77,2020-11-18,2023-10-18,FINISHED,32.0,4.0
+126297,Iphagyongbyeong,Teenage Mercenary,입학용병,MANGA,50206,80,2020-11-07,,RELEASING,0.0,0.0
+126399,Haruka Tooki Ie,A Home Far Away,遥か遠き家,MANGA,5072,83,2020-09-19,2021-02-27,FINISHED,7.0,1.0
+126559,Fool Night,Fool Night,フールナイト,MANGA,8746,79,2020-11-13,,RELEASING,0.0,0.0
+126722,Anemone wa Netsu wo Obiru,The Anemone Feels the Heat,アネモネは熱を帯びる,MANGA,8997,78,2020-11-24,2025-04-24,FINISHED,52.0,9.0
+126768,Goma Shio to Purin,Black Sesame Salt and Custard Pudding,ゴマ塩とぷりん,MANGA,7822,78,2018-10-12,2020-11-13,FINISHED,20.0,3.0
+126986,Jibi Eopseo,Not Recorded,집이 없어,MANGA,6259,85,2018-12-31,2024-08-05,FINISHED,269.0,0.0
+127008,"Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu Suru",7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!,ループ7回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する,MANGA,6416,77,2020-12-04,,RELEASING,0.0,0.0
+127122,Opium,Opium,오피움,MANGA,2662,78,2020-07-03,2021-04-02,FINISHED,47.0,0.0
+127217,Yoake no Uta,Lullaby of the Dawn,夜明けの唄,MANGA,3730,81,2020-08-21,,RELEASING,0.0,0.0
+127249,Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen Dai 4-bu - Kizoku-in no Toshokan wo Sukuitai!,Ascendance of a Bookworm ~I'll do anything to become a librarian!~ Part 4 I want to save the Royal Academy's library!,本好きの下剋上~司書になるためには手段を選んでいられません~ 第四部 「貴族院の図書館を救いたい！」,MANGA,1227,77,2020-12-24,,RELEASING,0.0,0.0
+127440,Guanyu Bei Banshang Lücha Weixie Na Jian Shi,I Got Blackmailed by the Fake Bitch in Class,关于被班上绿茶威胁那件事,MANGA,6089,78,2020-12-09,,RELEASING,0.0,0.0
+127683,Seishun Buta Yarou wa Logical Witch no Yume wo Minai,Rascal Does Not Dream of Logical Witch,青春ブタ野郎はロジカルウィッチの夢を見ない,MANGA,3073,76,2020-08-01,2022-05-19,FINISHED,12.0,2.0
+127886,Isekai no Sata wa Shachiku Shidai,The Other World's Books Depend on the Bean Counter,異世界の沙汰は社畜次第,MANGA,2879,78,2020-05-05,,RELEASING,0.0,0.0
+127993,Choinui Sidae,The Superhuman Era,초인의 시대,MANGA,7305,77,2019-07-12,,RELEASING,0.0,0.0
+128067,SSS-geup Jugeoya Saneun Hunter,SSS-Class Revival Hunter,SSS급 죽어야 사는 헌터,MANGA,56652,83,2020-12-31,,RELEASING,0.0,0.0
+128393,Ingineun Mueonga Jalmotdoeeotda,Who Can Define Popularity?,인기는 무언가 잘못되었다,MANGA,2569,76,2020-05-09,2022-10-26,FINISHED,86.0,0.0
+128435,Ending Hu Seobeunameul Juwotda,Happily Ever Afterwards,엔딩 후 서브남을 주웠다,MANGA,6308,77,2020-12-15,2022-09-27,FINISHED,89.0,0.0
+128642,Wiheomhan Pyeonuijeom,The Dangerous Convenience Store,위험한 편의점,MANGA,6943,80,2020-11-08,2022-12-03,FINISHED,92.0,6.0
+128791,Quanqiu Gaokao,Global Examination,全球高考,MANGA,1929,77,2020-10-02,,RELEASING,0.0,0.0
+128963,Saranameun Romance,Surviving Romance,살아남은 로맨스,MANGA,9869,80,2021-01-16,2023-06-15,FINISHED,101.0,7.0
+128965,Dalkomsalbeolhan Bubu,'Til Debt Do Us Part,달콤살벌한 부부,MANGA,6474,77,2020-09-14,2022-01-24,FINISHED,72.0,0.0
+129135,Old-Fashioned Cupcake with Cappuccino,Old-Fashioned Cupcake with Cappuccino,オールドファッションカップケーキ with カプチーノ,MANGA,1162,77,2020-05-29,2021-03-31,FINISHED,7.0,1.0
+129152,"Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu Suru",7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!,ループ7回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する,NOVEL,1958,79,2020-10-25,,RELEASING,0.0,0.0
+129210,Yeojuingongui Oppareul Jikineun Bangbeop,Roxana,여주인공의 오빠를 지키는 방법,MANGA,18101,80,2021-01-31,,RELEASING,0.0,0.0
+129341,Xiaoxin Bei Mengmo Chidiao O,My Delicious Dream Boy,小心被梦魔吃掉哦,MANGA,2656,77,2020-11-24,2023-04-04,FINISHED,108.0,0.0
+129345,Wo De Shiwu Kan Qilai Hen Keai,My Food Looks Very Cute,我的食物看起来很可爱,MANGA,3159,78,2020-11-25,,RELEASING,0.0,0.0
+129384,Checkmate,Checkmate,체크 메이트,MANGA,3338,77,2020-09-11,2023-09-28,FINISHED,114.0,0.0
+129574,1-nichi Go ni Shinu Gorilla,Not Recorded,1日後に死ぬゴリラ,MANGA,12377,83,2021-02-06,2021-02-07,FINISHED,3.0,0.0
+129685,Futarigurashi,Not Recorded,ふたりぐらし,MANGA,1783,78,2019-10-04,,RELEASING,0.0,0.0
+129774,Se Beonjjae Gyeolmal,Third Ending,세 번째 결말,MANGA,3840,78,2021-02-03,2024-04-28,FINISHED,76.0,0.0
+129791,Sse Sse Sse,Ooh La La,쎄쎄쎄,MANGA,4373,80,2020-03-02,2023-03-26,FINISHED,70.0,0.0
+130080,Bungou Stray Dogs: STORM BRINGER,Bungo Stray Dogs: Storm Bringer,文豪ストレイドッグス STORM BRINGER,NOVEL,3045,86,2021-02-27,2021-02-27,FINISHED,6.0,1.0
+130116,Noksaekjeonsang,Under The Greenlight,녹색전상,MANGA,6503,79,2021-03-05,2022-01-15,FINISHED,37.0,3.0
+130128,Bokutachi wa Mada Aoku,Not Recorded,ボクたちはまだ青く,MANGA,1827,78,2019-10-08,2020-10-08,FINISHED,8.0,1.0
+130158,Sarinma Lewellyn-ssi-ui Nangmanjeogin Jeongchan,Murderous Lewellyn’s Candlelit Dinner,살인마 르웰린 씨의 낭만적인 정찬,MANGA,3882,79,2020-06-25,2022-02-24,FINISHED,90.0,6.0
+130229,Yeopchongsonyeon,Shotgun Boy,엽총소년,MANGA,19525,77,2021-02-22,2022-06-20,FINISHED,69.0,0.0
+130300,"Appa, Na I Gyeolhon An Hallaeyo!","Father, I Don't Want this Marriage","아빠, 나 이 결혼 안 할래요!",MANGA,15358,77,2021-02-24,2024-04-10,FINISHED,131.0,0.0
+130429,Ibeon Saengeun Gajuga Doegetseumnida,I Shall Master this Family!,이번 생은 가주가 되겠습니다,MANGA,20769,82,2021-02-28,,RELEASING,0.0,0.0
+130606,Jigojisun,Love So Pure,지고지순,MANGA,3060,77,2020-08-26,2022-10-19,FINISHED,112.0,0.0
+130665,Kkumjariga Isanghandeyo!?,It's Just a Dream...Right?!,꿈자리가 이상한데요!?,MANGA,2710,78,2021-02-01,2025-06-03,FINISHED,94.0,0.0
+130687,Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san,Alya Sometimes Hides Her Feelings in Russian,時々ボソッとロシア語でデレる隣のアーリャさん,NOVEL,8079,79,2021-02-27,,RELEASING,0.0,0.0
+130711,Watashi wa Kabe ni Naritai,I Want to Be a Wall,わたしは壁になりたい,MANGA,3768,77,2019-03-27,2023-01-18,FINISHED,20.0,3.0
+130867,Hidamari ga Kikoeru: Shunkashuutou,I Hear the Sunspot: Four Seasons,ひだまりが聴こえる－春夏秋冬,MANGA,2217,78,2020-12-28,,RELEASING,0.0,0.0
+130904,Hyanghaneun Girui Majimang Georeum,My Way with You,향하는 길의 마지막 걸음,MANGA,1228,80,2020-09-29,2020-09-29,FINISHED,3.0,2.0
+131128,Hugugongnyak,Concubine Walkthrough,후구공략,MANGA,2835,79,2020-06-20,2022-12-24,FINISHED,130.0,0.0
+131640,Cloud,Lost in the Cloud,클라우드,MANGA,11089,82,2020-11-20,2025-01-18,FINISHED,131.0,0.0
+131769,Dongari,Drama Queens,동아리,MANGA,5467,80,2020-11-30,2025-05-19,FINISHED,216.0,0.0
+131822,FLY ME TO THE MOON,Not Recorded,FLY ME TO THE MOON,MANGA,3055,77,2021-03-31,2021-04-30,FINISHED,4.0,0.0
+132029,Dandadan,Dandadan,ダンダダン,MANGA,102718,83,2021-04-06,,RELEASING,0.0,0.0
+132144,Hwasangwihwan,Return of the Blossoming Blade,화산귀환,MANGA,35463,84,2021-03-23,,RELEASING,0.0,0.0
+132165,Angnyeoreul Jugyeo Jwo,Kill the Villainess,악녀를 죽여 줘,MANGA,13560,78,2021-04-02,2024-01-01,FINISHED,102.0,7.0
+132182,Ao no Hako,Blue Box,アオのハコ,MANGA,47956,81,2021-04-12,,RELEASING,0.0,0.0
+132288,Hirayasumi,Hirayasumi,ひらやすみ,MANGA,13650,84,2021-04-26,,RELEASING,0.0,0.0
+132364,Ano Ko no Kodomo,My Girlfriend's Child,あの子の子ども,MANGA,3610,79,2021-05-13,2024-07-12,FINISHED,41.0,10.0
+132557,Nick to Lever,Not Recorded,ニックとレバー,MANGA,2019,77,2020-10-12,2023-09-12,FINISHED,162.0,3.0
+132926,Unmei no Hito ni Deau Hanashi,How I Met My Soulmate,運命の人に出会う話,MANGA,10825,78,2021-04-24,,RELEASING,0.0,0.0
+132977,Koi ga Michitara,Not Recorded,恋が満ちたら,MANGA,1192,80,2019-09-30,2021-08-31,FINISHED,7.0,1.0
+133038,Jangneureul Bakkwobodorok Hagetseumnida,The Villainess Flips the Script!,장르를 바꿔보도록 하겠습니다,MANGA,10128,77,2021-04-24,2024-12-03,FINISHED,119.0,0.0
+133795,Olgami,Trapped,올가미,MANGA,7124,79,2019-09-02,2024-05-20,FINISHED,203.0,0.0
+133797,Secret Lady,Secret Lady,시크릿레이디,MANGA,9207,78,2021-05-04,,RELEASING,0.0,0.0
+133809,Haru to Natsu to Nacchan to Aki to Fuyu to Boku  ,Not Recorded,春と夏となっちゃんと秋と冬と僕,MANGA,965,77,2018-09-24,2018-09-24,FINISHED,13.0,1.0
+134191,Segimal Putsagwa Boseupagwon,After School Lessons for Unripe Apples,세기말 풋사과 보습학원,MANGA,8158,83,2020-12-23,,RELEASING,0.0,0.0
+134255,Sleeping Dead,Not Recorded,スリーピングデッド,MANGA,2828,77,2020-10-28,2022-06-30,FINISHED,13.0,2.0
+134456,Neorang Naneun Iraeseo Andwae,You Get Me Going,너랑 나는 이래서 안돼,MANGA,2418,77,2021-04-21,2022-11-11,FINISHED,56.0,0.0
+134556,Tokkiwa Heukpyobeomui Gongsaeng Gwangye,Little Rabbit and the Big Bad Leopard,토끼와 흑표범의 공생 관계,MANGA,9267,76,2021-05-22,,RELEASING,0.0,0.0
+135083,WIND BREAKER,WIND BREAKER,WIND BREAKER,MANGA,18013,80,2021-01-13,,RELEASING,0.0,0.0
+135096,Bongchongaksi,Bongchon Bride,봉촌각시,MANGA,1262,77,2019-08-19,,RELEASING,0.0,0.0
+135129,Vagabond: Saigo no Manga-ten,Not Recorded,バガボンド 最後のマンガ展,MANGA,7956,88,2008-05-24,2008-10-15,FINISHED,2.0,2.0
+135276,Make Heroine ga Oosugiru!,Too Many Losing Heroines!,負けヒロインが多すぎる！,NOVEL,3487,81,2021-07-21,,RELEASING,0.0,0.0
+135325,"Natae Gongja, Nolyeog Cheonjae Doeda",The Lazy Lord Masters the Sword,"나태 공자, 노력 천재 되다",MANGA,27171,77,2021-05-21,,RELEASING,0.0,0.0
+135356,The Fable: The Second Contact,The Fable: The Second Contact,ザ・ファブル The Second Contact,MANGA,4787,78,2021-07-19,2023-07-09,FINISHED,86.0,9.0
+135378,"Tensei Shite High Elf ni Narimashita ga, Slow Life wa 120-nen de Akimashita",Not Recorded,転生してハイエルフになりましたが、スローライフは120年で飽きました,MANGA,4906,77,2021-06-10,,RELEASING,0.0,0.0
+135822,Miseongnyeon,Our Youth,미성년,MANGA,1613,78,2020-08-29,2022-04-25,FINISHED,70.0,0.0
+136092,Nune Beomi Seorida,Taming the Tiger,눈에 범이 서리다,MANGA,2919,79,2021-05-26,2023-02-11,FINISHED,80.0,0.0
+136109,Amayo no Tsuki,The Moon on a Rainy Night,雨夜の月,MANGA,8233,84,2021-06-12,,RELEASING,0.0,0.0
+136177,Payback,Payback,Payback,MANGA,4307,77,2021-06-02,2025-08-20,FINISHED,110.0,0.0
+136204,Cheonmaneun Pyeongbeomhage Sal Su Eopda,Descended from Divinity,천마는 평범하게 살 수 없다,MANGA,16310,77,2021-06-14,,RELEASING,0.0,0.0
+136220,Tusinjeonsaenggi,Doom Breaker,투신전생기,MANGA,35411,79,2021-06-25,,RELEASING,0.0,0.0
+136253,Maitsuki Niwa-tsuki Ouya-tsuki,Monthly in the Garden with My Landlord,毎月庭つき大家つき,MANGA,4987,77,2021-06-29,2024-08-13,FINISHED,36.0,5.0
+136320,"Natsu e no Tunnel, Sayonara no Deguchi: Gunjou","The Tunnel to Summer, the Exit of Goodbyes: Ultramarine",夏へのトンネル、さよならの出口 群青,MANGA,2219,79,2020-07-18,2021-11-19,FINISHED,17.0,4.0
+136611,Kimi wa Nazotoki no Ma Cherie  ,My Dear Detective: Mitsuko’s Case Files,きみは謎解きのマシェリ,MANGA,3153,77,2021-05-18,,RELEASING,0.0,0.0
+136807,Look Back,Look Back,ルックバック,ONE_SHOT,56810,83,2021-07-19,2021-07-19,FINISHED,1.0,1.0
+136833,Silent Witch: Chinmoku no Majo no Kakushigoto,Secrets of the Silent Witch,サイレント・ウィッチ　沈黙の魔女の隠しごと,NOVEL,2168,79,2021-06-10,,RELEASING,0.0,0.0
+136943,"Hikaeme ni Itte mo, Kore wa Ai","Love, That's an Understatement",ひかえめに言っても、これは愛,MANGA,9198,80,2021-07-26,,RELEASING,0.0,0.0
+137280,Na Honja Mallep Newbie,I’m the Max-Level Newbie,나 혼자 만렙 뉴비,MANGA,42683,77,2021-07-29,,RELEASING,0.0,0.0
+137304,Gwangmahoegwi,Return of the Mad Demon,광마회귀,MANGA,22370,79,2021-07-22,,RELEASING,0.0,0.0
+137428,Mimoza no Kokuhaku,The Mimosa Confessions,ミモザの告白,NOVEL,1737,79,2021-07-21,2024-06-18,FINISHED,15.0,5.0
+137431,Shin Kirari,Talk to My Back,しんきらり,MANGA,1371,77,1981-03-01,1984-10-01,FINISHED,36.0,2.0
+137614,Umi ga Hashiru End Roll,The Credits Roll into the Sea,海が走るエンドロール,MANGA,5421,78,2020-10-06,,RELEASING,0.0,0.0
+137620,BLEACH Gokumeimeihen,Bleach: Special One-Shot,BLEACH 獄頤鳴鳴篇,ONE_SHOT,11640,78,2021-08-10,2021-08-10,FINISHED,1.0,0.0
+137816,Shujinkou Nikki,Diary of a Female Lead: Shujinkou Nikki,主人恋日記,MANGA,3434,77,2021-08-12,2025-05-13,FINISHED,53.0,11.0
+137907,Dungeon Meshi World Guide Boukensha Bible,Delicious in Dungeon: The Adventurer's Bible,ダンジョン飯 ワールドガイド 冒険者バイブル,MANGA,1949,77,2021-02-13,2021-02-13,FINISHED,3.0,1.0
+138072,JoJo no Kimyou na Bouken: The JOJOLands,Not Recorded,ジョジョの奇妙な冒険 The JOJOLands,MANGA,25135,81,2023-02-17,,RELEASING,0.0,0.0
+138196,Define the Relationship,Define the Relationship,디파인 더 릴레이션십,MANGA,3678,80,2021-06-16,2025-03-14,FINISHED,109.0,0.0
+138222,Singwa Hamkke Level Up,Level Up with the Gods,신과 함께 레벨업,MANGA,24820,78,2021-08-14,,RELEASING,0.0,0.0
+138363,Namjuui Ibyangttari Doeeotseumnida,The Male Lead's Little Lion Daughter,남주의 입양딸이 되었습니다,MANGA,12960,80,2021-08-14,,RELEASING,0.0,0.0
+138564,Geonmulju Nuna,Landlord Sisters,건물주 누나,MANGA,6715,78,2021-07-23,2025-03-15,FINISHED,156.0,0.0
+138577,After God,After God,アフターゴッド,MANGA,11581,77,2021-08-17,,RELEASING,0.0,0.0
+138603,Hikaru ga Shinda Natsu,The Summer Hikaru Died,光が死んだ夏,MANGA,34767,82,2021-08-31,,RELEASING,0.0,0.0
+138705,Suyo Webtoon-ui Na Kang-Rim,Not Recorded,수요웹툰의 나강림,MANGA,9969,82,2021-05-04,2024-07-09,FINISHED,172.0,0.0
+138711,Yuki no Yousei,Snow Fairy,雪の妖精,MANGA,3512,82,2021-07-16,2022-01-07,FINISHED,7.0,1.0
+138847,Studio Cabana,Not Recorded,スタジオカバナ,MANGA,4695,77,2021-03-24,,RELEASING,0.0,0.0
+138928,Goukon ni Ittara Onna ga Inakatta Hanashi,How I Attended an All-Guy's Mixer,合コンに行ったら女がいなかった話,MANGA,4535,79,2020-03-21,,RELEASING,0.0,0.0
+139540,Daisuki na Tsuma Datta,The Wife I Loved Dearly,大好きな妻だった,ONE_SHOT,3784,77,2021-09-17,2021-09-17,FINISHED,1.0,0.0
+139741,Wo Zhen Bushi Xie Shen Zougou,I’m Really Not the Devil’s Lackey,我真不是邪神走狗,MANGA,8795,77,2021-06-01,,RELEASING,0.0,0.0
+140287,"Kinou no Haru de, Kimi wo Matsu",Wait For Me Yesterday in Spring,きのうの春で、君を待つ,NOVEL,2085,78,2020-04-17,2020-04-17,FINISHED,7.0,1.0
+140407,Yeokdaegeum Yeongji Seolgyesa,The Greatest Estate Developer,역대급 영지 설계사,MANGA,48794,89,2021-08-05,,RELEASING,0.0,0.0
+140475,Kaoru Hana wa Rin to Saku,The Fragrant Flower Blooms With Dignity,薫る花は凛と咲く,MANGA,64145,88,2021-10-21,,RELEASING,0.0,0.0
+140495,Tamon-kun Ima Docchi!?,Tamon’s B-Side,多聞くん今どっち!?,MANGA,4880,77,2021-10-20,,RELEASING,0.0,0.0
+140951,Killer-ga Sarange Ppajyeosseul Ttae,Killer Crush,킬러가 사랑에 빠졌을 때,MANGA,3388,78,2021-09-02,2024-08-31,FINISHED,77.0,0.0
+141013,Nampyeoneul Nae Pyeoneuro Mandeuneun Bangbeop,How to Win My Husband Over,남편을 내 편으로 만드는 방법,MANGA,16552,81,2021-10-21,,RELEASING,0.0,0.0
+141124,Jibun no Karada wo Yurusu made,Until I Love Myself: The Journey of a Nonbinary Manga Artist,女の体をゆるすまで,MANGA,1760,76,2020-08-27,2021-06-10,FINISHED,20.0,2.0
+141560,Fake Fact Lips,Fake Fact Lips,フェイクファクトリップス,MANGA,2238,77,2020-04-24,2021-03-24,FINISHED,7.0,1.0
+141756,"Qing Qifu Wo Ba, Eyi Xiaojie!","Please Bully Me, Miss Villainess!",请欺负我吧，恶役小姐！,MANGA,8276,80,2021-09-26,,RELEASING,0.0,0.0
+142201,Toutou Cang Bu Zhu,My Secret Crush,偷偷藏不住,MANGA,2826,78,2021-07-15,,RELEASING,0.0,0.0
+142254,Amuteun Ropan Matseumnida,Another Typical Fantasy Romance,아무튼 로판 맞습니다,MANGA,5208,77,2021-11-23,,RELEASING,0.0,0.0
+142287,Wo! Tian Mìng Da Fanpai,I Am The Fated Villain,我！天命大反派,MANGA,13018,77,2021-11-08,,RELEASING,0.0,0.0
+142320,Tsukuritai Onna to Tabetai Onna,"She Loves to Cook, and She Loves to Eat",作りたい女と食べたい女,MANGA,5896,81,2021-01-08,,RELEASING,0.0,0.0
+142568,Takopii no Genzai,Takopi's Original Sin,タコピーの原罪,MANGA,26660,77,2021-12-10,2022-03-25,FINISHED,16.0,2.0
+142894,Siwoldeuga Naege Jipchakanda,My In-Laws are Obsessed with Me,시월드가 내게 집착한다,MANGA,10873,79,2021-11-27,,RELEASING,0.0,0.0
+142989,Mushoku Tensei: Isekai Ittara Honki Dasu - Shitsui no Majutsushi-hen,Not Recorded,無職転生 ～異世界行ったら本気だす～ 失意の魔術師編,MANGA,5435,79,2021-12-20,,RELEASING,0.0,0.0
+143003,Naje Tteuneun Byeol,Daytime Star,낮에 뜨는 별,MANGA,8931,82,2021-06-25,2023-01-06,FINISHED,77.0,0.0
+143031,Aishiteru Game wo Owarasetai,I Want to End This Love Game,愛してるゲームを終わらせたい,MANGA,15024,78,2021-12-24,,RELEASING,0.0,0.0
+143079,Kimi no Yoru ni Fureru,Touch Within the Abyss,君の夜に触れる,MANGA,5713,83,2021-08-20,2022-08-19,FINISHED,6.0,1.0
+143099,Yeongwonhan Neoui Geojinmal,Your Eternal Lies,영원한 너의 거짓말,MANGA,6467,81,2021-12-15,2023-09-26,FINISHED,80.0,0.0
+143216,"Haru Tsuzuru, Sakura Saku Kono Heya de",Not Recorded,春綴る、桜咲くこの部屋で,MANGA,2070,78,2021-07-14,2022-09-14,FINISHED,15.0,2.0
+143516,Exorcist wo Otosenai,Make the Exorcist Fall in Love,エクソシストを堕とせない,MANGA,11850,79,2021-12-15,,RELEASING,0.0,0.0
+143550,Shima-chan-chi no Tsugai Jijou,How My Daddies Became Mates,しまちゃん家の番事情,MANGA,2098,79,2021-05-20,2022-10-01,FINISHED,14.0,2.0
+143701,Kizumonogatari,Kizumonogatari: Wound Tale,傷物語,NOVEL,4708,88,2008-05-07,2008-05-07,FINISHED,18.0,1.0
+143703,Nisemonogatari,Nisemonogatari: Fake Tale,偽物語,NOVEL,2779,79,2008-09-01,2009-06-10,FINISHED,35.0,2.0
+143704,Nekomonogatari: Kuro,Nekomonogatari: Cat Tale (Black),猫物語（黒）,NOVEL,2577,79,2010-07-28,2010-07-28,FINISHED,13.0,1.0
+143719,"Mikadono Sanshimai wa Angai, Choroi.",Dealing with Mikadono Sisters Is a Breeze,帝乃三姉妹は案外、チョロい。,MANGA,9900,77,2021-12-22,,RELEASING,0.0,0.0
+143720,Kabukimonogatari,Kabukimonogatari: Dandy Tale,傾物語,NOVEL,2175,81,2010-12-24,2010-12-24,FINISHED,30.0,1.0
+143721,Hanamonogatari,Hanamonogatari: Flower Tale,花物語,NOVEL,2070,80,2011-03-29,2011-03-29,FINISHED,32.0,1.0
+143722,Otorimonogatari,Otorimonogatari: Decoy Tale,囮物語,NOVEL,2135,84,2011-06-29,2011-06-29,FINISHED,24.0,1.0
+143724,Onimonogatari,Onimonogatari: Demon Tale,鬼物語,NOVEL,1950,79,2011-09-28,2011-09-28,FINISHED,33.0,1.0
+143726,Koimonogatari,Koimonogatari: Love Tale,恋物語,NOVEL,2351,88,2011-12-20,2011-12-20,FINISHED,39.0,1.0
+143747,Owarimonogatari,Owarimonogatari: End Tale,終物語,NOVEL,2131,87,2013-10-21,2014-04-01,FINISHED,117.0,3.0
+143749,Zoku Owarimonogatari,Zoku Owarimonogatari: End Tale (Cont.),続終物語,NOVEL,1660,82,2014-09-17,2014-09-17,FINISHED,33.0,1.0
+143762,Wazamonogatari,Not Recorded,業物語,NOVEL,1475,79,2016-01-13,2016-01-13,FINISHED,49.0,1.0
+143763,Nademonogatari,Not Recorded,撫物語,NOVEL,1555,83,2016-07-27,2016-07-27,FINISHED,31.0,1.0
+143764,Musubimonogatari,Not Recorded,結物語,NOVEL,1391,80,2017-01-12,2017-01-12,FINISHED,31.0,1.0
+143838,Kubishime Romanticist: Ningen Shikkaku - Zerozaki Hitoshiki,Strangulation: Kubishime Romanticist,クビシメロマンチスト　人間失格・零崎人識,NOVEL,3098,87,2002-05-08,2002-05-08,FINISHED,9.0,1.0
+143840,Psycho Logical,Not Recorded,サイコロジカル,NOVEL,1919,80,2002-11-07,2002-11-07,FINISHED,11.0,2.0
+143841,Hitokui Magical: Satsuriku Kijutsu no Niounomiya Kyoudai,Not Recorded,ヒトクイマジカル　殺戮奇術の匂宮兄妹 ,NOVEL,1897,86,2003-06-05,2003-06-05,FINISHED,11.0,1.0
+143842,Nekosogi Radical,Not Recorded,ネコソギラジカル,NOVEL,1754,84,2005-02-08,2005-11-08,FINISHED,24.0,3.0
+144006,Naega Jukgiro Gyeolsimhan Geoseun,My Reason To Die,내가 죽기로 결심한 것은,MANGA,7529,76,2021-12-07,2023-09-12,FINISHED,100.0,7.0
+144599,Koudo ni Hattatsu Shita Igaku wa Mahou to Kubetsu ga Tsukanai,THE ISEKAI DOCTOR: Any sufficiently advanced medical science is indistinguishable from magic.,高度に発達した医学は魔法と区別がつかない,MANGA,5022,77,2021-12-22,,RELEASING,0.0,0.0
+144866,Akane-banashi,Akane-banashi,あかね噺,MANGA,21826,81,2022-02-14,,RELEASING,0.0,0.0
+144944,Hana Monogatari,Not Recorded,はなものがたり,MANGA,2585,77,2022-03-04,2023-07-19,FINISHED,16.0,3.0
+144946,Gachiakuta,Gachiakuta,ガチアクタ,MANGA,50576,80,2022-02-16,,RELEASING,0.0,0.0
+144957,Myeolmang Ihuui Segye,The World After the Fall,멸망 이후의 세계,MANGA,37403,77,2022-02-07,,RELEASING,0.0,0.0
+145157,Seishun Buta Yarou wa Petit Devil Kouhai no Yume wo Minai,Rascal Does Not Dream of Petite Devil Kohai,青春ブタ野郎はプチデビル後輩の夢を見ない,NOVEL,1763,80,2014-08-09,2014-08-09,FINISHED,6.0,1.0
+145159,Seishun Buta Yarou wa Logical Witch no Yume wo Minai,Rascal Does Not Dream of Logical Witch,青春ブタ野郎はロジカルウィッチの夢を見ない,NOVEL,1607,80,2015-01-10,2015-01-10,FINISHED,5.0,1.0
+145160,Seishun Buta Yarou wa Siscon Idol no Yume wo Minai,Rascal Does Not Dream of Siscon Idol,青春ブタ野郎はシスコンアイドルの夢を見ない,NOVEL,1455,77,2015-05-09,2015-05-09,FINISHED,5.0,1.0
+145162,Seishun Buta Yarou wa Orusuban Imouto no Yume wo Minai,Rascal Does Not Dream of a Sister Home Alone,青春ブタ野郎はおるすばん妹の夢を見ない,NOVEL,1414,82,2015-09-10,2015-09-10,FINISHED,6.0,1.0
+145163,Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai,Rascal Does Not Dream of a Dreaming Girl,青春ブタ野郎はゆめみる少女の夢を見ない,NOVEL,1395,84,2016-06-10,2016-06-10,FINISHED,5.0,1.0
+145164,Seishun Buta Yarou wa Hatsukoi Shoujo no Yume wo Minai,Rascal Does Not Dream of His First Love,青春ブタ野郎はハツコイ少女の夢を見ない,NOVEL,1330,83,2016-10-08,2016-10-08,FINISHED,4.0,1.0
+145165,Seishun Buta Yarou wa Odekake Sister no Yume wo Minai,Rascal Does Not Dream of a Sister Venturing Out,青春ブタ野郎はおでかけシスターの夢を見ない,NOVEL,1253,78,2018-04-10,2018-04-10,FINISHED,4.0,1.0
+145166,Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai,Rascal Does Not Dream of a Knapsack Kid ,青春ブタ野郎はランドセルガールの夢を見ない,NOVEL,1269,81,2018-10-10,2018-10-10,FINISHED,5.0,1.0
+145168,Seishun Buta Yarou wa Nightingale no Yume wo Minai,Rascal Does Not Dream of a Nightingale,青春ブタ野郎はナイチンゲールの夢を見ない,NOVEL,1049,77,2020-12-10,2020-12-10,FINISHED,5.0,1.0
+145268,Itou Junji Kessakushuu,Junji Ito Story Collection,伊藤潤二傑作集,MANGA,4144,80,2011-01-01,2013-08-01,FINISHED,119.0,11.0
+145531,Usuzumi no Hate,The Color of the End: Mission in the Apocalypse,ウスズミの果て,MANGA,9190,78,2022-03-15,,RELEASING,0.0,0.0
+145592,Suzumiya Haruhi no Shoushitsu,The Disappearance of Haruhi Suzumiya,涼宮ハルヒの消失,NOVEL,975,81,2004-07-31,2004-07-31,FINISHED,8.0,1.0
+145598,Suzumiya Haruhi no Kyougaku,The Surprise of Haruhi Suzumiya,涼宮ハルヒの驚愕,NOVEL,658,77,2011-05-25,2011-05-25,FINISHED,8.0,2.0
+146030,Konjiki no Gash!! II,Not Recorded,金色のガッシュ!! II,MANGA,2731,78,2022-03-14,,RELEASING,0.0,0.0
+146139,Eojjeodaboni Cheonsaengyeonbun,Maybe Meant to Be,어쩌다보니 천생연분,MANGA,23503,79,2022-02-10,2025-10-09,FINISHED,132.0,0.0
+146203,Blue Lock: EPISODE Nagi,BLUE LOCK -EPISODE NAGI-,ブルーロック-EPISODE 凪-,MANGA,8465,78,2022-06-09,2025-07-09,FINISHED,36.0,8.0
+146238,"Shi ni Modori no Mahou Gakkou Seikatsu wo, Moto Koibito to Prologue kara (※Tadashi Koukando wa Zero)",Re-Living My Life with a Boyfriend Who Doesn't Remember Me,死に戻りの魔法学校生活を、元恋人とプロローグから（※ただし好感度はゼロ）,MANGA,3138,81,2022-01-30,,RELEASING,0.0,0.0
+146314,Kimi no Yokogao wo Miteita,"I See Your Face, Turned Away",きみの横顔を見ていた,MANGA,4348,79,2022-04-13,,RELEASING,0.0,0.0
+146393,Pizza Baedalbuwa Gold Palace,The Pizza Delivery Man and the Gold Palace,피자배달부와 골드팰리스,MANGA,3660,78,2022-02-28,,RELEASING,0.0,0.0
+146656,Haehu,Reunion,해후,MANGA,1618,81,2022-03-18,2025-04-27,FINISHED,80.0,0.0
+146746,Umineko no Naku Koro ni Episode 4: Alliance of the Golden Witch,Not Recorded,うみねこのなく頃に - Episode 4: Alliance of the Golden Witch,NOVEL,399,79,2010-07-02,2010-08-03,FINISHED,0.0,2.0
+146747,Umineko no Naku Koro ni Chiru Episode 7: Requiem of the Golden Witch,Not Recorded,うみねこのなく頃に散 - Episode 7: Requiem of the Golden Witch,NOVEL,382,81,2015-06-03,2018-09-02,FINISHED,0.0,2.0
+146748,Umineko no Naku Koro ni Chiru Episode 6: Dawn of the Golden Witch,Not Recorded,うみねこのなく頃に散 - Episode 6: Dawn of the Golden Witch,NOVEL,387,78,2014-03-04,2014-06-03,FINISHED,0.0,2.0
+146749,Umineko no Naku Koro ni Chiru Episode 8: Twilight of the Golden Witch,Not Recorded,うみねこのなく頃に散 - Episode 8: Twilight of the Golden Witch,NOVEL,397,83,2018-09-30,2018-09-30,FINISHED,0.0,1.0
+146983,Sayonara Eri,"Goodbye, Eri",さよなら絵梨,ONE_SHOT,72038,85,2022-04-11,2022-04-11,FINISHED,1.0,1.0
+147149,Super no Ura de Yani Suu Futari,Smoking Behind the Supermarket with You,スーパーの裏でヤニ吸うふたり,MANGA,31845,80,2022-03-09,,RELEASING,0.0,0.0
+147468,Sukeban to Tenkousei,The Delinquent and the Transfer Student,スケバンと転校生,MANGA,4473,77,2020-08-01,2024-10-11,FINISHED,22.0,3.0
+147567,Hugung Scandal,The Crown Princess Scandal,후궁 스캔들,MANGA,1646,77,2021-10-29,2023-12-16,FINISHED,89.0,0.0
+147586,Binguijareul Wihan Teukye,The Perks of Being an S-Class Heroine,빙의자를 위한 특혜,MANGA,8642,78,2022-03-31,,RELEASING,0.0,0.0
+147587,Gyeolhon Jangsa,Marriage of Convenience,결혼 장사,MANGA,10031,78,2022-04-11,2024-09-17,FINISHED,141.0,0.0
+147972,Haikyuu!!: Tokubetsu Bangai-hen - Matsuri Futatabi,Haikyu!!: Special One-Shot - A Party Reignited,ハイキュー！！特別番外編 祭り再び,ONE_SHOT,3786,81,2022-04-25,2022-04-25,FINISHED,1.0,0.0
+147997,Seihantai na Kimi to Boku,You and I are Polar Opposites,正反対な君と僕,MANGA,13735,78,2022-05-02,2024-11-25,FINISHED,68.0,8.0
+148082,Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta,I Made Friends with the Second Prettiest Girl in My Class,クラスで２番目に可愛い女の子と友だちになった,MANGA,8176,78,2022-07-27,,RELEASING,0.0,0.0
+148305,Akuyaku Reijou no Naka no Hito: Danzai Sareta Tenseisha no Tame Usotsuki Heroine ni Fukushuu Itashimasu,Not Recorded,悪役令嬢の中の人〜断罪された転生者のため嘘つきヒロインに復讐いたします〜,MANGA,8192,82,2021-11-19,2025-05-29,FINISHED,36.0,6.0
+149332,Geomsulmyeongga Mangnaeadeul,The Swordmaster's Son,검술명가 막내아들,MANGA,35596,79,2022-04-30,,RELEASING,0.0,0.0
+149544,Ki ni Natteru Hito ga Otoko Janakatta,The Guy She Was Interested In Wasn't a Guy at All,気になってる人が男じゃなかった,MANGA,41209,83,2022-04-10,,RELEASING,0.0,0.0
+149756,Gajja Dongmaeng,Our Secret Alliance,가짜 동맹,MANGA,6479,79,2022-01-18,2023-06-27,FINISHED,75.0,5.0
+150170,Ending Maker,Ending Maker,엔딩메이커,MANGA,10893,77,2022-05-29,,RELEASING,0.0,0.0
+150378,Gokurakugai,Gokurakugai,極楽街,MANGA,36302,76,2022-07-04,,RELEASING,0.0,0.0
+150440,Ruri Dragon,RuriDragon,ルリドラゴン,MANGA,28611,77,2022-06-13,,RELEASING,0.0,0.0
+150836,Academy Wijangchwieopdanghaetda,The Academy's Undercover Professor,아카데미에 위장취업당했다,MANGA,18549,77,2022-06-04,,RELEASING,0.0,0.0
+151512,Bireomeogeul Hwansaeng,My Blasted Reincarnated Life,빌어먹을 환생,MANGA,30102,78,2022-06-22,,RELEASING,0.0,0.0
+151808,Lycoris Recoil,Lycoris Recoil,リコリス・リコイル,MANGA,3819,77,2022-09-05,,RELEASING,0.0,0.0
+151909,Mietemasu yo! Aizawa-san,Not Recorded,見えてますよ! 愛沢さん,MANGA,3966,77,2022-07-01,,RELEASING,0.0,0.0
+152128,Soseol Sok Extra,The Novel's Extra,소설 속 엑스트라,MANGA,23620,77,2022-06-30,,RELEASING,0.0,0.0
+153007,Sensou Kyoushitsu,The Bugle Call: Song of War,戦奏教室,MANGA,7441,82,2022-06-03,,RELEASING,0.0,0.0
+153432,Sasinpyowol,The Reaper,사신표월,MANGA,18652,78,2022-07-15,,RELEASING,0.0,0.0
+153513,Defense Game Pokguni Doeeotda,Tyrant of the Tower Defense Game,디펜스 게임의 폭군이 되었다,MANGA,13012,78,2022-08-05,,RELEASING,0.0,0.0
+153726,Smyrna & Capri,Smyrna and Capri,스미르나 & 카프리,MANGA,2377,80,2022-08-10,2024-01-31,FINISHED,70.0,0.0
+154159,Zhe Ge Hun Fanzheng Ye Yao Wandan,The Broken Ring: This Marriage Will Fail Anyway,这个婚反正也要完蛋,MANGA,8719,78,2022-06-30,,RELEASING,0.0,0.0
+154258,"Dingji Qiyun, Qiaoqiao Xiulian Qian Nian","Lucky Me: I Secretly Cultivated for 1,000 Years",顶级气运，悄悄修炼千年,MANGA,7836,79,2022-08-05,,RELEASING,0.0,0.0
+154349,Youchien WARS,Kindergarten Wars,幼稚園WARS,MANGA,13548,77,2022-09-15,,RELEASING,0.0,0.0
+154361,Debut Mot Hamyeon Jungneun Byeong Geollim,Debut or Die!,데뷔 못 하면 죽는 병 걸림,MANGA,4530,79,2022-08-01,,RELEASING,0.0,0.0
+154474,Cheol-Su-reul Guhasio,Cheolsu Saves the World,철수를 구하시오,MANGA,3238,78,2022-03-03,2023-05-03,FINISHED,69.0,0.0
+155108,Kemutai Hanashi,Not Recorded,煙たい話,MANGA,1346,78,2021-11-01,,RELEASING,0.0,0.0
+155465,Merry Marbling,Merry Marbling,메리 마블링,MANGA,2148,78,2022-08-10,2025-09-09,FINISHED,129.0,0.0
+155471,Naneun Amy-reul Saranghae,I Love Amy,나는 에이미를 사랑해,MANGA,8042,81,2022-01-26,2023-06-07,FINISHED,56.0,4.0
+155485,Dungeon Gyeonmullok,Dungeon Odyssey,던전 견문록,MANGA,14582,78,2022-09-26,,RELEASING,0.0,0.0
+155583,Toumei na Ai no Utsuwa,The Vessel of a Transparent Love,透明な愛のうつわ,MANGA,1156,77,2020-10-24,2022-02-25,FINISHED,7.0,1.0
+155713,"Bungou Stray Dogs: Dazai, Chuuya, Juugosai","Bungo Stray Dogs: Dazai, Chuuya, Age Fifteen",文豪ストレイドッグス 太宰、中也、十五歳,MANGA,1286,79,2022-09-26,2024-08-26,FINISHED,23.0,4.0
+156031,Museru Kurai no Ai wo Ageru,Choking on Love,むせるくらいの愛をあげる,MANGA,10531,78,2022-10-24,,RELEASING,0.0,0.0
+156303,Telework Yotabanashi,Home Office Romance,テレワァク与太話,MANGA,12224,80,2022-11-02,2023-04-13,FINISHED,20.0,1.0
+156723,Kono Te wo Hanasanai de,Never Let Go,この手を離さないで,MANGA,903,78,2021-05-18,2024-08-16,FINISHED,19.0,3.0
+158108,Tsumetakute Yawaraka,Pink Candy Kiss,冷たくて 柔らか,MANGA,3966,78,2022-11-28,,RELEASING,0.0,0.0
+158672,Tenmaku no Jaadugar,A Witch's Life in Mongol,天幕のジャードゥーガル,MANGA,2035,77,2021-09-25,,RELEASING,0.0,0.0
+158706,Angnyeoraseo Pyeonhago Joeundeyo?,The Perks of Being a Villainess,악녀라서 편하고 좋은데요?,MANGA,9434,78,2022-11-30,,RELEASING,0.0,0.0
+159009,Sylph no Hanahime,The Flower Princess of Sylph,シルフの花姫,MANGA,1969,77,2022-12-20,2024-04-23,CANCELLED,19.0,3.0
+159142,Hotaru no Yomeiri,Firefly Wedding,ホタルの嫁入り,MANGA,14437,79,2023-01-01,,RELEASING,79.0,0.0
+159212,"Tsuihou Sareru Tabi ni Sukiru wo te ni Ireta Ore ga, 100 no Isekai de 2-shuume Musou",Not Recorded,追放されるたびにスキルを手に入れた俺が、100の異世界で2周目無双,MANGA,9005,81,2022-07-26,,RELEASING,0.0,0.0
+159436,Eommaga Gyeyakgyeolhon Haetda,Mother's Contract Marriage,엄마가 계약결혼 했다,MANGA,5695,78,2022-12-23,,RELEASING,0.0,0.0
+159441,Pick Me Up!,Pick Me Up,픽 미 업!,MANGA,32912,83,2022-12-28,,RELEASING,0.0,0.0
+159925,Kono Koi wo Hoshi ni wa Negawanai,Not Recorded,この恋を星には願わない,MANGA,3585,79,2023-02-10,,RELEASING,25.0,5.0
+159930,Muhanui Mabeopsa,The Infinite Mage,무한의 마법사,MANGA,30567,79,2022-12-30,,RELEASING,0.0,0.0
+159977,"Shuuniichido Classmate wo Kau Hanashi: Futari no Jikan, Iiwake no Gosen Yen",Not Recorded,週に一度クラスメイトを買う話 ～ふたりの時間、言い訳の五千円～,NOVEL,1887,79,2023-02-17,,RELEASING,0.0,0.0
+160454,Baeuroseo Salgetda,To Be an Actor,배우로서 살겠다,MANGA,4266,77,2022-09-30,2025-09-09,FINISHED,140.0,0.0
+160455,Boku no Papa to Papa no Hanashi,All About My Two Dads,ぼくのパパとパパの話,MANGA,1331,82,2022-06-02,,RELEASING,0.0,0.0
+160651,Futarijime Romantic,Not Recorded,ふたりじめロマンチック,MANGA,4750,79,2023-01-24,2024-02-24,FINISHED,13.0,3.0
+161477,Zenbu Kowashite Jigoku de Aishite,Not Recorded,ぜんぶ壊して地獄で愛して,MANGA,5867,76,2023-02-17,,RELEASING,0.0,0.0
+161929,40 made ni Shitai 10 no Koto,10 Things I Want to Do Before I Turn 40,40までにしたい10のこと,MANGA,1727,77,2022-06-23,,RELEASING,0.0,0.0
+163002,Chameleon wa Tenohira ni Koi wo Suru.,Love in the Palm of His Hand,カメレオンはてのひらに恋をする。,MANGA,1447,80,2023-01-01,,RELEASING,0.0,0.0
+163400,Bocchi the Rock! Gaiden: Hiroi Kikuri no Fukazake Nikki,Bocchi the Rock! Side Story: Kikuri Hiroi's Heavy-Drinking Diary,ぼっち・ざ・ろっく！外伝　廣井きくりの深酒日記,MANGA,3748,77,2023-07-09,,RELEASING,0.0,0.0
+163408,Muse On Yumyeong,Muse on Fame,뮤즈 온 유명,MANGA,2561,77,2022-10-19,2024-08-07,FINISHED,96.0,0.0
+163434,Kimi to Nara Koi wo Shite Mite mo,"If It's You, I Might Try Falling in Love",君となら恋をしてみても,MANGA,1625,77,2021-04-30,,RELEASING,0.0,0.0
+163824,Cheolhyeolgeomga Sanyanggaeui Hoegwi,Revenge of the Baskerville Bloodhound,철혈검가 사냥개의 회귀,MANGA,35090,80,2023-04-14,,RELEASING,0.0,0.0
+163923,Isshou Senkin,ST✰R: Strike it Rich ,一勝千金,MANGA,8435,77,2023-05-01,,RELEASING,0.0,0.0
+164263,Koiseyo Mayakashi Tenshi-domo,"Fall in Love, You False Angels",恋せよまやかし天使ども,MANGA,6846,78,2023-04-24,,RELEASING,0.0,0.0
+164581,Koi yori Aoku,Not Recorded,恋より青く,MANGA,4303,79,2023-04-28,,RELEASING,0.0,0.0
+164599,Heunhan Binguimurin Jul Aratda,Not Your Typical Reincarnation Story,흔한 빙의물인 줄 알았다,MANGA,8097,77,2023-04-04,2025-08-26,FINISHED,115.0,0.0
+164857,Game Sok Babarian-euro Saranamgi,Surviving the Game as a Barbarian,게임 속 바바리안으로 살아남기,MANGA,14448,78,2023-04-19,,RELEASING,0.0,0.0
+165131,Mushoku Tensei: Dasoku-hen,Mushoku Tensei: Redundant Reincarnation,無職転生 ～蛇足編～,NOVEL,2370,83,2023-06-23,,RELEASING,0.0,0.0
+165485,NARUTO Gaiden: Uzu no Naka no Tsumujikaze,Naruto: The Whorl Within the Spiral,NARUTO-ナルト-外伝 ～渦の中のつむじ風～,ONE_SHOT,6989,79,2023-07-17,2023-07-17,FINISHED,1.0,0.0
+165673,Nerd Project,Nerd Project,Nerd Project,MANGA,3087,79,2023-05-05,,RELEASING,0.0,0.0
+165751,Daraku Kazokuron,Dysfunctional Family Theory,堕落家族論,MANGA,2514,78,2022-07-29,2024-05-29,FINISHED,13.0,2.0
+165881,Ikusamonogatari,Not Recorded,戦物語,NOVEL,855,81,2023-05-17,2023-05-17,FINISHED,25.0,1.0
+166352,Ignat no Hanayome,Bride of Ignat,イグナートの花嫁,MANGA,2247,79,2023-06-16,,RELEASING,0.0,0.0
+166658,Nahonja Tabeseo Nongsa,The Top Dungeon Farmer,나혼자 탑에서 농사,MANGA,8755,78,2023-04-20,,RELEASING,0.0,0.0
+167422,Mairimashita! Iruma-kun if: Episode of Ma-fia,Welcome to Demon School! Iruma-kun: IruMafia Edition,魔入りました！入間くん if Episode of 魔フィア,MANGA,2589,81,2023-09-12,,RELEASING,0.0,0.0
+167886,Iutjim Guild-won,Virtual Strangers,이웃집 길드원,MANGA,4395,79,2023-06-13,,RELEASING,0.0,0.0
+168002,Kami no Fune de Nemuru,Sleeping on Paper Boats,紙の舟で眠る,MANGA,2097,79,2023-05-19,2023-11-10,FINISHED,9.0,2.0
+168264,Chiguhagu na Kiss,Clumsy Kiss,ちぐはぐなキス,MANGA,1384,78,2023-01-25,2024-03-25,FINISHED,8.0,1.0
+168509,Hae Tteuneun Jip,Our Sunny Days,해 뜨는 집,MANGA,2619,83,2023-08-16,,RELEASING,0.0,0.0
+168656,Geujeo Yeomyeongilppun,The Dawn to Come,그저 여명일뿐,MANGA,6920,80,2023-08-21,2025-05-11,FINISHED,69.0,0.0
+168727,Kimi to Uchuu wo Aruku Tame ni,Spacewalking With You,君と宇宙を歩くために,MANGA,2267,80,2023-06-26,,RELEASING,0.0,0.0
+168843,Xiao Mogu,Little Mushroom,小蘑菇,MANGA,2355,83,2023-08-17,,RELEASING,0.0,0.0
+168984,Phantom Busters,Phantom Busters,ファントムバスターズ,MANGA,5645,79,2023-08-04,,RELEASING,0.0,0.0
+169008,Moksaekjeonsang: Mongri,Under the Greenlight: In Dreams,녹색전상 : 몽리,MANGA,2003,78,2023-09-04,2024-11-14,FINISHED,41.0,0.0
+169272,Mayonaka Heart Tune,Tune In to the Midnight Heart,真夜中ハートチューン,MANGA,11507,82,2023-09-20,,RELEASING,0.0,0.0
+169355,Kagurabachi,Kagurabachi,カグラバチ,MANGA,53339,77,2023-09-18,,RELEASING,0.0,0.0
+169386,"Nagahama To Be, or Not To Be","Nagahama to Be, or Not to Be","長浜To Be, or Not To Be",MANGA,1797,78,2023-01-30,,RELEASING,0.0,0.0
+169904,Ogami Tsumiki to Kinichijou.,Tsumiki Ogami's Not-So-Ordinary Life,尾守つみきと奇日常。,MANGA,10752,77,2023-10-11,,RELEASING,0.0,0.0
+170179,Dierci Benghuai,Second Eruption,第二次崩坏,MANGA,444,78,2019-06-21,2019-09-14,FINISHED,66.0,6.0
+170399,Tower Dungeon,Tower Dungeon,タワーダンジョン,MANGA,10104,80,2023-10-26,,RELEASING,0.0,0.0
+170400,Byeoreul Pumeun Swordmaster,The Stellar Swordmaster,별을 품은 소드마스터,MANGA,18632,80,2023-09-19,,RELEASING,0.0,0.0
+170688,Killer Pedro,Killer Peter,킬러 배드로,MANGA,9591,77,2023-09-15,,RELEASING,0.0,0.0
+170755,Dr. STONE 4D SCIENCE,Dr. STONE: 4D Science,Dr. STONE 4D SCIENCE,MANGA,2921,76,2023-11-06,2023-12-25,FINISHED,3.0,0.0
+170894,Mallep Player-ui 100-beonjjae Hoegwi,The 100th Regression of the Max-Level Player,만렙 플레이어의 100번째 회귀,MANGA,16751,77,2023-10-31,,RELEASING,0.0,0.0
+171068,Wollum Jogyonim,One-Room TA,원룸 조교님,MANGA,1629,78,2022-09-20,,RELEASING,0.0,0.0
+171729,LOVE-BULLET,Love Bullet,ラブ・バレット,MANGA,12325,83,2023-10-05,,RELEASING,0.0,0.0
+172619,Academy-eseo Saranamgi,The Extra’s Academy Survival Guide,아카데미에서 살아남기,MANGA,20093,81,2023-12-28,,RELEASING,0.0,0.0
+172729,Kesa mo Yuraretemasu,They Are Still Being Shaken This Morning,今朝も揺られてます,MANGA,8290,79,2024-02-09,,RELEASING,0.0,0.0
+173062,Houkago Kitaku Biyori,Not Recorded,放課後帰宅びより,MANGA,7083,82,2023-08-01,,RELEASING,0.0,0.0
+173343,Futsuu no Keionbu,Girl meets Rock!,ふつうの軽音部,MANGA,3855,77,2024-01-14,,RELEASING,0.0,0.0
+174233,Majo to Youhei,The Witch and the Mercenary,魔女と傭兵,MANGA,3438,76,2024-01-28,,RELEASING,0.0,0.0
+174501,Kimi no Yoru ni Fureru: Bangai-hen - Kimi to Aruku Yoru,Not Recorded,君の夜に触れる  番外編 ～君と歩く夜～,ONE_SHOT,773,77,2024-02-16,2024-02-16,FINISHED,1.0,0.0
+174790,Tonari no Neko to Koi Shirazu,Learning to Love My Cat-like Classmate,となりの猫と恋知らず,MANGA,8775,78,2023-11-21,,RELEASING,0.0,0.0
+174875,Kimi ni Okuru Eien,Not Recorded,君に贈る永遠,ONE_SHOT,2497,85,2024-02-17,2024-02-17,FINISHED,1.0,1.0
+175946,Goeryeok Nansin,"Myst, Might, Mayhem",괴력 난신,MANGA,12757,82,2024-03-04,,RELEASING,0.0,0.0
+176854,Akumade Amai Watashi no Kanojo,Not Recorded,あくまであまい私の彼女,MANGA,4027,77,2024-04-05,,RELEASING,0.0,4.0
+177373,Cuo Liao,Love by Mistake,错撩,MANGA,1965,78,2024-01-16,,RELEASING,0.0,0.0
+177706,Oneulman Saneun Gisa,The Knight Only Lives Today,오늘만 사는 기사,MANGA,15155,83,2024-05-17,,RELEASING,0.0,0.0
+180121,Igijeong Yeonaeron,Selfish Romance,이기적 연애론,MANGA,3231,77,2024-05-21,,RELEASING,0.0,0.0
+180335,Mahou Shoujo Dandelion,Magical Girl Dandelion,魔法少女ダンデライオン,MANGA,2863,76,2024-08-20,,RELEASING,0.0,0.0
+180752,Madan no Ichi,Ichi the Witch,魔男のイチ,MANGA,18239,78,2024-09-09,,RELEASING,0.0,0.0
+180891,Jeoldaehoegwi,Absolute Regression,절대회귀,MANGA,9913,79,2024-07-29,,RELEASING,0.0,0.0
+181313,Chang Eomneun Bang,Legroom,창 없는 방,MANGA,1258,77,,2025-07-18,FINISHED,18.0,0.0
+181542,Cheongchun Lovesome,Seasons of Lovesome,청춘 러브썸,MANGA,2559,78,2024-08-12,,RELEASING,0.0,0.0
+182066,Hoegwihan Yongbyeongeun Da Gyehoegi Itda,The Regressed Mercenary Has a Plan,회귀한 용병은 다 계획이 있다,MANGA,13459,79,2024-09-23,,RELEASING,0.0,0.0
+182270,Cheoeumui Yeoreum,A First of Summers,처음의 여름,MANGA,1595,78,2024-09-26,,RELEASING,0.0,0.0
+182516,Hunter-neun Joyonghi Salgo Sipda,The Hunter's Gonna Lay Low,헌터는 조용히 살고 싶다,MANGA,3019,78,2024-09-17,,RELEASING,0.0,0.0
+183343,Belladonna no Koibito,Not Recorded,ベラドンナの恋人,ONE_SHOT,1812,79,2024-10-20,2024-10-20,FINISHED,1.0,0.0
+186990,Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e: 3-nensei-hen,Classroom of the Elite: Year 3,ようこそ実力至上主義の教室へ　３年生編,NOVEL,1203,78,2025-03-24,,RELEASING,0.0,0.0
+187189,Eommareul Mannareo Ganeun Gil,On the Way to Meet Mom,엄마를 만나러 가는 길,MANGA,5998,86,2024-11-25,,RELEASING,0.0,2.0
+187427,Akdangeun Salgo Sipda,The Villain's Survival Route,악당은 살고 싶다,MANGA,8227,77,2025-02-28,,RELEASING,0.0,0.0
+187944,Nae Choeaeneun Makchareul Tanda,My Bias Gets on the Last Train,내 최애는 막차를 탄다,MANGA,9075,85,2024-12-14,,RELEASING,0.0,0.0
+188249,Guimi Zhi Zhu,Lord of Mysteries,诡秘之主,MANGA,2525,78,2025-03-04,,RELEASING,0.0,0.0
+188602,Release Your Persona,Not Recorded,릴리즈 유어 페르소나,MANGA,771,77,2025-02-17,2025-02-17,FINISHED,9.0,0.0
+194302,#Gal to Gal no Yuri,Not Recorded,#ギャルとギャルの百合,MANGA,2375,77,2025-06-10,,RELEASING,0.0,0.0
+194727,Hoegwisuseonjeon,A Regressor's Tale of Cultivation,회귀수선전,MANGA,3049,77,2025-06-19,,RELEASING,0.0,0.0
